@@ -1,5 +1,5 @@
 from urllib.request import urlopen
-url = 'https://en.wikipedia.org/wiki/Help:IPA/Mongolian'
+url = 'https://en.wikipedia.org/wiki/Help:IPA/Standard_German'
 page = urlopen(url)
 html_bytes = page.read()
 html = html_bytes.decode('utf-8')
@@ -47,10 +47,30 @@ def title_jump(index):
     html = html[index:len(html)]
     return html.find('title=')
 
-start = title_jump(start)
-recieved = mini_scan(start)
-print(recieved)
-start = recieved[1]
-start = title_jump(start)
-recieved.append(mini_scan(start)[0])
-print(recieved)
+def table_scan(index):
+    global html
+
+    table_data = []
+    scanning = True
+    while scanning:
+        ipa_dist = html.find('class="IPA"')
+        table_dist = html.find('</table>')
+
+        if ipa_dist < table_dist:
+            index = title_jump(index)
+            line_data = mini_scan(index)
+            index = line_data[1] # Sets new index
+            table_data.append(line_data[0])
+        else:
+            scanning = False
+
+    return table_data
+        
+data = table_scan(start)
+
+clean_data = []
+for row in data:
+    if "Voiced" in row[0] or "Voiceless" in row[0] or "Glottal" in row[0]:
+        clean_data.append(row)
+
+print(clean_data)
