@@ -66,11 +66,13 @@ def table_scan(index):
 
     return table_data
         
-data = table_scan(start)
+#data = table_scan(start)
 
-clean_data = []
-for row in data:
-    if "Voiced" in row[0] or "Voiceless" in row[0] or "Glottal" in row[0]:
-        clean_data.append(row)
+def clean_data(old_data):
+    new_data = []
+    for row in old_data:
+        if "Voiced" in row[0] or "Voiceless" in row[0] or "Glottal" in row[0]:
+            new_data.append(row)
+    return new_data
 
-print(clean_data)
+#print(clean_data)
