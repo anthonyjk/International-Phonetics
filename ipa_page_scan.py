@@ -75,4 +75,4 @@ def clean_data(old_data):
             new_data.append(row)
     return new_data
 
-#print(clean_data)
+#print(clean_data(data))

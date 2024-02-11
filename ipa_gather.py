@@ -1,4 +1,6 @@
 import ipa_page_scan as pg
+import csv_generator as cg
+import pandas as pd
 from urllib.request import urlopen
 
 std_url = "https://en.wikipedia.org/wiki/Help:IPA/Standard_German"
@@ -19,6 +21,11 @@ stock_url = 'https://en.wikipedia.org/wiki/'
 url_scans = [std_url]
 url_titles = ["Standard German"]
 
+# Temporary, checking CSV creating capabilities
+def check_create():
+    print("test")
+    list_data = pg.clean_data(pg.table_scan(pg.start))
+    cg.generate_csv(list_data, ["Name", "Symbol"], "GerIPAData")
 def link_scan(index):
     global url_scans
     global url_titles
@@ -49,7 +56,7 @@ def link_scan(index):
             url_scans.append(stock_url + text)
         elif html[index] == "<": # Only happens when scanning names
             url_titles.append(text)
-            
-        
 def div_scan(index):
     pass # End scan at </div>
+
+check_create()
