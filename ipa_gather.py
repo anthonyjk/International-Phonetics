@@ -15,9 +15,7 @@ start = html.find('<li>') + len('<li>') # Starting index
 if html[start + 1] == "<": # Skipping closing statements
     start += 1 # TODO: Deal with multi-dialect pages
 
-print(pg.url)
-
-stock_url = 'https://en.wikipedia.org/wiki/'
+stock_url = 'https://en.wikipedia.org'
 url_scans = [std_url]
 url_titles = ["Standard German"]
 
@@ -28,35 +26,41 @@ def check_create():
     cg.generate_csv(list_data, ["Name", "Symbol"], "GerIPAData")
 def link_scan(index):
     global url_scans
-    global url_titles
-    
-    data = []
+
     scanning = True
 
-    record = False
+    while scanning:
+        record = False
 
-    if html[index] == 't':
-        title_check = ""
-        for i in range(6):
-            title_check += html[index + i]
-        if title_check == "title=":
-            index += 7 # skip quotation mark
-            record = True
+        if html[index] == 'h':
+            href_check = ""
+            for i in range(5):
+                href_check += html[index + i]
+            if href_check == "href=":
+                index += 6 # skip quotation mark
+                record = True
 
-    if html[index] == ">":
-        pass
+        if html[index] == "/":
+            enddiv_check = ""
+            for i in range(4):
+                enddiv_check += html[index + i]
+            if enddiv_check == "/div":
+                scanning = False
 
-    text = ""
-    while record:
-        text += html[index]
+        text = ""
+        while record:
+            text += html[index]
+            index += 1
+
+            if html[index] == '"': # Looking for end statement
+                record = False
+                url_scans.append(stock_url + text)
         index += 1
 
-        if html[index] == '"': # Only happens when scanning 'title='
-            record = False
-            url_scans.append(stock_url + text)
-        elif html[index] == "<": # Only happens when scanning names
-            url_titles.append(text)
-def div_scan(index):
-    pass # End scan at </div>
-
-check_create()
+link_scan(start)
+for i in range(3):
+    index = pg.set_html(url_scans[i])
+    title = url_scans[i][len('https://en.wikipedia.org/wiki/Help:IPA/'):]
+    data = pg.table_scan(index)
+    data = pg.clean_data(data)
+    cg.generate_csv(data, ["Name", "Symbol"], title)

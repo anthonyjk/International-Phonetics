@@ -1,12 +1,16 @@
 from urllib.request import urlopen
-url = 'https://en.wikipedia.org/wiki/Help:IPA/Standard_German'
-page = urlopen(url)
-html_bytes = page.read()
-html = html_bytes.decode('utf-8')
+html = None
+def set_html(link):
+    global html
+    url = link
+    page = urlopen(url)
+    html_bytes = page.read()
+    html = html_bytes.decode('utf-8')
 
-wikitable_index = html.find('<table class="wikitable"')
-html = html[wikitable_index:len(html)] # Cut off all text before wikitable
-start = html.find('class="IPA"') + len('class="IPA"') # Starting index
+    wikitable_index = html.find('<table class="wikitable"')
+    html = html[wikitable_index:len(html)] # Cut off all text before wikitable
+    start = html.find('class="IPA"') + len('class="IPA"') # Starting index
+    return start
 
 def mini_scan(index): # Scans a single line for IPA name and symbol
     data = []
