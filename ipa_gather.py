@@ -19,11 +19,6 @@ stock_url = 'https://en.wikipedia.org'
 url_scans = [std_url]
 url_titles = ["Standard German"]
 
-# Temporary, checking CSV creating capabilities
-def check_create():
-    print("test")
-    list_data = pg.clean_data(pg.table_scan(pg.start))
-    cg.generate_csv(list_data, ["Name", "Symbol"], "GerIPAData")
 def link_scan(index):
     global url_scans
 
@@ -58,9 +53,19 @@ def link_scan(index):
         index += 1
 
 link_scan(start)
-for i in range(3):
+master_data = []
+master_data.append([])
+master_data.append([])
+master_data.append([])
+for i in range(len(url_scans)):
     index = pg.set_html(url_scans[i])
     title = url_scans[i][len('https://en.wikipedia.org/wiki/Help:IPA/'):]
     data = pg.table_scan(index)
     data = pg.clean_data(data)
-    cg.generate_csv(data, ["Name", "Symbol"], title)
+    for set in data:
+        master_data[0].append(title)
+        master_data[1].append(set[0])
+        master_data[2].append(set[1])
+
+print(master_data)
+cg.generate_csv(master_data, ["Language", "Name", "Symbol"], "ipa_collection")
