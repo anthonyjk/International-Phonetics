@@ -1,4 +1,5 @@
 #ipa_data <- read.csv('ipa_collection.csv')
+library(tidyverse)
 
 #Important: Sort data
 occur <- table(ipa_data$Name)
@@ -31,8 +32,6 @@ for(i in 1:length(top$name)) {
 # "others" column
 not_top_freq <- sum(head(occurances$frequency, nrow(occurances) - 5))
 top[nrow(top)+1,] <- c("others", not_top_freq, '')
-
-library(tidyverse)
 
 # Pie Chart
 symbol_pos = c(0, 75, 210, 350, 475, 620)

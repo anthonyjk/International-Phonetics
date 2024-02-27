@@ -74,6 +74,6 @@ def table_scan(index):
 def clean_data(old_data):
     new_data = []
     for row in old_data:
-        if "Voiced" in row[0] or "Voiceless" in row[0] or "Glottal" in row[0]:
+        if ("Voiced" in row[0] or "Voiceless" in row[0] or "Glottal" in row[0]) and (len(row[1]) < 3):
             new_data.append(row)
     return new_data
