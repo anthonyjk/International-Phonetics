@@ -1,0 +1,3808 @@
+,Language,Name,Symbol
+0,Standard_German,Voiced bilabial plosive,b
+1,Standard_German,Voiceless velar fricative,x
+2,Standard_German,Voiceless palatal fricative,ç
+3,Standard_German,Voiced alveolar plosive,d
+4,Standard_German,Voiceless labiodental fricative,f
+5,Standard_German,Voiced velar plosive,ɡ
+6,Standard_German,Voiceless glottal fricative,h
+7,Standard_German,Voiced palatal approximant,j
+8,Standard_German,Voiceless velar plosive,k
+9,Standard_German,Voiced alveolar lateral approximant,l
+10,Standard_German,Voiced bilabial nasal,m
+11,Standard_German,Voiced alveolar nasal,n
+12,Standard_German,Voiced velar nasal,ŋ
+13,Standard_German,Voiceless bilabial plosive,p
+14,Standard_German,Voiceless labiodental affricate,pf
+15,Standard_German,Voiced uvular fricative,ʁ
+16,Standard_German,Voiced alveolar trill,r
+17,Standard_German,Voiced alveolar fricative,z
+18,Standard_German,Voiceless alveolar fricative,s
+19,Standard_German,Voiceless alveolar fricative,s
+20,Standard_German,Voiceless postalveolar fricative,ʃ
+21,Standard_German,Voiceless alveolar plosive,t
+22,Standard_German,Voiceless postalveolar affricate,tʃ
+23,Standard_German,Voiced labiodental fricative,v
+24,Standard_German,Voiceless alveolar affricate,ts
+25,Standard_German,Glottal stop,ʔ
+26,Standard_German,Voiced postalveolar affricate,dʒ
+27,Standard_German,Voiced postalveolar fricative,ʒ
+28,Standard_German,Voiced alveolar approximant,ɹ
+29,Standard_German,Voiced dental fricative,ð
+30,Standard_German,Voiceless dental fricative,θ
+31,Standard_German,Voiced labial–velar approximant,w
+32,Adyghe,Voiced bilabial plosive,b
+33,Adyghe,Voiceless alveolo-palatal fricative,ɕ
+34,Adyghe,Voiced alveolar plosive,d
+35,Adyghe,Voiced alveolar affricate,dz
+36,Adyghe,Voiced postalveolar affricate,dʒ
+37,Adyghe,Voiceless labiodental fricative,f
+38,Adyghe,Voiced velar fricative,ɣ
+39,Adyghe,Voiceless pharyngeal fricative,ħ
+40,Adyghe,Voiced palatal approximant,j
+41,Adyghe,Voiced alveolar lateral fricative,l
+42,Adyghe,Voiceless alveolar lateral fricative,ɬ
+43,Adyghe,Voiced bilabial nasal,m
+44,Adyghe,Voiced alveolar nasal,n
+45,Adyghe,Voiceless bilabial plosive,p
+46,Adyghe,Voiceless uvular plosive,q
+47,Adyghe,Voiced alveolar trill,r
+48,Adyghe,Voiced uvular fricative,ʁ
+49,Adyghe,Voiceless alveolar fricative,s
+50,Adyghe,Voiceless postalveolar fricative,ʃ
+51,Adyghe,Voiceless retroflex fricative,ʂ
+52,Adyghe,Voiceless alveolar plosive,t
+53,Adyghe,Voiceless alveolar affricate,ts
+54,Adyghe,Voiceless postalveolar affricate,tʃ
+55,Adyghe,Voiceless retroflex affricate,tʂ
+56,Adyghe,Voiced labial–velar approximant,w
+57,Adyghe,Voiceless velar fricative,x
+58,Adyghe,Voiceless uvular fricative,χ
+59,Adyghe,Voiced alveolar fricative,z
+60,Adyghe,Voiced alveolo-palatal fricative,ʑ
+61,Adyghe,Voiced postalveolar fricative,ʒ
+62,Adyghe,Voiced retroflex fricative,ʐ
+63,Adyghe,Glottal stop,ʔ
+64,Adyghe,Voiceless velar plosive,k
+65,Adyghe,Voiced labiodental fricative,v
+66,Afrikaans,Voiced bilabial plosive,b
+67,Afrikaans,Voiced alveolar plosive,d
+68,Afrikaans,Voiceless labiodental fricative,f
+69,Afrikaans,Voiced glottal fricative,ɦ
+70,Afrikaans,Voiced palatal approximant,j
+71,Afrikaans,Voiceless velar plosive,k
+72,Afrikaans,Voiced alveolar lateral approximant,l
+73,Afrikaans,Voiced bilabial nasal,m
+74,Afrikaans,Voiced alveolar nasal,n
+75,Afrikaans,Voiced velar nasal,ŋ
+76,Afrikaans,Voiceless bilabial plosive,p
+77,Afrikaans,Voiced alveolar trill,r
+78,Afrikaans,Voiceless alveolar fricative,s
+79,Afrikaans,Voiceless postalveolar fricative,ʃ
+80,Afrikaans,Voiceless alveolar plosive,t
+81,Afrikaans,Voiceless postalveolar affricate,tʃ
+82,Afrikaans,Voiceless uvular fricative,χ
+83,Afrikaans,Voiced labiodental fricative,v
+84,Afrikaans,Voiced postalveolar fricative,ʒ
+85,Afrikaans,Glottal stop,ʔ
+86,Afrikaans,Voiced postalveolar affricate,dʒ
+87,Afrikaans,Voiced velar plosive,ɡ
+88,Afrikaans,Voiced labial–velar approximant,w
+89,Afrikaans,Voiced alveolar fricative,z
+90,Albanian,Voiced bilabial plosive,b
+91,Albanian,Voiceless palatal affricate,c
+92,Albanian,Voiced alveolar plosive,d
+93,Albanian,Voiced alveolar affricate,dz
+94,Albanian,Voiced postalveolar affricate,dʒ
+95,Albanian,Voiced dental fricative,ð
+96,Albanian,Voiceless labiodental fricative,f
+97,Albanian,Voiced velar plosive,ɡ
+98,Albanian,Voiceless glottal fricative,h
+99,Albanian,Voiced palatal approximant,j
+100,Albanian,Voiced palatal affricate,ɟ
+101,Albanian,Voiceless velar plosive,k
+102,Albanian,Voiced alveolar lateral approximant,l
+103,Albanian,Voiced bilabial nasal,m
+104,Albanian,Voiced alveolar nasal,n
+105,Albanian,Voiced palatal nasal,ɲ
+106,Albanian,Voiced velar nasal,ŋ
+107,Albanian,Voiceless bilabial plosive,p
+108,Albanian,Voiced alveolar trill,r
+109,Albanian,Voiced dental and alveolar taps and flaps,ɾ
+110,Albanian,Voiceless alveolar fricative,s
+111,Albanian,Voiceless postalveolar fricative,ʃ
+112,Albanian,Voiceless alveolar plosive,t
+113,Albanian,Voiceless alveolar affricate,ts
+114,Albanian,Voiceless postalveolar affricate,tʃ
+115,Albanian,Voiced labiodental fricative,v
+116,Albanian,Voiced alveolar fricative,z
+117,Albanian,Voiced postalveolar fricative,ʒ
+118,Albanian,Voiceless dental fricative,θ
+119,Arabic,Voiced palatal approximant,j
+120,Arabic,Voiced labial–velar approximant,w
+121,Arabic,Voiced bilabial plosive,b
+122,Arabic,Voiced alveolar plosive,d
+123,Arabic,Voiced alveolar plosive,d
+124,Arabic,Voiced postalveolar affricate,dʒ
+125,Arabic,Voiced dental fricative,ð
+126,Arabic,Voiced dental fricative,ð
+127,Arabic,Voiceless labiodental fricative,f
+128,Arabic,Voiceless glottal fricative,h
+129,Arabic,Voiceless pharyngeal fricative,ħ
+130,Arabic,Voiced palatal approximant,j
+131,Arabic,Voiceless velar plosive,k
+132,Arabic,Voiced alveolar lateral approximant,l
+133,Arabic,Voiced bilabial nasal,m
+134,Arabic,Voiced alveolar nasal,n
+135,Arabic,Voiceless uvular plosive,q
+136,Arabic,Voiced alveolar trill,r
+137,Arabic,Voiceless alveolar fricative,s
+138,Arabic,Voiceless alveolar fricative,s
+139,Arabic,Voiceless postalveolar fricative,ʃ
+140,Arabic,Voiceless alveolar plosive,t
+141,Arabic,Voiceless alveolar plosive,t
+142,Arabic,Voiceless dental fricative,θ
+143,Arabic,Voiced labial–velar approximant,w
+144,Arabic,Voiceless velar fricative,x
+145,Arabic,Voiceless uvular fricative,χ
+146,Arabic,Voiced velar fricative,ɣ
+147,Arabic,Voiced uvular fricative,ʁ
+148,Arabic,Voiced alveolar fricative,z
+149,Arabic,Glottal stop,ʔ
+150,Arabic,Voiced pharyngeal fricative,ʕ
+151,Arabic,Voiceless dental fricative,θ
+152,Arabic,Voiceless uvular plosive,q
+153,Arabic,Voiced alveolar trill,r
+154,Arabic,Voiceless uvular plosive,q
+155,Arabic,Voiced alveolar trill,r
+156,Arabic,Voiced velar plosive,ɡ
+157,Arabic,Voiced postalveolar fricative,ʒ
+158,Arabic,Voiceless uvular plosive,q
+159,Arabic,Voiced alveolar trill,r
+160,Arabic,Voiceless pharyngeal fricative,ħ
+161,Arabic,Voiced pharyngeal fricative,ʕ
+162,Arabic,Voiceless uvular plosive,q
+163,Arabic,Voiced alveolar trill,r
+164,Arabic,Voiceless pharyngeal fricative,ħ
+165,Arabic,Voiced pharyngeal fricative,ʕ
+166,Arabic,Voiceless uvular plosive,q
+167,Arabic,Voiced alveolar trill,r
+168,Arabic,Voiceless pharyngeal fricative,ħ
+169,Arabic,Voiced pharyngeal fricative,ʕ
+170,Arabic,Voiceless uvular plosive,q
+171,Arabic,Voiced alveolar trill,r
+172,Arabic,Voiceless pharyngeal fricative,ħ
+173,Arabic,Voiced pharyngeal fricative,ʕ
+174,Egyptian_Arabic,Glottal stop,ʔ
+175,Egyptian_Arabic,Voiced pharyngeal fricative,ʕ
+176,Egyptian_Arabic,Voiced bilabial plosive,b
+177,Egyptian_Arabic,Voiced alveolar plosive,d
+178,Egyptian_Arabic,Voiced alveolar plosive,d
+179,Egyptian_Arabic,Voiceless labiodental fricative,f
+180,Egyptian_Arabic,Voiced velar plosive,ɡ
+181,Egyptian_Arabic,Voiceless glottal fricative,h
+182,Egyptian_Arabic,Voiceless pharyngeal fricative,ħ
+183,Egyptian_Arabic,Voiced palatal approximant,j
+184,Egyptian_Arabic,Voiceless velar plosive,k
+185,Egyptian_Arabic,Voiced alveolar lateral approximant,l
+186,Egyptian_Arabic,Voiced bilabial nasal,m
+187,Egyptian_Arabic,Voiced alveolar nasal,n
+188,Egyptian_Arabic,Voiceless uvular plosive,q
+189,Egyptian_Arabic,Voiced dental and alveolar taps and flaps,ɾ
+190,Egyptian_Arabic,Voiceless alveolar fricative,s
+191,Egyptian_Arabic,Voiceless alveolar fricative,s
+192,Egyptian_Arabic,Voiceless postalveolar fricative,ʃ
+193,Egyptian_Arabic,Voiceless alveolar plosive,t
+194,Egyptian_Arabic,Voiceless alveolar plosive,t
+195,Egyptian_Arabic,Voiced labial–velar approximant,w
+196,Egyptian_Arabic,Voiceless velar fricative,x
+197,Egyptian_Arabic,Voiced velar fricative,ɣ
+198,Egyptian_Arabic,Voiced alveolar fricative,z
+199,Egyptian_Arabic,Voiced alveolar fricative,z
+200,Egyptian_Arabic,Voiceless bilabial plosive,p
+201,Egyptian_Arabic,Voiced labiodental fricative,v
+202,Egyptian_Arabic,Voiced postalveolar fricative,ʒ
+203,Hejazi_Arabic,Glottal stop,ʔ
+204,Hejazi_Arabic,Voiced pharyngeal fricative,ʕ
+205,Hejazi_Arabic,Voiced bilabial plosive,b
+206,Hejazi_Arabic,Voiced alveolar plosive,d
+207,Hejazi_Arabic,Voiced alveolar plosive,d
+208,Hejazi_Arabic,Voiced postalveolar affricate,dʒ
+209,Hejazi_Arabic,Voiced dental fricative,ð
+210,Hejazi_Arabic,Voiceless labiodental fricative,f
+211,Hejazi_Arabic,Voiced velar plosive,ɡ
+212,Hejazi_Arabic,Voiceless uvular plosive,q
+213,Hejazi_Arabic,Voiceless glottal fricative,h
+214,Hejazi_Arabic,Voiceless pharyngeal fricative,ħ
+215,Hejazi_Arabic,Voiced palatal approximant,j
+216,Hejazi_Arabic,Voiceless velar plosive,k
+217,Hejazi_Arabic,Voiced alveolar lateral approximant,l
+218,Hejazi_Arabic,Voiced bilabial nasal,m
+219,Hejazi_Arabic,Voiced alveolar nasal,n
+220,Hejazi_Arabic,Voiceless dental fricative,θ
+221,Hejazi_Arabic,Voiced alveolar trill,r
+222,Hejazi_Arabic,Voiceless alveolar fricative,s
+223,Hejazi_Arabic,Voiceless alveolar fricative,s
+224,Hejazi_Arabic,Voiceless postalveolar fricative,ʃ
+225,Hejazi_Arabic,Voiceless alveolar plosive,t
+226,Hejazi_Arabic,Voiceless alveolar plosive,t
+227,Hejazi_Arabic,Voiced labial–velar approximant,w
+228,Hejazi_Arabic,Voiceless velar fricative,x
+229,Hejazi_Arabic,Voiced velar fricative,ɣ
+230,Hejazi_Arabic,Voiced alveolar fricative,z
+231,Hejazi_Arabic,Voiced alveolar fricative,z
+232,Hejazi_Arabic,Voiced dental fricative,ð
+233,Hejazi_Arabic,Voiceless bilabial plosive,p
+234,Hejazi_Arabic,Voiced labiodental fricative,v
+235,Lebanese_Arabic,Voiced bilabial plosive,b
+236,Lebanese_Arabic,Voiced alveolar plosive,d
+237,Lebanese_Arabic,Voiced alveolar plosive,d
+238,Lebanese_Arabic,Voiceless labiodental fricative,f
+239,Lebanese_Arabic,Voiceless glottal fricative,h
+240,Lebanese_Arabic,Voiceless pharyngeal fricative,ħ
+241,Lebanese_Arabic,Voiceless velar plosive,k
+242,Lebanese_Arabic,Voiced alveolar lateral approximant,l
+243,Lebanese_Arabic,Voiced bilabial nasal,m
+244,Lebanese_Arabic,Voiced alveolar nasal,n
+245,Lebanese_Arabic,Voiced alveolar trill,r
+246,Lebanese_Arabic,Voiceless alveolar fricative,s
+247,Lebanese_Arabic,Voiceless alveolar fricative,s
+248,Lebanese_Arabic,Voiceless postalveolar fricative,ʃ
+249,Lebanese_Arabic,Voiceless alveolar plosive,t
+250,Lebanese_Arabic,Voiceless alveolar plosive,t
+251,Lebanese_Arabic,Voiceless velar fricative,x
+252,Lebanese_Arabic,Voiced velar fricative,ɣ
+253,Lebanese_Arabic,Voiced alveolar fricative,z
+254,Lebanese_Arabic,Voiced alveolar fricative,z
+255,Lebanese_Arabic,Voiced postalveolar fricative,ʒ
+256,Lebanese_Arabic,Glottal stop,ʔ
+257,Lebanese_Arabic,Voiced pharyngeal fricative,ʕ
+258,Lebanese_Arabic,Voiced palatal approximant,j
+259,Lebanese_Arabic,Voiced labial–velar approximant,w
+260,Lebanese_Arabic,Voiceless dental fricative,θ
+261,Lebanese_Arabic,Voiced dental fricative,ð
+262,Lebanese_Arabic,Voiced dental fricative,ð
+263,Lebanese_Arabic,Voiceless uvular plosive,q
+264,Lebanese_Arabic,Voiced velar plosive,g
+265,Lebanese_Arabic,Voiceless bilabial plosive,p
+266,Lebanese_Arabic,Voiced labiodental fricative,v
+267,Tunisian_Arabic,Voiced bilabial plosive,b
+268,Tunisian_Arabic,Voiced alveolar plosive,d
+269,Tunisian_Arabic,Voiced dental fricative,ð
+270,Tunisian_Arabic,Voiced alveolar affricate,dz
+271,Tunisian_Arabic,Voiced postalveolar fricative,ʒ
+272,Tunisian_Arabic,Voiceless labiodental fricative,f
+273,Tunisian_Arabic,Voiced velar plosive,ɡ
+274,Tunisian_Arabic,Voiceless glottal fricative,h
+275,Tunisian_Arabic,Voiceless pharyngeal fricative,ħ
+276,Tunisian_Arabic,Voiced palatal approximant,j
+277,Tunisian_Arabic,Voiceless velar plosive,k
+278,Tunisian_Arabic,Voiced alveolar lateral approximant,l
+279,Tunisian_Arabic,Voiced bilabial nasal,m
+280,Tunisian_Arabic,Voiced alveolar nasal,n
+281,Tunisian_Arabic,Voiceless dental fricative,θ
+282,Tunisian_Arabic,Voiceless uvular plosive,q
+283,Tunisian_Arabic,Voiceless bilabial plosive,p
+284,Tunisian_Arabic,Voiced alveolar trill,r
+285,Tunisian_Arabic,Voiceless alveolar fricative,s
+286,Tunisian_Arabic,Voiceless postalveolar fricative,ʃ
+287,Tunisian_Arabic,Voiceless alveolar plosive,t
+288,Tunisian_Arabic,Voiceless postalveolar affricate,tʃ
+289,Tunisian_Arabic,Voiced labiodental fricative,v
+290,Tunisian_Arabic,Voiced labial–velar approximant,w
+291,Tunisian_Arabic,Voiceless velar fricative,x
+292,Tunisian_Arabic,Voiced uvular fricative,ʁ
+293,Tunisian_Arabic,Voiced alveolar fricative,z
+294,Tunisian_Arabic,Voiced pharyngeal fricative,ʕ
+295,Tunisian_Arabic,Glottal stop,ʔ
+296,Armenian,Voiced bilabial plosive,b
+297,Armenian,Voiced alveolar plosive,d
+298,Armenian,Voiced alveolar affricate,dz
+299,Armenian,Voiced postalveolar affricate,dʒ
+300,Armenian,Voiceless labiodental fricative,f
+301,Armenian,Voiced velar plosive,ɡ
+302,Armenian,Voiceless glottal fricative,h
+303,Armenian,Voiced palatal approximant,j
+304,Armenian,Voiceless velar plosive,k
+305,Armenian,Voiced alveolar lateral approximant,l
+306,Armenian,Voiced bilabial nasal,m
+307,Armenian,Voiced alveolar nasal,n
+308,Armenian,Voiced velar nasal,ŋ
+309,Armenian,Voiceless bilabial plosive,p
+310,Armenian,Voiced alveolar trill,r
+311,Armenian,Voiced alveolar approximant,ɹ
+312,Armenian,Voiced retroflex approximant,ɻ
+313,Armenian,Voiced dental and alveolar taps and flaps,ɾ
+314,Armenian,Voiced uvular fricative,ʁ
+315,Armenian,Voiceless alveolar fricative,s
+316,Armenian,Voiceless postalveolar fricative,ʃ
+317,Armenian,Voiceless alveolar plosive,t
+318,Armenian,Voiceless alveolar affricate,ts
+319,Armenian,Voiceless postalveolar affricate,tʃ
+320,Armenian,Voiced labiodental fricative,v
+321,Armenian,Voiceless uvular fricative,χ
+322,Armenian,Voiced alveolar fricative,z
+323,Armenian,Voiced postalveolar fricative,ʒ
+324,Assamese,Voiced bilabial plosive,b
+325,Assamese,Voiced alveolar plosive,d
+326,Assamese,Voiced velar plosive,ɡ
+327,Assamese,Voiced glottal fricative,ɦ
+328,Assamese,Voiced palatal approximant,j
+329,Assamese,Voiceless velar plosive,k
+330,Assamese,Voiced alveolar lateral approximant,l
+331,Assamese,Voiced bilabial nasal,m
+332,Assamese,Voiced alveolar nasal,n
+333,Assamese,Voiced velar nasal,ŋ
+334,Assamese,Voiceless bilabial plosive,p
+335,Assamese,Voiced alveolar approximant,ɹ
+336,Assamese,Voiceless alveolar fricative,s
+337,Assamese,Voiceless alveolar plosive,t
+338,Assamese,Voiced labial–velar approximant,w
+339,Assamese,Voiceless velar fricative,x
+340,Assamese,Voiced alveolar fricative,z
+341,Astur-Leonese,Voiced bilabial plosive,b
+342,Astur-Leonese,Voiced bilabial plosive,b
+343,Astur-Leonese,Voiceless bilabial fricative,ɸ
+344,Astur-Leonese,Voiced bilabial fricative,β
+345,Astur-Leonese,Voiced bilabial fricative,β
+346,Astur-Leonese,Voiced bilabial fricative,β
+347,Astur-Leonese,Voiceless bilabial fricative,ɸ
+348,Astur-Leonese,Voiced dental plosive,d
+349,Astur-Leonese,Voiced dental fricative,ð
+350,Astur-Leonese,Voiced dental fricative,ð
+351,Astur-Leonese,Voiced dental fricative,ð
+352,Astur-Leonese,Voiceless dental fricative,θ
+353,Astur-Leonese,Voiceless labiodental fricative,f
+354,Astur-Leonese,Voiceless bilabial fricative,ɸ
+355,Astur-Leonese,Voiceless labiodental fricative,f
+356,Astur-Leonese,Voiceless glottal fricative,h
+357,Astur-Leonese,Voiced uvular fricative,ʁ
+358,Astur-Leonese,Voiced velar plosive,ɡ
+359,Astur-Leonese,Voiced velar plosive,ɡ
+360,Astur-Leonese,Voiceless uvular fricative,χ
+361,Astur-Leonese,Voiced velar nasal,ŋ
+362,Astur-Leonese,Voiced uvular fricative,ʁ
+363,Astur-Leonese,Voiced velar fricative,ɣ
+364,Astur-Leonese,Voiced velar fricative,ɣ
+365,Astur-Leonese,Voiceless velar fricative,x
+366,Astur-Leonese,Voiced palatal fricative,ʝ
+367,Astur-Leonese,Voiceless glottal fricative,h
+368,Astur-Leonese,Voiced palatal lateral approximant,ʎ
+369,Astur-Leonese,Voiced palatal fricative,ʝ
+370,Astur-Leonese,Voiced palatal approximant,j
+371,Astur-Leonese,Voiced palatal affricate,ɟʝ
+372,Astur-Leonese,Voiced postalveolar affricate,dʒ
+373,Astur-Leonese,Voiced postalveolar fricative,ʒ
+374,Astur-Leonese,Voiceless velar plosive,k
+375,Astur-Leonese,Voiced alveolar lateral approximant,l
+376,Astur-Leonese,Voiced alveolar lateral approximant,l
+377,Astur-Leonese,Voiced alveolar lateral approximant,l
+378,Astur-Leonese,Voiced dental and alveolar taps and flaps,ɾ
+379,Astur-Leonese,Voiced palatal lateral approximant,ʎ
+380,Astur-Leonese,Voiced bilabial nasal,m
+381,Astur-Leonese,Voiced alveolar nasal,n
+382,Astur-Leonese,Voiced velar nasal,ŋ
+383,Astur-Leonese,Voiced palatal nasal,ɲ
+384,Astur-Leonese,Voiceless bilabial plosive,p
+385,Astur-Leonese,Voiced alveolar trill,r
+386,Astur-Leonese,Voiced alveolar trill,r
+387,Astur-Leonese,Voiced alveolar trill,r
+388,Astur-Leonese,Voiced dental and alveolar taps and flaps,ɾ
+389,Astur-Leonese,Voiced dental and alveolar taps and flaps,ɾ
+390,Astur-Leonese,Voiced dental and alveolar taps and flaps,ɾ
+391,Astur-Leonese,Voiceless apico-alveolar fricative,s
+392,Astur-Leonese,Voiceless apico-alveolar fricative,s
+393,Astur-Leonese,Voiceless apico-alveolar fricative,s̺
+394,Astur-Leonese,Voiceless glottal fricative,h
+395,Astur-Leonese,Voiced dental fricative,ð
+396,Astur-Leonese,Voiced apico-alveolar fricative,z̺
+397,Astur-Leonese,Voiced alveolar fricative,z
+398,Astur-Leonese,Voiced glottal fricative,ɦ
+399,Astur-Leonese,Voiceless dental plosive,t
+400,Astur-Leonese,Voiceless postalveolar affricate,tʃ
+401,Astur-Leonese,Voiced labiodental fricative,v
+402,Astur-Leonese,Voiced glottal fricative,ɦ
+403,Astur-Leonese,Voiced labiodental fricative,v
+404,Astur-Leonese,Voiceless dental fricative,θ
+405,Astur-Leonese,Voiced alveolar plosive,d
+406,Astur-Leonese,Voiceless dental fricative,θ
+407,Astur-Leonese,Voiceless dental sibilant fricative,s̻
+408,Astur-Leonese,Voiceless glottal fricative,h
+409,Astur-Leonese,Voiced dental fricative,ð
+410,Astur-Leonese,Voiced dental sibilant fricative,z̻
+411,Astur-Leonese,Voiced dental fricative,ð
+412,Astur-Leonese,Voiced glottal fricative,ɦ
+413,Astur-Leonese,Voiceless alveolo-palatal fricative,ʃ
+414,Astur-Leonese,Voiceless alveolar fricative,s
+415,Astur-Leonese,Voiceless postalveolar fricative,ʃ
+416,Astur-Leonese,Voiceless glottal fricative,h
+417,Astur-Leonese,Voiced postalveolar fricative,ʒ
+418,Astur-Leonese,Voiced postalveolar fricative,ʒ
+419,Astur-Leonese,Voiced glottal fricative,ɦ
+420,Australian_languages,Voiceless bilabial plosive,b̥
+421,Australian_languages,Voiced bilabial plosive,b
+422,Australian_languages,Voiceless alveolar plosive,d̥
+423,Australian_languages,Voiced alveolar plosive,d
+424,Australian_languages,Voiced dental plosive,d̪
+425,Australian_languages,Voiceless retroflex plosive,ɖ̥
+426,Australian_languages,Voiced retroflex plosive,ɖ
+427,Australian_languages,Voiceless velar plosive,ɡ̊
+428,Australian_languages,Voiced velar plosive,ɡ
+429,Australian_languages,Voiceless palatal plosive,ɟ̊
+430,Australian_languages,Voiced palatal plosive,ɟ
+431,Australian_languages,Voiced palatal approximant,j
+432,Australian_languages,Voiced alveolar lateral approximant,l
+433,Australian_languages,Voiced retroflex lateral approximant,ɭ
+434,Australian_languages,Voiced palatal lateral approximant,ʎ
+435,Australian_languages,Voiced bilabial nasal,m
+436,Australian_languages,Voiced alveolar nasal,n
+437,Australian_languages,Voiced dental nasal,n̪
+438,Australian_languages,Voiced retroflex nasal,ɳ
+439,Australian_languages,Voiced palatal nasal,ɲ
+440,Australian_languages,Voiced velar nasal,ŋ
+441,Australian_languages,Voiced alveolar trill,r
+442,Australian_languages,Voiced dental and alveolar taps and flaps,ɾ
+443,Australian_languages,Voiced alveolar approximant,ɹ
+444,Australian_languages,Voiced retroflex flap,ɽ
+445,Australian_languages,Voiced retroflex approximant,ɻ
+446,Australian_languages,Voiced labial–velar approximant,w
+447,Basque,Voiced bilabial plosive,b
+448,Basque,Voiced bilabial fricative,β
+449,Basque,Voiceless palatal plosive,c
+450,Basque,Voiced dental plosive,d
+451,Basque,Voiced dental fricative,ð
+452,Basque,Voiceless labiodental fricative,f
+453,Basque,Voiced velar plosive,ɡ
+454,Basque,Voiced velar fricative,ɣ
+455,Basque,Voiceless glottal fricative,h
+456,Basque,Voiced palatal approximant,j
+457,Basque,Voiced palatal plosive,ɟ
+458,Basque,Voiceless velar plosive,k
+459,Basque,Voiced alveolar lateral approximant,l
+460,Basque,Voiced palatal lateral approximant,ʎ
+461,Basque,Voiced bilabial nasal,m
+462,Basque,Voiced alveolar nasal,n
+463,Basque,Voiced palatal nasal,ɲ
+464,Basque,Voiceless bilabial plosive,p
+465,Basque,Voiced alveolar trill,r
+466,Basque,Voiced uvular fricative,ʁ
+467,Basque,Voiced dental and alveolar taps and flaps,ɾ
+468,Basque,Voiceless alveolar fricative,s̻
+469,Basque,Voiceless alveolar fricative,s̺
+470,Basque,Voiceless postalveolar fricative,ʃ
+471,Basque,Voiceless dental plosive,t
+472,Basque,Voiceless postalveolar affricate,tʃ
+473,Belarusian,Voiced bilabial plosive,b
+474,Belarusian,Voiced dental plosive,d
+475,Belarusian,Voiceless labiodental fricative,f
+476,Belarusian,Voiced velar fricative,ɣ
+477,Belarusian,Voiced post-palatal fricative,ɣʲ
+478,Belarusian,Voiceless velar plosive,k
+479,Belarusian,Voiceless post-palatal plosive,kʲ
+480,Belarusian,Voiced bilabial nasal,m
+481,Belarusian,Voiced dental nasal,n
+482,Belarusian,Voiceless bilabial plosive,p
+483,Belarusian,Voiced alveolar trill,r
+484,Belarusian,Voiceless dental sibilant fricative,s
+485,Belarusian,Voiceless retroflex fricative,ʂ
+486,Belarusian,Voiceless dental plosive,t
+487,Belarusian,Voiced labiodental fricative,v
+488,Belarusian,Voiceless velar fricative,x
+489,Belarusian,Voiceless post-palatal fricative,xʲ
+490,Belarusian,Voiced dental sibilant fricative,z
+491,Belarusian,Voiced retroflex fricative,ʐ
+492,Bengali,Voiced bilabial plosive,b
+493,Bengali,Voiced dental plosive,d
+494,Bengali,Voiced retroflex plosive,ɖ
+495,Bengali,Voiced velar plosive,ɡ
+496,Bengali,Voiced glottal fricative,ɦ
+497,Bengali,Voiceless glottal fricative,h
+498,Bengali,Voiceless velar plosive,k
+499,Bengali,Voiced alveolar lateral approximant,l
+500,Bengali,Voiced bilabial nasal,m
+501,Bengali,Voiced alveolar nasal,n
+502,Bengali,Voiced velar nasal,ŋ
+503,Bengali,Voiceless bilabial plosive,p
+504,Bengali,Voiced dental and alveolar taps and flaps,r
+505,Bengali,Voiced retroflex flap,ɽ
+506,Bengali,Voiceless alveolar fricative,s
+507,Bengali,Voiceless postalveolar fricative,ʃ
+508,Bengali,Voiceless dental plosive,t
+509,Bengali,Voiceless retroflex plosive,ʈ
+510,Bengali,Voiced bilabial fricative,β
+511,Bengali,Voiced palatal approximant,j
+512,Bengali,Voiceless bilabial fricative,ɸ
+513,Bengali,Voiced labial–velar approximant,w
+514,Bengali,Voiced alveolar fricative,z
+515,Bengali,Voiced retroflex nasal,ɳ
+516,Berber,Voiced bilabial plosive,b
+517,Berber,Voiced bilabial fricative,β
+518,Berber,Voiceless palatal fricative,ç
+519,Berber,Voiced alveolar plosive,d
+520,Berber,Voiced alveolar affricate,dz
+521,Berber,Voiced postalveolar affricate,dʒ
+522,Berber,Voiced dental fricative,ð
+523,Berber,Voiceless labiodental fricative,f
+524,Berber,Voiced velar plosive,ɡ
+525,Berber,Voiced velar fricative,ɣ
+526,Berber,Voiceless glottal fricative,h
+527,Berber,Voiceless pharyngeal fricative,ħ
+528,Berber,Voiced palatal approximant,j
+529,Berber,Voiced palatal fricative,ʝ
+530,Berber,Voiceless velar plosive,k
+531,Berber,Voiced alveolar lateral approximant,l
+532,Berber,Voiced bilabial nasal,m
+533,Berber,Voiced alveolar nasal,n
+534,Berber,Voiceless dental fricative,θ
+535,Berber,Voiceless uvular plosive,q
+536,Berber,Voiced alveolar trill,r
+537,Berber,Voiced uvular fricative,ʁ
+538,Berber,Voiceless alveolar fricative,s
+539,Berber,Voiceless postalveolar fricative,ʃ
+540,Berber,Voiceless alveolar plosive,t
+541,Berber,Voiceless alveolar affricate,ts
+542,Berber,Voiceless postalveolar affricate,tʃ
+543,Berber,Voiced labial–velar approximant,w
+544,Berber,Voiceless uvular fricative,χ
+545,Berber,Voiced alveolar fricative,z
+546,Berber,Voiced postalveolar fricative,ʒ
+547,Berber,Voiced pharyngeal fricative,ʕ
+548,Breton,Voiced bilabial plosive,b
+549,Breton,Voiceless velar fricative,x
+550,Breton,Voiced velar fricative,ɣ
+551,Breton,Voiced alveolar plosive,d
+552,Breton,Voiceless labiodental fricative,f
+553,Breton,Voiced velar plosive,ɡ
+554,Breton,Voiceless glottal fricative,h
+555,Breton,Voiced postalveolar fricative,ʒ
+556,Breton,Voiceless velar plosive,k
+557,Breton,Voiced alveolar lateral approximant,l
+558,Breton,Voiced palatal lateral approximant,ʎ
+559,Breton,Voiced bilabial nasal,m
+560,Breton,Voiced alveolar nasal,n
+561,Breton,Voiced velar nasal,ŋ
+562,Breton,Voiced palatal nasal,ɲ
+563,Breton,Voiceless bilabial plosive,p
+564,Breton,Voiced alveolar trill,r
+565,Breton,Voiced uvular fricative,ʁ
+566,Breton,Voiceless alveolar fricative,s
+567,Breton,Voiceless postalveolar fricative,ʃ
+568,Breton,Voiceless alveolar plosive,t
+569,Breton,Voiced labiodental fricative,v
+570,Breton,Voiced alveolar fricative,z
+571,Breton,Voiced palatal approximant,j
+572,Breton,Voiced labial–velar approximant,w
+573,Breton,Voiced labial–palatal approximant,ɥ
+574,Bulgarian,Voiced bilabial plosive,b
+575,Bulgarian,Voiceless palatal plosive,c
+576,Bulgarian,Voiced dental plosive,d
+577,Bulgarian,Voiceless labiodental fricative,f
+578,Bulgarian,Voiced velar plosive,ɡ
+579,Bulgarian,Voiced palatal plosive,ɟ
+580,Bulgarian,Voiced palatal approximant,j
+581,Bulgarian,Voiceless velar plosive,k
+582,Bulgarian,Voiced alveolar lateral approximant,l
+583,Bulgarian,Voiced palatal lateral approximant,ʎ
+584,Bulgarian,Voiced bilabial nasal,m
+585,Bulgarian,Voiced dental nasal,n
+586,Bulgarian,Voiced palatal nasal,ɲ
+587,Bulgarian,Voiceless bilabial plosive,p
+588,Bulgarian,Voiced alveolar trill,r
+589,Bulgarian,Voiceless dental sibilant fricative,s
+590,Bulgarian,Voiceless postalveolar fricative,ʃ
+591,Bulgarian,Voiceless dental plosive,t
+592,Bulgarian,Voiced labiodental fricative,v
+593,Bulgarian,Voiced labial–velar approximant,w
+594,Bulgarian,Voiceless velar fricative,x
+595,Bulgarian,Voiced dental sibilant fricative,z
+596,Bulgarian,Voiced postalveolar fricative,ʒ
+597,Burmese,Voiced bilabial plosive,b
+598,Burmese,Voiced alveolar plosive,d
+599,Burmese,Voiced alveolo-palatal affricate,dʑ
+600,Burmese,Voiced dental fricative,ð
+601,Burmese,Voiced velar plosive,ɡ
+602,Burmese,Voiceless glottal fricative,h
+603,Burmese,Voiced palatal approximant,j
+604,Burmese,Voiceless velar plosive,k
+605,Burmese,Voiced alveolar lateral approximant,l
+606,Burmese,Voiced bilabial nasal,m
+607,Burmese,Voiced alveolar nasal,n
+608,Burmese,Voiced palatal nasal,ɲ
+609,Burmese,Voiced velar nasal,ŋ
+610,Burmese,Voiceless bilabial plosive,p
+611,Burmese,Voiced alveolar approximant,ɹ
+612,Burmese,Voiceless alveolar fricative,s
+613,Burmese,Voiceless postalveolar fricative,ʃ
+614,Burmese,Voiceless alveolar plosive,t
+615,Burmese,Voiceless alveolo-palatal affricate,tɕ
+616,Burmese,Voiceless dental fricative,θ
+617,Burmese,Voiced labial–velar approximant,w
+618,Burmese,Voiceless labial–velar fricative,ʍ
+619,Burmese,Voiced alveolar fricative,z
+620,Burmese,Glottal stop,ʔ
+621,Catalan,Voiced bilabial plosive,b
+622,Catalan,Voiced bilabial plosive,b
+623,Catalan,Voiced labiodental fricative,v
+624,Catalan,Voiced bilabial approximant,β
+625,Catalan,Voiced bilabial plosive,b
+626,Catalan,Voiced dental plosive,d
+627,Catalan,Voiced alveolar affricate,dz
+628,Catalan,Voiced alveolar affricate,dz
+629,Catalan,Voiced apico-alveolar fricative,z
+630,Catalan,Voiced alveolo-palatal affricate,dʒ
+631,Catalan,Voiced dental approximant,ð
+632,Catalan,Voiceless labiodental fricative,f
+633,Catalan,Voiced velar plosive,ɡ
+634,Catalan,Voiced velar approximant,ɣ
+635,Catalan,Voiceless velar plosive,k
+636,Catalan,Voiced palatal lateral approximant,ʎ
+637,Catalan,Voiced bilabial nasal,m
+638,Catalan,Voiced labiodental nasal,ɱ
+639,Catalan,Voiced alveolar nasal,n
+640,Catalan,Voiced velar nasal,ŋ
+641,Catalan,Voiced palatal nasal,ɲ
+642,Catalan,Voiceless bilabial plosive,p
+643,Catalan,Voiced postalveolar trill,r
+644,Catalan,Voiced dental and alveolar taps and flaps,ɾ
+645,Catalan,Voiceless apico-alveolar fricative,s
+646,Catalan,Voiceless alveolo-palatal fricative,ʃ
+647,Catalan,Voiceless alveolo-palatal affricate,tʃ
+648,Catalan,Voiced palatal approximant,j
+649,Catalan,Voiceless alveolo-palatal fricative,ʃ
+650,Catalan,Voiceless alveolo-palatal fricative,ʃ
+651,Catalan,Voiceless dental plosive,t
+652,Catalan,Voiceless alveolar affricate,ts
+653,Catalan,Voiceless alveolo-palatal affricate,tʃ
+654,Catalan,Voiced labiodental fricative,v
+655,Catalan,Voiced apico-alveolar fricative,z
+656,Catalan,Voiced alveolo-palatal fricative,ʒ
+657,Catalan,Voiced alveolo-palatal affricate,dʒ
+658,Catalan,Voiced palatal approximant,j
+659,Catalan,Voiced palatal approximant,j
+660,Catalan,Voiced alveolo-palatal fricative,ʒ
+661,Catalan,Voiced alveolo-palatal fricative,ʒ
+662,Catalan,Voiceless glottal fricative,h
+663,Catalan,Voiceless dental fricative,θ
+664,Catalan,Voiceless velar fricative,x
+665,Catalan,Voiced palatal approximant,j
+666,Catalan,Voiced labial–velar approximant,w
+667,Insular_Catalan,Voiced bilabial plosive,b
+668,Insular_Catalan,Voiced bilabial plosive,b
+669,Insular_Catalan,Voiced dental plosive,d
+670,Insular_Catalan,Voiced dental plosive,d
+671,Insular_Catalan,Voiced dental approximant,ð
+672,Insular_Catalan,Voiced dental and alveolar taps and flaps,ɾ
+673,Insular_Catalan,Voiced alveolar affricate,dz
+674,Insular_Catalan,Voiced alveolar affricate,dz
+675,Insular_Catalan,Voiced alveolar affricate,dz
+676,Insular_Catalan,Voiced apico-alveolar fricative,z
+677,Insular_Catalan,Voiced alveolo-palatal affricate,dʒ
+678,Insular_Catalan,Voiced alveolo-palatal affricate,dʒ
+679,Insular_Catalan,Voiceless labiodental fricative,f
+680,Insular_Catalan,Voiceless labiodental fricative,f
+681,Insular_Catalan,Voiced velar plosive,ɡ
+682,Insular_Catalan,Voiced velar plosive,ɡ
+683,Insular_Catalan,Voiced velar plosive,ɡ
+684,Insular_Catalan,Voiced velar plosive,ɡ
+685,Insular_Catalan,Voiced palatal plosive,ɟ
+686,Insular_Catalan,Voiced velar approximant,ɣ
+687,Insular_Catalan,Voiced palatal fricative,ʝ
+688,Insular_Catalan,Voiced velar approximant,ɣ
+689,Insular_Catalan,Voiced velar approximant,ɣ
+690,Insular_Catalan,Voiceless velar plosive,k
+691,Insular_Catalan,Voiceless velar plosive,k
+692,Insular_Catalan,Voiceless velar plosive,k
+693,Insular_Catalan,Voiceless velar plosive,k
+694,Insular_Catalan,Voiceless palatal plosive,c
+695,Insular_Catalan,Voiced dental and alveolar taps and flaps,ɾ
+696,Insular_Catalan,Voiced palatal lateral approximant,ʎ
+697,Insular_Catalan,Voiced palatal lateral approximant,ʎ
+698,Insular_Catalan,Voiced palatal lateral approximant,ʎ
+699,Insular_Catalan,Voiced palatal approximant,j
+700,Insular_Catalan,Voiced bilabial nasal,m
+701,Insular_Catalan,Voiced bilabial nasal,m
+702,Insular_Catalan,Voiced labiodental nasal,ɱ
+703,Insular_Catalan,Voiced alveolar nasal,n
+704,Insular_Catalan,Voiced alveolar nasal,n
+705,Insular_Catalan,Voiced velar nasal,ŋ
+706,Insular_Catalan,Voiced velar nasal,ŋ
+707,Insular_Catalan,Voiced palatal nasal,ɲ
+708,Insular_Catalan,Voiced palatal nasal,ɲ
+709,Insular_Catalan,Voiced palatal nasal,ɲ
+710,Insular_Catalan,Voiced alveolar nasal,n
+711,Insular_Catalan,Voiced palatal approximant,j
+712,Insular_Catalan,Voiced alveolar nasal,n
+713,Insular_Catalan,Voiceless bilabial plosive,p
+714,Insular_Catalan,Voiceless bilabial plosive,p
+715,Insular_Catalan,Voiced postalveolar trill,r
+716,Insular_Catalan,Voiced postalveolar trill,r
+717,Insular_Catalan,Voiced dental and alveolar taps and flaps,ɾ
+718,Insular_Catalan,Voiced dental and alveolar taps and flaps,ɾ
+719,Insular_Catalan,Voiceless apico-alveolar fricative,s
+720,Insular_Catalan,Voiceless apico-alveolar fricative,s
+721,Insular_Catalan,Voiceless alveolo-palatal fricative,ʃ
+722,Insular_Catalan,Voiceless alveolo-palatal fricative,ʃ
+723,Insular_Catalan,Voiceless alveolo-palatal fricative,ʃ
+724,Insular_Catalan,Voiceless dental plosive,t
+725,Insular_Catalan,Voiceless dental plosive,t
+726,Insular_Catalan,Voiceless alveolar affricate,ts
+727,Insular_Catalan,Voiceless alveolar affricate,ts
+728,Insular_Catalan,Voiceless alveolo-palatal affricate,tʃ
+729,Insular_Catalan,Voiceless alveolo-palatal affricate,tʃ
+730,Insular_Catalan,Voiced palatal approximant,j
+731,Insular_Catalan,Voiced labiodental fricative,v
+732,Insular_Catalan,Voiced labiodental fricative,v
+733,Insular_Catalan,Voiced apico-alveolar fricative,z
+734,Insular_Catalan,Voiced apico-alveolar fricative,z
+735,Insular_Catalan,Voiced alveolo-palatal affricate,d
+736,Insular_Catalan,Voiced alveolo-palatal fricative,ʒ
+737,Insular_Catalan,Voiced alveolo-palatal fricative,ʒ
+738,Insular_Catalan,Voiced alveolo-palatal affricate,dʒ
+739,Insular_Catalan,Voiced alveolo-palatal affricate,dʒ
+740,Insular_Catalan,Voiced dental and alveolar taps and flaps,ɾ
+741,Insular_Catalan,Voiceless glottal fricative,h
+742,Insular_Catalan,Voiceless glottal fricative,h
+743,Insular_Catalan,Voiceless dental fricative,θ
+744,Insular_Catalan,Voiceless dental fricative,θ
+745,Insular_Catalan,Voiceless velar fricative,x
+746,Insular_Catalan,Voiceless velar fricative,x
+747,Insular_Catalan,Voiced palatal approximant,j
+748,Insular_Catalan,Voiced palatal approximant,j
+749,Insular_Catalan,Voiced labial–velar approximant,w
+750,Insular_Catalan,Voiced labial–velar approximant,w
+751,Mandarin,Voiceless alveolo-palatal fricative,ɕ
+752,Mandarin,Voiceless labiodental fricative,f
+753,Mandarin,Voiced palatal approximant,j
+754,Mandarin,Voiceless velar plosive,k
+755,Mandarin,Voiced alveolar lateral approximant,l
+756,Mandarin,Voiced bilabial nasal,m
+757,Mandarin,Voiced alveolar nasal,n
+758,Mandarin,Voiced velar nasal,ŋ
+759,Mandarin,Voiceless bilabial plosive,p
+760,Mandarin,Voiced retroflex fricative,ʐ
+761,Mandarin,Voiceless alveolar fricative,s
+762,Mandarin,Voiceless retroflex fricative,ʂ
+763,Mandarin,Voiceless alveolar plosive,t
+764,Mandarin,Voiceless alveolo-palatal affricate,tɕ
+765,Mandarin,Voiceless alveolar affricate,ts
+766,Mandarin,Voiceless retroflex affricate,ʈʂ
+767,Mandarin,Voiced labial–velar approximant,w
+768,Mandarin,Voiceless velar fricative,x
+769,Mandarin,Voiced labial–palatal approximant,ɥ
+770,Cantonese,Voiceless labiodental fricative,f
+771,Cantonese,Voiceless glottal fricative,h
+772,Cantonese,Voiced palatal approximant,j
+773,Cantonese,Voiceless velar plosive,k
+774,Cantonese,Voiced alveolar lateral approximant,l
+775,Cantonese,Voiced bilabial nasal,m
+776,Cantonese,Voiced alveolar nasal,n
+777,Cantonese,Voiced velar nasal,ŋ
+778,Cantonese,Voiceless bilabial plosive,p
+779,Cantonese,Voiceless alveolar fricative,s
+780,Cantonese,Voiceless alveolar plosive,t
+781,Cantonese,Voiceless alveolar affricate,ts
+782,Cantonese,Voiced labial–velar approximant,w
+783,Taiwanese_Hokkien,Voiceless bilabial plosive,p
+784,Taiwanese_Hokkien,Voiced bilabial plosive,b
+785,Taiwanese_Hokkien,Voiced bilabial nasal,m
+786,Taiwanese_Hokkien,Voiceless alveolar plosive,t
+787,Taiwanese_Hokkien,Voiced alveolar lateral approximant,l
+788,Taiwanese_Hokkien,Voiced alveolar nasal,n
+789,Taiwanese_Hokkien,Voiceless velar plosive,k
+790,Taiwanese_Hokkien,Voiced velar plosive,g
+791,Taiwanese_Hokkien,Voiced velar nasal,ŋ
+792,Taiwanese_Hokkien,Voiceless glottal fricative,h
+793,Taiwanese_Hokkien,Glottal stop,ʔ
+794,Taiwanese_Hokkien,Voiceless palato-alveolar affricate,ch
+795,Taiwanese_Hokkien,Voiceless alveolar fricative,s
+796,Taiwanese_Hokkien,Voiceless alveolo-palatal fricative,ɕ
+797,Taiwanese_Hokkien,Voiceless palato-alveolar sibilant,sh
+798,Taiwanese_Hokkien,Voiced alveolar fricative,z
+799,Taiwanese_Hokkien,Voiced palato-alveolar affricate,j
+800,Taiwanese_Hokkien,Voiced alveolo-palatal fricative,ʑ
+801,Taiwanese_Hokkien,Voiced alveolar fricative,z
+802,Taiwanese_Hokkien,Glottal stop,ʔ
+803,Jin_Chinese,Voiceless alveolo-palatal fricative,ɕ
+804,Jin_Chinese,Voiceless labiodental fricative,f
+805,Jin_Chinese,Voiceless velar plosive,k
+806,Jin_Chinese,Voiced alveolar lateral approximant,l
+807,Jin_Chinese,Voiced bilabial nasal,m
+808,Jin_Chinese,Voiced alveolar nasal,n
+809,Jin_Chinese,Voiced palatal nasal,ɲ
+810,Jin_Chinese,Voiced velar nasal,ŋ
+811,Jin_Chinese,Voiceless alveolar fricative,s
+812,Jin_Chinese,Voiceless retroflex fricative,ʂ
+813,Jin_Chinese,Voiceless bilabial plosive,p
+814,Jin_Chinese,Voiceless alveolar plosive,t
+815,Jin_Chinese,Voiceless alveolo-palatal affricate,tɕ
+816,Jin_Chinese,Voiceless alveolar affricate,ts
+817,Jin_Chinese,Voiceless retroflex affricate,tʂ
+818,Jin_Chinese,Voiceless velar fricative,x
+819,Jin_Chinese,Voiced retroflex fricative,ʐ
+820,Wu_Chinese,Voiced bilabial plosive,b
+821,Wu_Chinese,Voiceless alveolo-palatal fricative,ɕ
+822,Wu_Chinese,Voiced alveolar plosive,d
+823,Wu_Chinese,Voiced alveolo-palatal affricate,dʑ
+824,Wu_Chinese,Voiceless labiodental fricative,f
+825,Wu_Chinese,Voiced velar plosive,g
+826,Wu_Chinese,Voiceless glottal fricative,h
+827,Wu_Chinese,Voiced glottal fricative,ɦ
+828,Wu_Chinese,Voiceless velar plosive,k
+829,Wu_Chinese,Voiced alveolar lateral approximant,l
+830,Wu_Chinese,Voiced bilabial nasal,m
+831,Wu_Chinese,Voiced alveolar nasal,n
+832,Wu_Chinese,Voiced velar nasal,ŋ
+833,Wu_Chinese,Voiced palatal nasal,ɲ
+834,Wu_Chinese,Voiceless bilabial plosive,p
+835,Wu_Chinese,Voiceless alveolar fricative,s
+836,Wu_Chinese,Voiceless alveolar plosive,t
+837,Wu_Chinese,Voiceless alveolo-palatal affricate,tɕ
+838,Wu_Chinese,Voiceless alveolar affricate,ts
+839,Wu_Chinese,Voiced labiodental fricative,v
+840,Wu_Chinese,Voiced alveolar fricative,z
+841,Wu_Chinese,Voiced alveolo-palatal fricative,ʑ
+842,Xiang_Chinese,Voiceless alveolo-palatal fricative,ɕ
+843,Xiang_Chinese,Voiceless labiodental fricative,f
+844,Xiang_Chinese,Voiceless velar plosive,k
+845,Xiang_Chinese,Voiced alveolar lateral approximant,l
+846,Xiang_Chinese,Voiced bilabial nasal,m
+847,Xiang_Chinese,Voiced palatal nasal,ɲ
+848,Xiang_Chinese,Voiced velar nasal,ŋ
+849,Xiang_Chinese,Voiceless bilabial plosive,p
+850,Xiang_Chinese,Voiceless alveolar fricative,s
+851,Xiang_Chinese,Voiceless retroflex fricative,ʂ
+852,Xiang_Chinese,Voiceless alveolar plosive,t
+853,Xiang_Chinese,Voiceless alveolo-palatal affricate,tɕ
+854,Xiang_Chinese,Voiceless alveolar affricate,ts
+855,Xiang_Chinese,Voiceless retroflex affricate,tʂ
+856,Xiang_Chinese,Voiceless velar fricative,x
+857,Xiang_Chinese,Voiced retroflex fricative,ʐ
+858,Corsican,Voiced bilabial plosive,b
+859,Corsican,Voiceless palatal plosive,c
+860,Corsican,Voiced dental plosive,d
+861,Corsican,Voiced dental affricate,dz
+862,Corsican,Voiced postalveolar affricate,dʒ
+863,Corsican,Voiced retroflex plosive,ɖ
+864,Corsican,Voiced dental fricative,ð
+865,Corsican,Voiceless labiodental fricative,f
+866,Corsican,Voiced velar plosive,ɡ
+867,Corsican,Voiced palatal plosive,ɟ
+868,Corsican,Voiceless velar plosive,k
+869,Corsican,Voiced alveolar lateral approximant,l
+870,Corsican,Voiced palatal lateral approximant,ʎ
+871,Corsican,Voiced bilabial nasal,m
+872,Corsican,Voiced labiodental nasal,ɱ
+873,Corsican,Voiced alveolar nasal,n
+874,Corsican,Voiced velar nasal,ŋ
+875,Corsican,Voiced palatal nasal,ɲ
+876,Corsican,Voiceless bilabial plosive,p
+877,Corsican,Voiced alveolar trill,r
+878,Corsican,Voiceless dental sibilant fricative,s
+879,Corsican,Voiceless postalveolar fricative,ʃ
+880,Corsican,Voiceless dental plosive,t
+881,Corsican,Voiceless dental affricate,ts
+882,Corsican,Voiceless postalveolar affricate,tʃ
+883,Corsican,Voiced labiodental fricative,v
+884,Corsican,Voiced dental sibilant fricative,z
+885,Corsican,Voiced postalveolar fricative,ʒ
+886,Corsican,Voiced palatal approximant,j
+887,Corsican,Voiced labial–velar approximant,w
+888,Czech,Voiced bilabial plosive,b
+889,Czech,Voiceless palatal plosive,c
+890,Czech,Voiced alveolar plosive,d
+891,Czech,Voiceless labiodental fricative,f
+892,Czech,Voiced velar plosive,ɡ
+893,Czech,Voiced glottal fricative,ɦ
+894,Czech,Voiced palatal approximant,j
+895,Czech,Voiced palatal plosive,ɟ
+896,Czech,Voiceless velar plosive,k
+897,Czech,Voiced alveolar lateral approximant,l
+898,Czech,Voiced bilabial nasal,m
+899,Czech,Voiced alveolar nasal,n
+900,Czech,Voiced palatal nasal,ɲ
+901,Czech,Voiceless bilabial plosive,p
+902,Czech,Voiced alveolar trill,r
+903,Czech,Voiced alveolar fricative trill,r̝
+904,Czech,Voiced alveolar trill,r
+905,Czech,Voiced postalveolar fricative,ʒ
+906,Czech,Voiceless alveolar trill,r̥
+907,Czech,Voiceless postalveolar fricative,ʃ
+908,Czech,Voiceless alveolar fricative,s
+909,Czech,Voiceless postalveolar fricative,ʃ
+910,Czech,Voiceless alveolar plosive,t
+911,Czech,Voiceless alveolar affricate,ts
+912,Czech,Voiceless postalveolar affricate,tʃ
+913,Czech,Voiced labiodental fricative,v
+914,Czech,Voiceless velar fricative,x
+915,Czech,Voiced alveolar fricative,z
+916,Czech,Voiced postalveolar fricative,ʒ
+917,Czech,Voiced alveolar affricate,dz
+918,Czech,Voiced postalveolar affricate,dʒ
+919,Czech,Voiced velar nasal,ŋ
+920,Persian,Voiced bilabial plosive,b
+921,Persian,Voiced dental plosive,d
+922,Persian,Voiced postalveolar affricate,dʒ
+923,Persian,Voiceless labiodental fricative,f
+924,Persian,Voiced velar plosive,ɡ
+925,Persian,Voiced velar fricative,ɣ
+926,Persian,Voiceless uvular plosive,q
+927,Persian,Voiced uvular plosive,ɢ
+928,Persian,Voiced velar fricative,ɣ
+929,Persian,Voiceless uvular plosive,q
+930,Persian,Voiceless glottal fricative,h
+931,Persian,Voiced palatal approximant,j
+932,Persian,Voiced alveolar lateral approximant,l
+933,Persian,Voiced bilabial nasal,m
+934,Persian,Voiced alveolar nasal,n
+935,Persian,Voiced dental and alveolar taps and flaps,ɾ
+936,Persian,Voiced alveolar approximant,ɹ
+937,Persian,Voiceless alveolar fricative,s
+938,Persian,Voiceless postalveolar fricative,ʃ
+939,Persian,Voiced labiodental fricative,v
+940,Persian,Voiced labial–velar approximant,w
+941,Persian,Voiced labiodental fricative,v
+942,Persian,Voiceless velar fricative,x
+943,Persian,Voiced alveolar fricative,z
+944,Persian,Voiced postalveolar fricative,ʒ
+945,Persian,Glottal stop,ʔ
+946,Persian,Voiced velar nasal,ŋ
+947,Dutch,Voiced bilabial plosive,b
+948,Dutch,Voiced alveolar plosive,d
+949,Dutch,Voiceless labiodental fricative,f
+950,Dutch,Voiced velar fricative,ɣ
+951,Dutch,Voiced glottal fricative,ɦ
+952,Dutch,Voiced palatal approximant,j
+953,Dutch,Voiceless velar plosive,k
+954,Dutch,Voiced alveolar lateral approximant,l
+955,Dutch,Voiced bilabial nasal,m
+956,Dutch,Voiced alveolar nasal,n
+957,Dutch,Voiced velar nasal,ŋ
+958,Dutch,Voiceless bilabial plosive,p
+959,Dutch,Voiced dental and alveolar taps and flaps,r
+960,Dutch,Voiceless alveolar fricative,s
+961,Dutch,Voiceless alveolar plosive,t
+962,Dutch,Voiced labiodental fricative,v
+963,Dutch,Voiced labiodental approximant,ʋ
+964,Dutch,Voiceless velar fricative,x
+965,Dutch,Voiced alveolar fricative,z
+966,Dutch,Voiceless alveolo-palatal fricative,ɕ
+967,Dutch,Voiced alveolo-palatal affricate,dʑ
+968,Dutch,Voiced velar plosive,ɡ
+969,Dutch,Voiced labiodental nasal,ɱ
+970,Dutch,Voiced palatal nasal,ɲ
+971,Dutch,Voiceless alveolo-palatal affricate,tɕ
+972,Dutch,Voiced alveolo-palatal fricative,ʑ
+973,Dutch,Glottal stop,ʔ
+974,Old_English,Voiced bilabial plosive,b
+975,Old_English,Voiceless palatal fricative,ç
+976,Old_English,Voiced alveolar plosive,d
+977,Old_English,Voiced postalveolar affricate,dʒ
+978,Old_English,Voiced dental fricative,ð
+979,Old_English,Voiceless labiodental fricative,f
+980,Old_English,Voiced velar plosive,ɡ
+981,Old_English,Voiceless glottal fricative,h
+982,Old_English,Voiced palatal approximant,j
+983,Old_English,Voiceless velar plosive,k
+984,Old_English,Voiced alveolar lateral approximant,l
+985,Old_English,Voiceless alveolar lateral approximant,l̥
+986,Old_English,Voiced bilabial nasal,m
+987,Old_English,Voiced alveolar nasal,n
+988,Old_English,Voiceless alveolar nasal,n̥
+989,Old_English,Voiced velar nasal,ŋ
+990,Old_English,Voiceless bilabial plosive,p
+991,Old_English,Voiced alveolar trill,r
+992,Old_English,Voiceless alveolar trill,r̥
+993,Old_English,Voiceless alveolar fricative,s
+994,Old_English,Voiceless postalveolar fricative,ʃ
+995,Old_English,Voiceless alveolar plosive,t
+996,Old_English,Voiceless postalveolar affricate,tʃ
+997,Old_English,Voiced labiodental fricative,v
+998,Old_English,Voiced velar fricative,ɣ
+999,Old_English,Voiced labial–velar approximant,w
+1000,Old_English,Voiceless labial–velar fricative,ʍ
+1001,Old_English,Voiceless velar fricative,x
+1002,Old_English,Voiced alveolar fricative,z
+1003,Old_English,Voiceless dental fricative,θ
+1004,Emilian-Romagnol,Voiced bilabial plosive,b
+1005,Emilian-Romagnol,Voiced dental plosive,d
+1006,Emilian-Romagnol,Voiced alveolar non-sibilant affricate,dz
+1007,Emilian-Romagnol,Voiced dental fricative,ð
+1008,Emilian-Romagnol,Voiceless labiodental fricative,f
+1009,Emilian-Romagnol,Voiced velar plosive,ɡ
+1010,Emilian-Romagnol,Voiceless velar plosive,k
+1011,Emilian-Romagnol,Voiced alveolar lateral approximant,l
+1012,Emilian-Romagnol,Voiced palatal lateral approximant,ʎ
+1013,Emilian-Romagnol,Voiced bilabial nasal,m
+1014,Emilian-Romagnol,Voiced labiodental nasal,ɱ
+1015,Emilian-Romagnol,Voiced alveolar nasal,n
+1016,Emilian-Romagnol,Voiced velar nasal,ŋ
+1017,Emilian-Romagnol,Voiced palatal nasal,ɲ
+1018,Emilian-Romagnol,Voiceless bilabial plosive,p
+1019,Emilian-Romagnol,Voiced uvular fricative,ʁ
+1020,Emilian-Romagnol,Voiced uvular trill,ʀ
+1021,Emilian-Romagnol,Voiced alveolar trill,r
+1022,Emilian-Romagnol,Voiceless alveolar non-sibilant fricative,s
+1023,Emilian-Romagnol,Voiceless dental plosive,t
+1024,Emilian-Romagnol,Voiceless alveolar non-sibilant affricate,ts
+1025,Emilian-Romagnol,Voiceless dental fricative,θ
+1026,Emilian-Romagnol,Voiced labiodental fricative,v
+1027,Emilian-Romagnol,Voiced alveolar non-sibilant fricative,z
+1028,Emilian-Romagnol,Voiced palatal approximant,j
+1029,Emilian-Romagnol,Voiced labial–velar approximant,w
+1030,Estonian,Voiceless labiodental fricative,f
+1031,Estonian,Voiceless glottal fricative,h
+1032,Estonian,Voiced palatal approximant,j
+1033,Estonian,Voiceless velar plosive,k
+1034,Estonian,Voiced alveolar lateral approximant,l
+1035,Estonian,Voiced bilabial nasal,m
+1036,Estonian,Voiced alveolar nasal,n
+1037,Estonian,Voiced velar nasal,ŋ
+1038,Estonian,Voiceless bilabial plosive,p
+1039,Estonian,Voiced alveolar trill,r
+1040,Estonian,Voiceless alveolar fricative,s
+1041,Estonian,Voiceless postalveolar fricative,ʃ
+1042,Estonian,Voiceless alveolar plosive,t
+1043,Estonian,Voiced labiodental fricative,v
+1044,Estonian,Glottal stop,ʔ
+1045,Astur-Leonese,Voiced bilabial plosive,b
+1046,Astur-Leonese,Voiced bilabial plosive,b
+1047,Astur-Leonese,Voiceless bilabial fricative,ɸ
+1048,Astur-Leonese,Voiced bilabial fricative,β
+1049,Astur-Leonese,Voiced bilabial fricative,β
+1050,Astur-Leonese,Voiced bilabial fricative,β
+1051,Astur-Leonese,Voiceless bilabial fricative,ɸ
+1052,Astur-Leonese,Voiced dental plosive,d
+1053,Astur-Leonese,Voiced dental fricative,ð
+1054,Astur-Leonese,Voiced dental fricative,ð
+1055,Astur-Leonese,Voiced dental fricative,ð
+1056,Astur-Leonese,Voiceless dental fricative,θ
+1057,Astur-Leonese,Voiceless labiodental fricative,f
+1058,Astur-Leonese,Voiceless bilabial fricative,ɸ
+1059,Astur-Leonese,Voiceless labiodental fricative,f
+1060,Astur-Leonese,Voiceless glottal fricative,h
+1061,Astur-Leonese,Voiced uvular fricative,ʁ
+1062,Astur-Leonese,Voiced velar plosive,ɡ
+1063,Astur-Leonese,Voiced velar plosive,ɡ
+1064,Astur-Leonese,Voiceless uvular fricative,χ
+1065,Astur-Leonese,Voiced velar nasal,ŋ
+1066,Astur-Leonese,Voiced uvular fricative,ʁ
+1067,Astur-Leonese,Voiced velar fricative,ɣ
+1068,Astur-Leonese,Voiced velar fricative,ɣ
+1069,Astur-Leonese,Voiceless velar fricative,x
+1070,Astur-Leonese,Voiced palatal fricative,ʝ
+1071,Astur-Leonese,Voiceless glottal fricative,h
+1072,Astur-Leonese,Voiced palatal lateral approximant,ʎ
+1073,Astur-Leonese,Voiced palatal fricative,ʝ
+1074,Astur-Leonese,Voiced palatal approximant,j
+1075,Astur-Leonese,Voiced palatal affricate,ɟʝ
+1076,Astur-Leonese,Voiced postalveolar affricate,dʒ
+1077,Astur-Leonese,Voiced postalveolar fricative,ʒ
+1078,Astur-Leonese,Voiceless velar plosive,k
+1079,Astur-Leonese,Voiced alveolar lateral approximant,l
+1080,Astur-Leonese,Voiced alveolar lateral approximant,l
+1081,Astur-Leonese,Voiced alveolar lateral approximant,l
+1082,Astur-Leonese,Voiced dental and alveolar taps and flaps,ɾ
+1083,Astur-Leonese,Voiced palatal lateral approximant,ʎ
+1084,Astur-Leonese,Voiced bilabial nasal,m
+1085,Astur-Leonese,Voiced alveolar nasal,n
+1086,Astur-Leonese,Voiced velar nasal,ŋ
+1087,Astur-Leonese,Voiced palatal nasal,ɲ
+1088,Astur-Leonese,Voiceless bilabial plosive,p
+1089,Astur-Leonese,Voiced alveolar trill,r
+1090,Astur-Leonese,Voiced alveolar trill,r
+1091,Astur-Leonese,Voiced alveolar trill,r
+1092,Astur-Leonese,Voiced dental and alveolar taps and flaps,ɾ
+1093,Astur-Leonese,Voiced dental and alveolar taps and flaps,ɾ
+1094,Astur-Leonese,Voiced dental and alveolar taps and flaps,ɾ
+1095,Astur-Leonese,Voiceless apico-alveolar fricative,s
+1096,Astur-Leonese,Voiceless apico-alveolar fricative,s
+1097,Astur-Leonese,Voiceless apico-alveolar fricative,s̺
+1098,Astur-Leonese,Voiceless glottal fricative,h
+1099,Astur-Leonese,Voiced dental fricative,ð
+1100,Astur-Leonese,Voiced apico-alveolar fricative,z̺
+1101,Astur-Leonese,Voiced alveolar fricative,z
+1102,Astur-Leonese,Voiced glottal fricative,ɦ
+1103,Astur-Leonese,Voiceless dental plosive,t
+1104,Astur-Leonese,Voiceless postalveolar affricate,tʃ
+1105,Astur-Leonese,Voiced labiodental fricative,v
+1106,Astur-Leonese,Voiced glottal fricative,ɦ
+1107,Astur-Leonese,Voiced labiodental fricative,v
+1108,Astur-Leonese,Voiceless dental fricative,θ
+1109,Astur-Leonese,Voiced alveolar plosive,d
+1110,Astur-Leonese,Voiceless dental fricative,θ
+1111,Astur-Leonese,Voiceless dental sibilant fricative,s̻
+1112,Astur-Leonese,Voiceless glottal fricative,h
+1113,Astur-Leonese,Voiced dental fricative,ð
+1114,Astur-Leonese,Voiced dental sibilant fricative,z̻
+1115,Astur-Leonese,Voiced dental fricative,ð
+1116,Astur-Leonese,Voiced glottal fricative,ɦ
+1117,Astur-Leonese,Voiceless alveolo-palatal fricative,ʃ
+1118,Astur-Leonese,Voiceless alveolar fricative,s
+1119,Astur-Leonese,Voiceless postalveolar fricative,ʃ
+1120,Astur-Leonese,Voiceless glottal fricative,h
+1121,Astur-Leonese,Voiced postalveolar fricative,ʒ
+1122,Astur-Leonese,Voiced postalveolar fricative,ʒ
+1123,Astur-Leonese,Voiced glottal fricative,ɦ
+1124,Fijian,Voiced bilabial fricative,β
+1125,Fijian,Voiced palatal approximant,j
+1126,Fijian,Voiceless labiodental fricative,f
+1127,Fijian,Voiced dental fricative,ð
+1128,Fijian,Voiceless glottal fricative,h
+1129,Fijian,Voiceless velar plosive,k
+1130,Fijian,Voiced alveolar lateral approximant,l
+1131,Fijian,Voiced bilabial nasal,m
+1132,Fijian,Voiced alveolar nasal,n
+1133,Fijian,Voiced velar nasal,ŋ
+1134,Fijian,Voiceless bilabial plosive,p
+1135,Fijian,Voiced alveolar trill,r
+1136,Fijian,Voiceless alveolar fricative,s
+1137,Fijian,Voiceless alveolar plosive,t
+1138,Fijian,Voiceless postalveolar affricate,tʃ
+1139,Fijian,Voiced velar approximant,ɰ
+1140,Finnish,Voiced bilabial plosive,b
+1141,Finnish,Voiced alveolar plosive,d
+1142,Finnish,Voiceless labiodental fricative,f
+1143,Finnish,Voiced velar plosive,ɡ
+1144,Finnish,Voiceless glottal fricative,h
+1145,Finnish,Voiced palatal approximant,j
+1146,Finnish,Voiceless velar plosive,k
+1147,Finnish,Voiceless velar plosive,kː
+1148,Finnish,Voiced alveolar lateral approximant,l
+1149,Finnish,Voiced alveolar lateral approximant,lː
+1150,Finnish,Voiced bilabial nasal,m
+1151,Finnish,Voiced bilabial nasal,mː
+1152,Finnish,Voiced alveolar nasal,n
+1153,Finnish,Voiced alveolar nasal,nː
+1154,Finnish,Voiced velar nasal,ŋ
+1155,Finnish,Voiced velar nasal,ŋː
+1156,Finnish,Voiceless bilabial plosive,p
+1157,Finnish,Voiceless bilabial plosive,pː
+1158,Finnish,Voiced alveolar trill,r
+1159,Finnish,Voiceless alveolar fricative,s
+1160,Finnish,Voiceless alveolar fricative,sː
+1161,Finnish,Voiceless postalveolar fricative,ʃ
+1162,Finnish,Voiceless dental plosive,t
+1163,Finnish,Voiceless dental plosive,tː
+1164,Finnish,Voiceless alveolar affricate,ts
+1165,Finnish,Voiced labiodental approximant,ʋ
+1166,Finnish,Voiced postalveolar fricative,ʒ
+1167,Finnish,Glottal stop,ʔ
+1168,Franco-Proven%C3%A7al,Voiced bilabial plosive,b
+1169,Franco-Proven%C3%A7al,Voiceless palatal fricative,ç
+1170,Franco-Proven%C3%A7al,Voiced dental plosive,d
+1171,Franco-Proven%C3%A7al,Voiced dental fricative,ð
+1172,Franco-Proven%C3%A7al,Voiceless labiodental fricative,f
+1173,Franco-Proven%C3%A7al,Voiced velar plosive,ɡ
+1174,Franco-Proven%C3%A7al,Voiced alveolar affricate,dz
+1175,Franco-Proven%C3%A7al,Voiced postalveolar affricate,dʒ
+1176,Franco-Proven%C3%A7al,Voiced palatal plosive,ɟ
+1177,Franco-Proven%C3%A7al,Voiced postalveolar fricative,ʒ
+1178,Franco-Proven%C3%A7al,Voiceless glottal fricative,h
+1179,Franco-Proven%C3%A7al,Voiceless velar plosive,k
+1180,Franco-Proven%C3%A7al,Voiceless palatal plosive,c
+1181,Franco-Proven%C3%A7al,Voiceless postalveolar fricative,ʃ
+1182,Franco-Proven%C3%A7al,Voiceless alveolar affricate,ts
+1183,Franco-Proven%C3%A7al,Voiceless postalveolar affricate,tʃ
+1184,Franco-Proven%C3%A7al,Voiced alveolar lateral approximant,l
+1185,Franco-Proven%C3%A7al,Voiced palatal lateral approximant,ʎ
+1186,Franco-Proven%C3%A7al,Voiced bilabial nasal,m
+1187,Franco-Proven%C3%A7al,Voiced alveolar nasal,n
+1188,Franco-Proven%C3%A7al,Voiced palatal nasal,ɲ
+1189,Franco-Proven%C3%A7al,Voiced velar nasal,ŋ
+1190,Franco-Proven%C3%A7al,Voiceless bilabial plosive,p
+1191,Franco-Proven%C3%A7al,Voiced alveolar trill,r
+1192,Franco-Proven%C3%A7al,Voiced uvular fricative,ʁ
+1193,Franco-Proven%C3%A7al,Voiceless alveolar fricative,s
+1194,Franco-Proven%C3%A7al,Voiceless dental plosive,t
+1195,Franco-Proven%C3%A7al,Voiceless dental fricative,θ
+1196,Franco-Proven%C3%A7al,Voiced labiodental fricative,v
+1197,Franco-Proven%C3%A7al,Voiced alveolar fricative,z
+1198,French,Voiced bilabial plosive,b
+1199,French,Voiced dental plosive,d
+1200,French,Voiceless labiodental fricative,f
+1201,French,Voiced velar plosive,ɡ
+1202,French,Voiceless velar plosive,k
+1203,French,Voiced alveolar lateral approximant,l
+1204,French,Voiced bilabial nasal,m
+1205,French,Voiced dental nasal,n
+1206,French,Voiced palatal nasal,ɲ
+1207,French,Voiced velar nasal,ŋ
+1208,French,Voiceless bilabial plosive,p
+1209,French,Voiced uvular fricative,ʁ
+1210,French,Voiceless alveolar fricative,s
+1211,French,Voiceless postalveolar fricative,ʃ
+1212,French,Voiceless dental plosive,t
+1213,French,Voiced labiodental fricative,v
+1214,French,Voiced alveolar fricative,z
+1215,French,Voiced postalveolar fricative,ʒ
+1216,French,Voiced palatal approximant,j
+1217,French,Voiced labial–velar approximant,w
+1218,French,Voiced labial–palatal approximant,ɥ
+1219,Galician,Voiced bilabial plosive,b
+1220,Galician,Voiced bilabial approximant,β
+1221,Galician,Voiced dental plosive,d
+1222,Galician,Voiced dental approximant,ð
+1223,Galician,Voiceless labiodental fricative,f
+1224,Galician,Voiced velar plosive,ɡ
+1225,Galician,Voiced velar approximant,ɣ
+1226,Galician,Voiced palatal plosive,ɟ
+1227,Galician,Voiceless velar plosive,k
+1228,Galician,Voiced alveolar lateral approximant,l
+1229,Galician,Voiced bilabial nasal,m
+1230,Galician,Voiced labiodental nasal,ɱ
+1231,Galician,Voiced alveolar nasal,n
+1232,Galician,Voiced velar nasal,ŋ
+1233,Galician,Voiced palatal nasal,ɲ
+1234,Galician,Voiceless bilabial plosive,p
+1235,Galician,Voiceless dental fricative,θ
+1236,Galician,Voiced alveolar trill,r
+1237,Galician,Voiced dental and alveolar taps and flaps,ɾ
+1238,Galician,Voiceless apico-alveolar fricative,s
+1239,Galician,Voiceless postalveolar fricative,ʃ
+1240,Galician,Voiceless dental plosive,t
+1241,Galician,Voiceless postalveolar affricate,tʃ
+1242,Galician,Voiced labiodental fricative,v
+1243,Galician,Voiced apico-alveolar fricative,z
+1244,Galician,Voiceless pharyngeal fricative,ħ
+1245,Galician,Voiced postalveolar fricative,ʒ
+1246,Galician,Voiced postalveolar affricate,dʒ
+1247,Galician,Voiceless glottal fricative,h
+1248,Galician,Voiceless alveolar affricate,ts
+1249,Galician,Voiceless velar fricative,x
+1250,Georgian,Voiced bilabial plosive,b
+1251,Georgian,Voiced velar plosive,ɡ
+1252,Georgian,Voiced dental plosive,d
+1253,Georgian,Voiced labiodental fricative,v
+1254,Georgian,Voiced alveolar fricative,z
+1255,Georgian,Voiceless dental plosive,tʰ
+1256,Georgian,Voiced alveolar lateral approximant,l
+1257,Georgian,Voiced bilabial nasal,m
+1258,Georgian,Voiced alveolar nasal,n
+1259,Georgian,Voiced postalveolar fricative,ʒ
+1260,Georgian,Voiced alveolar trill,r
+1261,Georgian,Voiceless alveolar fricative,s
+1262,Georgian,Voiceless bilabial plosive,pʰ
+1263,Georgian,Voiceless velar plosive,kʰ
+1264,Georgian,Voiced uvular fricative,ʁ
+1265,Georgian,Voiceless postalveolar fricative,ʃ
+1266,Georgian,Voiced alveolar affricate,dz
+1267,Georgian,Voiceless uvular fricative,χ
+1268,Georgian,Voiced postalveolar affricate,dʒ
+1269,Georgian,Voiceless glottal fricative,h
+1270,Georgian,Voiceless labiodental fricative,f
+1271,Greek,Voiceless post-palatal plosive,c
+1272,Greek,Voiceless velar plosive,k
+1273,Greek,Voiceless velar fricative,x
+1274,Greek,Voiceless post-palatal fricative,ç
+1275,Greek,Voiced palatal approximant,j
+1276,Greek,Voiced post-palatal fricative,ʝ
+1277,Greek,Voiced velar fricative,ɣ
+1278,Greek,Voiced velar plosive,ɡ
+1279,Greek,Voiced post-palatal plosive,ɟ
+1280,Greek,Voiceless bilabial plosive,p
+1281,Greek,Voiceless labiodental fricative,f
+1282,Greek,Voiced labiodental fricative,v
+1283,Greek,Voiced bilabial plosive,b
+1284,Greek,Voiced labial–velar approximant,w
+1285,Greek,Voiceless alveolar plosive,t
+1286,Greek,Voiceless dental fricative,θ
+1287,Greek,Voiced dental fricative,ð
+1288,Greek,Voiced alveolar plosive,d
+1289,Greek,Voiceless glottal fricative,h
+1290,Greek,Voiced alveolar lateral approximant,l
+1291,Greek,Voiced palatal lateral approximant,ʎ
+1292,Greek,Voiced bilabial nasal,m
+1293,Greek,Voiced alveolar nasal,n
+1294,Greek,Voiced palatal nasal,ɲ
+1295,Greek,Voiced velar nasal,ŋ
+1296,Greek,Voiced dental and alveolar taps and flaps,r
+1297,Greek,Voiceless alveolar trill,r̥
+1298,Greek,Voiceless alveolar fricative,s
+1299,Greek,Voiced alveolar fricative,z
+1300,Greenlandic,Voiceless palatal fricative,çː
+1301,Greenlandic,Voiceless labiodental fricative,fː
+1302,Greenlandic,Voiced velar fricative,ɣ
+1303,Greenlandic,Voiced palatal approximant,j
+1304,Greenlandic,Voiceless velar plosive,k
+1305,Greenlandic,Voiced alveolar lateral approximant,l
+1306,Greenlandic,Voiceless alveolar lateral fricative,ɬː
+1307,Greenlandic,Voiced bilabial nasal,m
+1308,Greenlandic,Voiced alveolar nasal,n
+1309,Greenlandic,Voiced velar nasal,ŋ
+1310,Greenlandic,Voiced uvular nasal,ɴ
+1311,Greenlandic,Voiceless bilabial plosive,p
+1312,Greenlandic,Voiceless uvular plosive,q
+1313,Greenlandic,Voiced uvular fricative,ʁ
+1314,Greenlandic,Voiceless alveolar fricative,s
+1315,Greenlandic,Voiceless alveolar plosive,t
+1316,Greenlandic,Voiceless alveolar affricate,ts
+1317,Greenlandic,Voiced labiodental fricative,v
+1318,Greenlandic,Voiceless uvular fricative,χː
+1319,Gujarati,Voiced bilabial plosive,b
+1320,Gujarati,Voiced dental plosive,d
+1321,Gujarati,Voiced retroflex plosive,ɖ
+1322,Gujarati,Voiced postalveolar affricate,dʒ
+1323,Gujarati,Voiced velar plosive,ɡ
+1324,Gujarati,Voiceless glottal fricative,h
+1325,Gujarati,Voiced glottal fricative,ɦ
+1326,Gujarati,Voiced palatal approximant,j
+1327,Gujarati,Voiceless velar plosive,k
+1328,Gujarati,Voiced alveolar lateral approximant,l
+1329,Gujarati,Voiced retroflex lateral approximant,ɭ
+1330,Gujarati,Voiced bilabial nasal,m
+1331,Gujarati,Voiced alveolar nasal,n
+1332,Gujarati,Voiced retroflex nasal,ɳ
+1333,Gujarati,Voiced palatal nasal,ɲ
+1334,Gujarati,Voiced velar nasal,ŋ
+1335,Gujarati,Voiceless bilabial plosive,p
+1336,Gujarati,Voiced dental and alveolar taps and flaps,ɾ
+1337,Gujarati,Voiced retroflex flap,ɽ
+1338,Gujarati,Voiceless dental sibilant fricative,s
+1339,Gujarati,Voiceless retroflex fricative,ʂ
+1340,Gujarati,Voiceless postalveolar fricative,ʃ
+1341,Gujarati,Voiceless dental plosive,t
+1342,Gujarati,Voiceless retroflex plosive,ʈ
+1343,Gujarati,Voiceless postalveolar affricate,tʃ
+1344,Gujarati,Voiced labiodental approximant,ʋ
+1345,Haitian_Creole,Voiced bilabial plosive,b
+1346,Haitian_Creole,Voiceless postalveolar fricative,ʃ
+1347,Haitian_Creole,Voiced alveolar plosive,d
+1348,Haitian_Creole,Voiceless labiodental fricative,f
+1349,Haitian_Creole,Voiced velar plosive,ɡ
+1350,Haitian_Creole,Voiced velar fricative,ɣ
+1351,Haitian_Creole,Voiceless glottal fricative,h
+1352,Haitian_Creole,Voiced palatal approximant,j
+1353,Haitian_Creole,Voiceless velar plosive,k
+1354,Haitian_Creole,Voiced alveolar lateral approximant,l
+1355,Haitian_Creole,Voiced bilabial nasal,m
+1356,Haitian_Creole,Voiced alveolar nasal,n
+1357,Haitian_Creole,Voiced velar nasal,ŋ
+1358,Haitian_Creole,Voiceless bilabial plosive,p
+1359,Haitian_Creole,Voiceless alveolar fricative,s
+1360,Haitian_Creole,Voiceless alveolar plosive,t
+1361,Haitian_Creole,Voiced labiodental fricative,v
+1362,Haitian_Creole,Voiced labial–velar approximant,w
+1363,Haitian_Creole,Voiced labial–palatal approximant,ɥ
+1364,Haitian_Creole,Voiced alveolar fricative,z
+1365,Haitian_Creole,Voiced postalveolar fricative,ʒ
+1366,Haitian_Creole,Voiced postalveolar affricate,dʒ
+1367,Hawaiian,Voiceless glottal fricative,h
+1368,Hawaiian,Voiced palatal approximant,j
+1369,Hawaiian,Voiceless velar plosive,k
+1370,Hawaiian,Voiced alveolar lateral approximant,l
+1371,Hawaiian,Voiced bilabial nasal,m
+1372,Hawaiian,Voiced alveolar nasal,n
+1373,Hawaiian,Voiceless bilabial plosive,p
+1374,Hawaiian,Voiceless alveolar plosive,t
+1375,Hawaiian,Voiced labiodental fricative,v
+1376,Hawaiian,Voiced labial–velar approximant,w
+1377,Hawaiian,Glottal stop,ʔ
+1378,Hebrew,Voiced alveolar trill,r
+1379,Hebrew,Voiced dental and alveolar taps and flaps,ɾ
+1380,Hebrew,Voiced labial–velar approximant,w
+1381,Hindi_and_Urdu,Voiced bilabial plosive,b
+1382,Hindi_and_Urdu,Voiced dental plosive,d
+1383,Hindi_and_Urdu,Voiced postalveolar affricate,dʒ
+1384,Hindi_and_Urdu,Voiced retroflex plosive,ɖ
+1385,Hindi_and_Urdu,Voiceless labiodental fricative,f
+1386,Hindi_and_Urdu,Voiced velar plosive,ɡ
+1387,Hindi_and_Urdu,Glottal stop,ʔ
+1388,Hindi_and_Urdu,Voiced velar fricative,ɣ
+1389,Hindi_and_Urdu,Voiced glottal fricative,ɦ
+1390,Hindi_and_Urdu,Voiced palatal approximant,j
+1391,Hindi_and_Urdu,Voiceless velar plosive,k
+1392,Hindi_and_Urdu,Voiced alveolar lateral approximant,l
+1393,Hindi_and_Urdu,Voiced bilabial nasal,m
+1394,Hindi_and_Urdu,Voiced dental nasal,n
+1395,Hindi_and_Urdu,Voiced retroflex nasal,ɳ
+1396,Hindi_and_Urdu,Voiced velar nasal,ŋ
+1397,Hindi_and_Urdu,Voiceless bilabial plosive,p
+1398,Hindi_and_Urdu,Voiceless uvular plosive,q
+1399,Hindi_and_Urdu,Voiced alveolar trill,r
+1400,Hindi_and_Urdu,Voiced dental and alveolar taps and flaps,ɾ
+1401,Hindi_and_Urdu,Voiced retroflex flap,ɽ
+1402,Hindi_and_Urdu,Voiceless alveolar fricative,s
+1403,Hindi_and_Urdu,Voiceless retroflex fricative,ʂ
+1404,Hindi_and_Urdu,Voiceless postalveolar fricative,ʃ
+1405,Hindi_and_Urdu,Voiceless dental plosive,t
+1406,Hindi_and_Urdu,Voiceless retroflex plosive,ʈ
+1407,Hindi_and_Urdu,Voiced labiodental approximant,ʋ
+1408,Hindi_and_Urdu,Voiced labial–velar approximant,w
+1409,Hindi_and_Urdu,Voiceless velar fricative,x
+1410,Hindi_and_Urdu,Voiced alveolar fricative,z
+1411,Hindi_and_Urdu,Voiced postalveolar fricative,ʒ
+1412,Hmong,Voiceless palatal plosive,c
+1413,Hmong,Voiced alveolar plosive,d
+1414,Hmong,Voiceless labiodental fricative,f
+1415,Hmong,Voiced velar nasal,ŋ
+1416,Hmong,Voiceless glottal fricative,h
+1417,Hmong,Voiceless bilabial nasal,m̥
+1418,Hmong,Voiceless alveolar nasal,n̥
+1419,Hmong,Voiceless palatal nasal,ɲ̥
+1420,Hmong,Voiced alveolar lateral approximant,l
+1421,Hmong,Voiced bilabial nasal,m
+1422,Hmong,Voiced alveolar nasal,n
+1423,Hmong,Voiced palatal nasal,ɲ
+1424,Hmong,Voiceless bilabial plosive,p
+1425,Hmong,Voiceless uvular plosive,q
+1426,Hmong,Voiceless retroflex plosive,ʈ
+1427,Hmong,Voiceless retroflex fricative,ʂ
+1428,Hmong,Voiceless alveolar plosive,t
+1429,Hmong,Voiceless alveolar affricate,ts
+1430,Hmong,Voiceless retroflex affricate,ʈʂ
+1431,Hmong,Voiced labiodental fricative,v
+1432,Hmong,Voiceless alveolar fricative,s
+1433,Hmong,Voiceless palatal fricative,ç
+1434,Hmong,Voiced palatal fricative,ʝ
+1435,Hmong,Voiced retroflex fricative,ʐ
+1436,Hmong,Glottal stop,ʔ
+1437,Hungarian,Voiced bilabial plosive,b
+1438,Hungarian,Voiceless palatal plosive,c
+1439,Hungarian,Voiced dental plosive,d
+1440,Hungarian,Voiceless labiodental fricative,f
+1441,Hungarian,Voiced velar plosive,ɡ
+1442,Hungarian,Voiceless glottal fricative,h
+1443,Hungarian,Voiced palatal approximant,j
+1444,Hungarian,Voiced palatal plosive,ɟ
+1445,Hungarian,Voiceless velar plosive,k
+1446,Hungarian,Voiced alveolar lateral approximant,l
+1447,Hungarian,Voiced bilabial nasal,m
+1448,Hungarian,Voiced dental nasal,n
+1449,Hungarian,Voiced velar nasal,ŋ
+1450,Hungarian,Voiced palatal nasal,ɲ
+1451,Hungarian,Voiceless bilabial plosive,p
+1452,Hungarian,Voiced dental trill,r
+1453,Hungarian,Voiceless dental sibilant fricative,s
+1454,Hungarian,Voiceless postalveolar fricative,ʃ
+1455,Hungarian,Voiceless dental plosive,t
+1456,Hungarian,Voiced labiodental fricative,v
+1457,Hungarian,Voiced dental sibilant fricative,z
+1458,Hungarian,Voiced postalveolar fricative,ʒ
+1459,Icelandic,Voiceless palatal plosive,c
+1460,Icelandic,Voiceless palatal fricative,ç
+1461,Icelandic,Voiced alveolar non-sibilant fricative,ð
+1462,Icelandic,Voiceless labiodental fricative,f
+1463,Icelandic,Voiced velar fricative,ɣ
+1464,Icelandic,Voiceless glottal fricative,h
+1465,Icelandic,Voiced palatal approximant,j
+1466,Icelandic,Voiceless velar plosive,k
+1467,Icelandic,Voiced alveolar lateral approximant,l
+1468,Icelandic,Voiceless alveolar lateral fricative,l̥
+1469,Icelandic,Voiced bilabial nasal,m
+1470,Icelandic,Voiceless bilabial nasal,m̥
+1471,Icelandic,Voiced alveolar nasal,n
+1472,Icelandic,Voiceless alveolar nasal,n̥
+1473,Icelandic,Voiced palatal nasal,ɲ
+1474,Icelandic,Voiceless palatal nasal,ɲ̊
+1475,Icelandic,Voiced velar nasal,ŋ
+1476,Icelandic,Voiceless velar nasal,ŋ̊
+1477,Icelandic,Voiceless bilabial plosive,p
+1478,Icelandic,Voiced alveolar trill,r
+1479,Icelandic,Voiceless alveolar trill,r̥
+1480,Icelandic,Voiceless apico-alveolar fricative,s
+1481,Icelandic,Voiceless dental plosive,t
+1482,Icelandic,Voiceless alveolar non-sibilant fricative,θ
+1483,Icelandic,Voiced labiodental fricative,v
+1484,Icelandic,Voiceless velar fricative,x
+1485,Igbo,Voiced bilabial plosive,b
+1486,Igbo,Voiced alveolar plosive,d
+1487,Igbo,Voiceless labiodental fricative,f
+1488,Igbo,Voiced velar plosive,ɡ
+1489,Igbo,Voiced velar fricative,ɣ
+1490,Igbo,Voiceless glottal fricative,h
+1491,Igbo,Voiced palatal approximant,j
+1492,Igbo,Voiceless velar plosive,k
+1493,Igbo,Voiced alveolar lateral approximant,l
+1494,Igbo,Voiced bilabial nasal,m
+1495,Igbo,Voiced alveolar nasal,n
+1496,Igbo,Voiced palatal nasal,ɲ
+1497,Igbo,Voiced velar nasal,ŋ
+1498,Igbo,Voiceless bilabial plosive,p
+1499,Igbo,Voiced alveolar trill,r
+1500,Igbo,Voiceless alveolar fricative,s
+1501,Igbo,Voiceless postalveolar fricative,ʃ
+1502,Igbo,Voiceless alveolar plosive,t
+1503,Igbo,Voiced labiodental fricative,v
+1504,Igbo,Voiced labial–velar approximant,w
+1505,Igbo,Voiced alveolar fricative,z
+1506,Malay,Voiced bilabial plosive,b
+1507,Malay,Voiced alveolar plosive,d
+1508,Malay,Voiced postalveolar affricate,dʒ
+1509,Malay,Voiceless labiodental fricative,f
+1510,Malay,Voiced velar plosive,ɡ
+1511,Malay,Voiceless glottal fricative,h
+1512,Malay,Voiced palatal approximant,j
+1513,Malay,Voiceless velar plosive,k
+1514,Malay,Voiced alveolar lateral approximant,l
+1515,Malay,Voiced bilabial nasal,m
+1516,Malay,Voiced alveolar nasal,n
+1517,Malay,Voiced velar nasal,ŋ
+1518,Malay,Voiced palatal nasal,ɲ
+1519,Malay,Voiceless bilabial plosive,p
+1520,Malay,Voiced alveolar trill,r
+1521,Malay,Voiceless alveolar fricative,s
+1522,Malay,Voiceless postalveolar fricative,ʃ
+1523,Malay,Voiceless alveolar plosive,t
+1524,Malay,Voiceless postalveolar affricate,tʃ
+1525,Malay,Voiced labiodental fricative,v
+1526,Malay,Voiced labial–velar approximant,w
+1527,Malay,Voiceless velar fricative,x
+1528,Malay,Voiced alveolar fricative,z
+1529,Malay,Glottal stop,ʔ
+1530,Inuktitut,Voiceless glottal fricative,h
+1531,Inuktitut,Voiceless bilabial plosive,p
+1532,Inuktitut,Voiceless alveolar plosive,t
+1533,Inuktitut,Voiceless velar plosive,k
+1534,Inuktitut,Voiced velar fricative,ɣ
+1535,Inuktitut,Voiced bilabial nasal,m
+1536,Inuktitut,Voiced alveolar nasal,n
+1537,Inuktitut,Voiceless alveolar fricative,s
+1538,Inuktitut,Voiced alveolar lateral approximant,l
+1539,Inuktitut,Voiced palatal approximant,j
+1540,Inuktitut,Voiced labiodental fricative,v
+1541,Inuktitut,Voiced uvular fricative,ʁ
+1542,Inuktitut,Voiceless uvular plosive,q
+1543,Inuktitut,Voiced velar nasal,ŋ
+1544,Inuktitut,Voiced velar nasal,ŋː
+1545,Inuktitut,Voiceless alveolar lateral fricative,ɬ
+1546,Inupiaq,Voiceless glottal fricative,h
+1547,Inupiaq,Voiced velar fricative,ɣ
+1548,Inupiaq,Voiced palatal approximant,j
+1549,Inupiaq,Voiceless velar plosive,k
+1550,Inupiaq,Voiced alveolar lateral approximant,l
+1551,Inupiaq,Voiceless alveolar lateral fricative,ɬ
+1552,Inupiaq,Voiced palatal lateral approximant,ʎ
+1553,Inupiaq,Voiceless palatal lateral fricative,ʎ̥
+1554,Inupiaq,Voiced bilabial nasal,m
+1555,Inupiaq,Voiced alveolar nasal,n
+1556,Inupiaq,Voiced velar nasal,ŋ
+1557,Inupiaq,Voiced palatal nasal,ɲ
+1558,Inupiaq,Voiceless bilabial plosive,p
+1559,Inupiaq,Voiceless uvular plosive,q
+1560,Inupiaq,Voiced uvular fricative,ʁ
+1561,Inupiaq,Voiceless alveolar fricative,s
+1562,Inupiaq,Voiceless retroflex fricative,ʂ
+1563,Inupiaq,Voiceless alveolar plosive,t
+1564,Inupiaq,Voiceless postalveolar affricate,tʃ
+1565,Inupiaq,Voiced labiodental fricative,v
+1566,Inupiaq,Voiced retroflex fricative,ʐ
+1567,Inupiaq,Voiceless labiodental fricative,f
+1568,Inupiaq,Voiced uvular nasal,ɴ
+1569,Inupiaq,Voiceless velar fricative,x
+1570,Inupiaq,Voiceless uvular fricative,χ
+1571,Irish,Voiced bilabial plosive,bˠ
+1572,Irish,Voiceless labiodental fricative,fˠ
+1573,Irish,Voiced velar plosive,ɡ
+1574,Irish,Voiced palatal plosive,ɟ
+1575,Irish,Voiced velar fricative,ɣ
+1576,Irish,Voiced palatal approximant,j
+1577,Irish,Voiceless glottal fricative,h
+1578,Irish,Voiceless velar plosive,k
+1579,Irish,Voiceless palatal plosive,c
+1580,Irish,Voiced alveolar lateral approximant,lˠ
+1581,Irish,Voiced bilabial nasal,mˠ
+1582,Irish,Voiced alveolar nasal,nˠ
+1583,Irish,Voiced velar nasal,ŋ
+1584,Irish,Voiced palatal nasal,ɲ
+1585,Irish,Voiceless bilabial plosive,pˠ
+1586,Irish,Voiced dental and alveolar taps and flaps,ɾˠ
+1587,Irish,Voiceless alveolar fricative,sˠ
+1588,Irish,Voiceless postalveolar fricative,ʃ
+1589,Irish,Voiced labial–velar approximant,w
+1590,Irish,Voiceless velar fricative,x
+1591,Irish,Voiceless palatal fricative,ç
+1592,Lao,Voiced bilabial plosive,b
+1593,Lao,Voiced alveolar plosive,d
+1594,Lao,Voiceless labiodental fricative,f
+1595,Lao,Voiceless glottal fricative,h
+1596,Lao,Voiced palatal approximant,j
+1597,Lao,Voiceless velar plosive,k
+1598,Lao,Voiced alveolar lateral approximant,l
+1599,Lao,Voiced bilabial nasal,m
+1600,Lao,Voiced alveolar nasal,n
+1601,Lao,Voiced velar nasal,ŋ
+1602,Lao,Voiced palatal nasal,ɲ
+1603,Lao,Voiceless bilabial plosive,p
+1604,Lao,Voiced alveolar trill,r
+1605,Lao,Voiceless alveolar fricative,s
+1606,Lao,Voiceless alveolar plosive,t
+1607,Lao,Voiceless alveolo-palatal affricate,tɕ
+1608,Lao,Voiced labial–velar approximant,w
+1609,Lao,Voiceless velar fricative,x
+1610,Lao,Glottal stop,ʔ
+1611,Lao,Voiced palatal approximant,j
+1612,Lao,Voiceless velar plosive,k
+1613,Lao,Voiced bilabial nasal,m
+1614,Lao,Voiced alveolar nasal,n
+1615,Lao,Voiced velar nasal,ŋ
+1616,Lao,Voiceless bilabial plosive,p
+1617,Lao,Voiceless alveolar plosive,t
+1618,Lao,Voiced labial–velar approximant,w
+1619,Lao,Glottal stop,ʔ
+1620,Italian,Voiced bilabial plosive,b
+1621,Italian,Voiced dental plosive,d
+1622,Italian,Voiced dental affricate,dz
+1623,Italian,Voiced postalveolar affricate,dʒ
+1624,Italian,Voiceless labiodental fricative,f
+1625,Italian,Voiced velar plosive,ɡ
+1626,Italian,Voiceless velar plosive,k
+1627,Italian,Voiced alveolar lateral approximant,l
+1628,Italian,Voiced palatal lateral approximant,ʎ
+1629,Italian,Voiced bilabial nasal,m
+1630,Italian,Voiced labiodental nasal,ɱ
+1631,Italian,Voiced alveolar nasal,n
+1632,Italian,Voiced velar nasal,ŋ
+1633,Italian,Voiced palatal nasal,ɲ
+1634,Italian,Voiceless bilabial plosive,p
+1635,Italian,Voiced alveolar trill,r
+1636,Italian,Voiceless dental sibilant fricative,s
+1637,Italian,Voiceless postalveolar fricative,ʃ
+1638,Italian,Voiceless dental plosive,t
+1639,Italian,Voiceless dental affricate,ts
+1640,Italian,Voiceless postalveolar affricate,tʃ
+1641,Italian,Voiced labiodental fricative,v
+1642,Italian,Voiced dental sibilant fricative,z
+1643,Italian,Voiceless glottal fricative,h
+1644,Italian,Voiceless dental fricative,θ
+1645,Italian,Voiceless velar fricative,x
+1646,Italian,Voiced postalveolar fricative,ʒ
+1647,Central_Italian,Voiced bilabial plosive,b
+1648,Central_Italian,Voiced bilabial nasal,m
+1649,Central_Italian,Voiced dental plosive,d
+1650,Central_Italian,Voiced alveolar lateral approximant,l
+1651,Central_Italian,Voiced alveolar nasal,n
+1652,Central_Italian,Voiced dental affricate,dz
+1653,Central_Italian,Voiced postalveolar affricate,dʒ
+1654,Central_Italian,Voiced postalveolar fricative,ʒ
+1655,Central_Italian,Voiceless labiodental fricative,f
+1656,Central_Italian,Voiced velar plosive,ɡ
+1657,Central_Italian,Voiced palatal approximant,j
+1658,Central_Italian,Voiced velar plosive,ɡ
+1659,Central_Italian,Voiceless velar plosive,k
+1660,Central_Italian,Voiceless glottal fricative,h
+1661,Central_Italian,Voiced alveolar lateral approximant,l
+1662,Central_Italian,Voiced alveolar trill,r
+1663,Central_Italian,Voiced dental and alveolar taps and flaps,ɾ
+1664,Central_Italian,Voiced palatal approximant,j
+1665,Central_Italian,Voiced palatal lateral approximant,ʎ
+1666,Central_Italian,Voiced bilabial nasal,m
+1667,Central_Italian,Voiced alveolar nasal,n
+1668,Central_Italian,Voiced palatal nasal,ɲ
+1669,Central_Italian,Voiced velar nasal,ŋ
+1670,Central_Italian,Voiced labiodental nasal,ɱ
+1671,Central_Italian,Voiced bilabial nasal,m
+1672,Central_Italian,Voiced palatal nasal,ɲ
+1673,Central_Italian,Voiced bilabial plosive,b
+1674,Central_Italian,Voiceless bilabial plosive,p
+1675,Central_Italian,Voiceless bilabial fricative,ɸ
+1676,Central_Italian,Voiced alveolar trill,r
+1677,Central_Italian,Voiced dental and alveolar taps and flaps,ɾ
+1678,Central_Italian,Voiceless dental sibilant fricative,s
+1679,Central_Italian,Voiceless dental affricate,ts
+1680,Central_Italian,Voiceless postalveolar fricative,ʃ
+1681,Central_Italian,Voiced dental plosive,d
+1682,Central_Italian,Voiceless dental plosive,t
+1683,Central_Italian,Voiceless dental fricative,θ
+1684,Central_Italian,Voiceless dental affricate,ts
+1685,Central_Italian,Voiced postalveolar affricate,dʒ
+1686,Central_Italian,Voiceless postalveolar affricate,tʃ
+1687,Central_Italian,Voiceless postalveolar fricative,ʃ
+1688,Central_Italian,Voiced labiodental fricative,v
+1689,Central_Italian,Voiced labial–velar approximant,w
+1690,Central_Italian,Voiced dental sibilant fricative,z
+1691,Central_Italian,Voiceless dental sibilant fricative,s
+1692,Japanese,Voiced bilabial plosive,b
+1693,Japanese,Voiceless palatal fricative,ç
+1694,Japanese,Voiceless alveolo-palatal fricative,ɕ
+1695,Japanese,Voiced alveolar plosive,d
+1696,Japanese,Voiced alveolar affricate,dz
+1697,Japanese,Voiced alveolo-palatal affricate,dʑ
+1698,Japanese,Voiceless bilabial fricative,ɸ
+1699,Japanese,Voiced velar plosive,ɡ
+1700,Japanese,Voiceless glottal fricative,h
+1701,Japanese,Voiced palatal approximant,j
+1702,Japanese,Voiceless velar plosive,k
+1703,Japanese,Voiced bilabial nasal,m
+1704,Japanese,Voiced alveolar nasal,n
+1705,Japanese,Voiced palatal nasal,ɲ
+1706,Japanese,Voiced velar nasal,ŋ
+1707,Japanese,Voiceless bilabial plosive,p
+1708,Japanese,Voiced dental and alveolar taps and flaps,ɾ
+1709,Japanese,Voiceless alveolar fricative,s
+1710,Japanese,Voiceless alveolar plosive,t
+1711,Japanese,Voiceless alveolo-palatal affricate,tɕ
+1712,Japanese,Voiceless alveolar affricate,ts
+1713,Japanese,Voiced bilabial approximant,w
+1714,Japanese,Voiced alveolar fricative,z
+1715,Japanese,Voiced alveolo-palatal fricative,ʑ
+1716,Japanese,Glottal stop,ʔ
+1717,Kazakh,Voiced bilabial plosive,b
+1718,Kazakh,Voiced bilabial fricative,β
+1719,Kazakh,Voiceless alveolo-palatal fricative,ɕ
+1720,Kazakh,Voiced alveolar plosive,d
+1721,Kazakh,Voiceless labiodental fricative,f
+1722,Kazakh,Voiced velar plosive,ɡ
+1723,Kazakh,Voiceless glottal fricative,h
+1724,Kazakh,Voiced palatal approximant,j
+1725,Kazakh,Voiceless velar plosive,k
+1726,Kazakh,Voiced alveolar lateral approximant,l
+1727,Kazakh,Voiced bilabial nasal,m
+1728,Kazakh,Voiced alveolar nasal,n
+1729,Kazakh,Voiced uvular nasal,ɴ
+1730,Kazakh,Voiced velar nasal,ŋ
+1731,Kazakh,Voiceless bilabial plosive,p
+1732,Kazakh,Voiceless uvular plosive,q
+1733,Kazakh,Voiced dental and alveolar taps and flaps,ɾ
+1734,Kazakh,Voiced uvular fricative,ʁ
+1735,Kazakh,Voiceless alveolar fricative,s
+1736,Kazakh,Voiceless alveolar plosive,t
+1737,Kazakh,Voiceless alveolar affricate,ts
+1738,Kazakh,Voiceless alveolo-palatal affricate,tɕ
+1739,Kazakh,Voiced labiodental fricative,v
+1740,Kazakh,Voiced velar fricative,ɣ
+1741,Kazakh,Voiced labial–velar approximant,w
+1742,Kazakh,Voiceless uvular fricative,χ
+1743,Kazakh,Voiced alveolar fricative,z
+1744,Kazakh,Voiced alveolo-palatal fricative,ʑ
+1745,Khmer,Voiceless velar plosive,k
+1746,Khmer,Voiceless velar plosive,k
+1747,Khmer,Glottal stop,ʔ
+1748,Khmer,Voiceless velar plosive,k
+1749,Khmer,Voiceless velar plosive,k
+1750,Khmer,Voiceless velar plosive,k
+1751,Khmer,Glottal stop,ʔ
+1752,Khmer,Voiceless velar plosive,k
+1753,Khmer,Voiced velar nasal,ŋ
+1754,Khmer,Voiced velar nasal,ŋ
+1755,Khmer,Voiceless palatal plosive,c
+1756,Khmer,Voiceless palatal plosive,c
+1757,Khmer,Voiceless palatal plosive,c
+1758,Khmer,Voiceless palatal plosive,c
+1759,Khmer,Voiced palatal nasal,ɲ
+1760,Khmer,Voiced palatal nasal,ɲ
+1761,Khmer,Voiced alveolar implosive,ɗ
+1762,Khmer,Voiceless dental plosive,t̪
+1763,Khmer,Voiceless dental plosive,t̪
+1764,Khmer,Voiced alveolar implosive,ɗ
+1765,Khmer,Voiceless dental plosive,t̪
+1766,Khmer,Voiceless dental plosive,t̪
+1767,Khmer,Voiced dental nasal,n̪
+1768,Khmer,Voiced dental nasal,n̪
+1769,Khmer,Voiceless dental plosive,t̪
+1770,Khmer,Voiced alveolar implosive,ɗ
+1771,Khmer,Voiceless dental plosive,t̪
+1772,Khmer,Voiceless dental plosive,t̪
+1773,Khmer,Voiceless dental plosive,t̪
+1774,Khmer,Voiceless dental plosive,t̪
+1775,Khmer,Voiceless dental plosive,t̪
+1776,Khmer,Voiced dental nasal,n̪
+1777,Khmer,Voiced dental nasal,n̪
+1778,Khmer,Voiced bilabial implosive,ɓ
+1779,Khmer,Voiceless bilabial plosive,p
+1780,Khmer,Voiceless bilabial plosive,p
+1781,Khmer,Voiceless bilabial plosive,p
+1782,Khmer,Voiceless bilabial plosive,p
+1783,Khmer,Voiceless bilabial plosive,p
+1784,Khmer,Voiceless bilabial plosive,p
+1785,Khmer,Voiced bilabial nasal,m
+1786,Khmer,Voiced bilabial nasal,m
+1787,Khmer,Voiced palatal approximant,j
+1788,Khmer,Voiced palatal approximant,j
+1789,Khmer,Voiced alveolar trill,r
+1790,Khmer,Voiced alveolar trill,r
+1791,Khmer,Voiced dental lateral approximant,l̪
+1792,Khmer,Voiced dental lateral approximant,l̪
+1793,Khmer,Voiced labiodental approximant,ʋ
+1794,Khmer,Voiced labiodental approximant,ʋ
+1795,Khmer,Voiced labial–velar approximant,w
+1796,Khmer,Voiceless alveolar fricative,s
+1797,Khmer,Voiceless glottal fricative,h
+1798,Khmer,Voiceless glottal fricative,h
+1799,Khmer,Voiced dental lateral approximant,l̪
+1800,Khmer,Glottal stop,ʔ
+1801,Korean,Voiced bilabial plosive,b
+1802,Korean,Voiced bilabial fricative,β
+1803,Korean,Voiceless palatal fricative,ç
+1804,Korean,Voiceless alveolo-palatal fricative,ɕ
+1805,Korean,Voiced alveolar plosive,d
+1806,Korean,Voiced alveolar affricate,dz
+1807,Korean,Voiced alveolo-palatal affricate,dʑ
+1808,Korean,Voiceless bilabial fricative,ɸ
+1809,Korean,Voiced velar plosive,ɡ
+1810,Korean,Voiced velar fricative,ɣ
+1811,Korean,Voiceless glottal fricative,h
+1812,Korean,Voiced glottal fricative,ɦ
+1813,Korean,Voiced palatal approximant,j
+1814,Korean,Voiced palatal fricative,ʝ
+1815,Korean,Voiceless velar plosive,k
+1816,Korean,Voiced retroflex lateral approximant,ɭ
+1817,Korean,Voiced bilabial nasal,m
+1818,Korean,Voiced alveolar nasal,n
+1819,Korean,Voiced velar nasal,ŋ
+1820,Korean,Voiceless bilabial plosive,p
+1821,Korean,Voiced dental and alveolar taps and flaps,ɾ
+1822,Korean,Voiceless alveolar fricative,s
+1823,Korean,Voiceless alveolar plosive,t
+1824,Korean,Voiceless alveolar affricate,ts
+1825,Korean,Voiceless alveolo-palatal affricate,tɕ
+1826,Korean,Voiced labial–velar approximant,w
+1827,Korean,Voiceless velar fricative,x
+1828,Korean,Voiced alveolar fricative,z
+1829,Korean,Glottal stop,ʔ
+1830,Kyrgyz,Voiced bilabial plosive,b
+1831,Kyrgyz,Voiceless postalveolar fricative,ʃ
+1832,Kyrgyz,Voiceless postalveolar fricative,ʃ
+1833,Kyrgyz,Voiceless alveolar plosive,t
+1834,Kyrgyz,Voiceless postalveolar fricative,ʃ
+1835,Kyrgyz,Voiced alveolar plosive,d
+1836,Kyrgyz,Voiced alveolar plosive,d
+1837,Kyrgyz,Voiced postalveolar fricative,ʒ
+1838,Kyrgyz,Voiceless labiodental fricative,f
+1839,Kyrgyz,Voiced velar plosive,g
+1840,Kyrgyz,Voiced palatal approximant,j
+1841,Kyrgyz,Voiceless velar plosive,k
+1842,Kyrgyz,Voiced alveolar lateral approximant,l
+1843,Kyrgyz,Voiced bilabial nasal,m
+1844,Kyrgyz,Voiced alveolar nasal,n
+1845,Kyrgyz,Voiced velar nasal,ŋ
+1846,Kyrgyz,Voiceless bilabial plosive,p
+1847,Kyrgyz,Voiceless uvular plosive,q
+1848,Kyrgyz,Voiced alveolar trill,r
+1849,Kyrgyz,Voiced uvular fricative,ʁ
+1850,Kyrgyz,Voiceless alveolar fricative,s
+1851,Kyrgyz,Voiceless alveolar plosive,t
+1852,Kyrgyz,Voiceless alveolar plosive,t
+1853,Kyrgyz,Voiceless postalveolar fricative,ʃ
+1854,Kyrgyz,Voiceless alveolar plosive,t
+1855,Kyrgyz,Voiceless alveolar fricative,s
+1856,Kyrgyz,Voiced labiodental fricative,v
+1857,Kyrgyz,Voiceless uvular fricative,χ
+1858,Kyrgyz,Voiced alveolar fricative,z
+1859,Lakota,Voiced bilabial plosive,b
+1860,Lakota,Voiceless postalveolar affricate,tʃ
+1861,Lakota,Voiced velar plosive,g
+1862,Lakota,Voiced uvular fricative,ʁ
+1863,Lakota,Voiceless glottal fricative,h
+1864,Lakota,Voiceless velar fricative,x
+1865,Lakota,Voiceless velar plosive,k
+1866,Lakota,Voiced alveolar lateral approximant,l
+1867,Lakota,Voiced bilabial nasal,m
+1868,Lakota,Voiced alveolar nasal,n
+1869,Lakota,Voiceless bilabial plosive,p
+1870,Lakota,Voiceless alveolar fricative,s
+1871,Lakota,Voiceless postalveolar fricative,ʃ
+1872,Lakota,Voiceless alveolar plosive,t
+1873,Lakota,Voiced labial–velar approximant,w
+1874,Lakota,Voiced palatal approximant,j
+1875,Lakota,Voiced alveolar fricative,z
+1876,Lakota,Voiced postalveolar fricative,ʒ
+1877,Lao,Voiced bilabial plosive,b
+1878,Lao,Voiced alveolar plosive,d
+1879,Lao,Voiceless labiodental fricative,f
+1880,Lao,Voiceless glottal fricative,h
+1881,Lao,Voiced palatal approximant,j
+1882,Lao,Voiceless velar plosive,k
+1883,Lao,Voiced alveolar lateral approximant,l
+1884,Lao,Voiced bilabial nasal,m
+1885,Lao,Voiced alveolar nasal,n
+1886,Lao,Voiced velar nasal,ŋ
+1887,Lao,Voiced palatal nasal,ɲ
+1888,Lao,Voiceless bilabial plosive,p
+1889,Lao,Voiced alveolar trill,r
+1890,Lao,Voiceless alveolar fricative,s
+1891,Lao,Voiceless alveolar plosive,t
+1892,Lao,Voiceless alveolo-palatal affricate,tɕ
+1893,Lao,Voiced labial–velar approximant,w
+1894,Lao,Voiceless velar fricative,x
+1895,Lao,Glottal stop,ʔ
+1896,Lao,Voiced palatal approximant,j
+1897,Lao,Voiceless velar plosive,k
+1898,Lao,Voiced bilabial nasal,m
+1899,Lao,Voiced alveolar nasal,n
+1900,Lao,Voiced velar nasal,ŋ
+1901,Lao,Voiceless bilabial plosive,p
+1902,Lao,Voiceless alveolar plosive,t
+1903,Lao,Voiced labial–velar approximant,w
+1904,Lao,Glottal stop,ʔ
+1905,Latin,Voiced bilabial plosive,b
+1906,Latin,Voiced alveolar plosive,d
+1907,Latin,Voiced alveolar affricate,dz
+1908,Latin,Voiced postalveolar affricate,dʒ
+1909,Latin,Voiceless labiodental fricative,f
+1910,Latin,Voiced velar plosive,ɡ
+1911,Latin,Voiceless glottal fricative,h
+1912,Latin,Voiced palatal approximant,j
+1913,Latin,Voiceless velar plosive,k
+1914,Latin,Voiced alveolar lateral approximant,l
+1915,Latin,Voiced bilabial nasal,m
+1916,Latin,Voiced alveolar nasal,n
+1917,Latin,Voiced velar nasal,ŋ
+1918,Latin,Voiced palatal nasal,ɲ
+1919,Latin,Voiceless bilabial plosive,p
+1920,Latin,Voiced alveolar trill,r
+1921,Latin,Voiceless alveolar fricative,s
+1922,Latin,Voiceless postalveolar fricative,ʃ
+1923,Latin,Voiceless alveolar plosive,t
+1924,Latin,Voiceless alveolar affricate,ts
+1925,Latin,Voiceless postalveolar affricate,tʃ
+1926,Latin,Voiced labial–velar approximant,w
+1927,Latin,Voiced labiodental fricative,v
+1928,Latin,Voiced alveolar fricative,z
+1929,Latvian,Voiced bilabial plosive,b
+1930,Latvian,Voiceless palatal plosive,c
+1931,Latvian,Voiced dental plosive,d
+1932,Latvian,Voiced dental affricate,dz
+1933,Latvian,Voiced postalveolar affricate,dʒ
+1934,Latvian,Voiceless labiodental fricative,f
+1935,Latvian,Voiced velar plosive,ɡ
+1936,Latvian,Voiced palatal approximant,j
+1937,Latvian,Voiced palatal plosive,ɟ
+1938,Latvian,Voiceless velar plosive,k
+1939,Latvian,Voiced alveolar lateral approximant,l
+1940,Latvian,Voiced palatal lateral approximant,ʎ
+1941,Latvian,Voiced bilabial nasal,m
+1942,Latvian,Voiced dental nasal,n
+1943,Latvian,Voiced palatal nasal,ɲ
+1944,Latvian,Voiced velar nasal,ŋ
+1945,Latvian,Voiceless bilabial plosive,p
+1946,Latvian,Voiced alveolar trill,r
+1947,Latvian,Voiceless dental sibilant fricative,s
+1948,Latvian,Voiceless postalveolar fricative,ʃ
+1949,Latvian,Voiceless dental plosive,t
+1950,Latvian,Voiceless dental affricate,ts
+1951,Latvian,Voiceless postalveolar affricate,tʃ
+1952,Latvian,Voiced labiodental fricative,v
+1953,Latvian,Voiceless velar fricative,x
+1954,Latvian,Voiced dental sibilant fricative,z
+1955,Latvian,Voiced postalveolar fricative,ʒ
+1956,Ligurian,Voiced bilabial plosive,b
+1957,Ligurian,Voiced dental plosive,d
+1958,Ligurian,Voiced postalveolar affricate,dʒ
+1959,Ligurian,Voiced postalveolar affricate,dʒ
+1960,Ligurian,Voiced palatal lateral approximant,ʎ
+1961,Ligurian,Voiceless labiodental fricative,f
+1962,Ligurian,Voiced velar plosive,ɡ
+1963,Ligurian,Voiceless velar plosive,k
+1964,Ligurian,Voiced alveolar lateral approximant,l
+1965,Ligurian,Voiced bilabial nasal,m
+1966,Ligurian,Voiced alveolar nasal,n
+1967,Ligurian,Voiced alveolar nasal,n
+1968,Ligurian,Voiced velar nasal,ŋ
+1969,Ligurian,Voiced velar nasal,ŋ
+1970,Ligurian,Voiced palatal nasal,ɲ
+1971,Ligurian,Voiceless bilabial plosive,p
+1972,Ligurian,Voiced dental and alveolar taps and flaps,ɾ
+1973,Ligurian,Voiced alveolar approximant,ɹ
+1974,Ligurian,Voiceless alveolar fricative,s
+1975,Ligurian,Voiceless alveolar fricative,s
+1976,Ligurian,Voiceless postalveolar fricative,ʃ
+1977,Ligurian,Voiceless postalveolar fricative,ʃ
+1978,Ligurian,Voiceless dental plosive,t
+1979,Ligurian,Voiceless postalveolar affricate,tʃ
+1980,Ligurian,Voiced labiodental fricative,v
+1981,Ligurian,Voiced alveolar fricative,z
+1982,Ligurian,Voiced alveolar fricative,z
+1983,Ligurian,Voiced postalveolar fricative,ʒ
+1984,Ligurian,Voiced postalveolar fricative,ʒ
+1985,Ligurian,Voiced palatal approximant,j
+1986,Ligurian,Voiced labial–velar approximant,w
+1987,Lithuanian,Voiced bilabial plosive,b
+1988,Lithuanian,Voiced dental plosive,d
+1989,Lithuanian,Voiced dental affricate,dz
+1990,Lithuanian,Voiced postalveolar affricate,dʒ
+1991,Lithuanian,Voiced alveolo-palatal affricate,dʑ
+1992,Lithuanian,Voiceless labiodental fricative,f
+1993,Lithuanian,Voiced velar plosive,ɡ
+1994,Lithuanian,Voiced post-palatal plosive,ɡʲ
+1995,Lithuanian,Voiced velar fricative,ɣ
+1996,Lithuanian,Voiced post-palatal fricative,ɣʲ
+1997,Lithuanian,Voiced palatal approximant,j
+1998,Lithuanian,Voiceless velar plosive,k
+1999,Lithuanian,Voiceless post-palatal plosive,kʲ
+2000,Lithuanian,Voiced bilabial nasal,m
+2001,Lithuanian,Voiced dental nasal,n
+2002,Lithuanian,Voiced velar nasal,ŋ
+2003,Lithuanian,Voiced post-palatal nasal,ŋʲ
+2004,Lithuanian,Voiceless bilabial plosive,p
+2005,Lithuanian,Voiced alveolar trill,r
+2006,Lithuanian,Voiceless dental sibilant fricative,s
+2007,Lithuanian,Voiceless postalveolar fricative,ʃ
+2008,Lithuanian,Voiceless alveolo-palatal fricative,ɕ
+2009,Lithuanian,Voiceless dental plosive,t
+2010,Lithuanian,Voiceless dental affricate,ts
+2011,Lithuanian,Voiceless postalveolar affricate,tʃ
+2012,Lithuanian,Voiceless alveolo-palatal affricate,tɕ
+2013,Lithuanian,Voiced labiodental fricative,v
+2014,Lithuanian,Voiceless velar fricative,x
+2015,Lithuanian,Voiceless post-palatal fricative,xʲ
+2016,Lithuanian,Voiced dental sibilant fricative,z
+2017,Lithuanian,Voiced postalveolar fricative,ʒ
+2018,Lithuanian,Voiced alveolo-palatal fricative,ʑ
+2019,Lombard,Voiced bilabial plosive,b
+2020,Lombard,Voiced dental plosive,d
+2021,Lombard,Voiced alveolar affricate,dz
+2022,Lombard,Voiced postalveolar affricate,dʒ
+2023,Lombard,Voiceless labiodental fricative,f
+2024,Lombard,Voiced velar plosive,ɡ
+2025,Lombard,Voiceless glottal fricative,h
+2026,Lombard,Voiceless velar plosive,k
+2027,Lombard,Voiced alveolar lateral approximant,l
+2028,Lombard,Voiced bilabial nasal,m
+2029,Lombard,Voiced labiodental nasal,ɱ
+2030,Lombard,Voiced alveolar nasal,n
+2031,Lombard,Voiced velar nasal,ŋ
+2032,Lombard,Voiced palatal nasal,ɲ
+2033,Lombard,Voiceless bilabial plosive,p
+2034,Lombard,Voiced alveolar trill,r
+2035,Lombard,Voiceless alveolar fricative,s
+2036,Lombard,Voiceless postalveolar fricative,ʃ
+2037,Lombard,Voiceless dental plosive,t
+2038,Lombard,Voiceless alveolar affricate,ts
+2039,Lombard,Voiceless postalveolar affricate,tʃ
+2040,Lombard,Voiced labiodental approximant,ʋ
+2041,Lombard,Voiced alveolar fricative,z
+2042,Lombard,Voiced postalveolar fricative,ʒ
+2043,Lombard,Voiced palatal lateral approximant,ʎ
+2044,Lombard,Voiced palatal approximant,j
+2045,Lombard,Voiced labial–velar approximant,w
+2046,Luxembourgish,Voiced bilabial plosive,b
+2047,Luxembourgish,Voiceless alveolo-palatal fricative,ɕ
+2048,Luxembourgish,Voiced alveolar plosive,d
+2049,Luxembourgish,Voiceless labiodental fricative,f
+2050,Luxembourgish,Voiced velar plosive,ɡ
+2051,Luxembourgish,Voiceless glottal fricative,h
+2052,Luxembourgish,Voiced palatal approximant,j
+2053,Luxembourgish,Voiceless velar plosive,k
+2054,Luxembourgish,Voiced alveolar lateral approximant,l
+2055,Luxembourgish,Voiced bilabial nasal,m
+2056,Luxembourgish,Voiced alveolar nasal,n
+2057,Luxembourgish,Voiced velar nasal,ŋ
+2058,Luxembourgish,Voiceless bilabial plosive,p
+2059,Luxembourgish,Voiced uvular trill,ʀ
+2060,Luxembourgish,Voiced uvular fricative,ʁ
+2061,Luxembourgish,Voiceless alveolar fricative,s
+2062,Luxembourgish,Voiceless postalveolar fricative,ʃ
+2063,Luxembourgish,Voiceless alveolar plosive,t
+2064,Luxembourgish,Voiceless alveolar affricate,ts
+2065,Luxembourgish,Voiceless postalveolar affricate,tʃ
+2066,Luxembourgish,Voiced labiodental fricative,v
+2067,Luxembourgish,Voiceless uvular fricative,χ
+2068,Luxembourgish,Voiced alveolar fricative,z
+2069,Luxembourgish,Voiced postalveolar fricative,ʒ
+2070,Luxembourgish,Voiced labiodental affricate,bv
+2071,Luxembourgish,Voiced alveolar affricate,dz
+2072,Luxembourgish,Voiced postalveolar affricate,dʒ
+2073,Luxembourgish,Voiceless labiodental affricate,pf
+2074,Luxembourgish,Voiced labial–velar approximant,w
+2075,Luxembourgish,Voiced alveolo-palatal fricative,ʑ
+2076,Macedonian,Voiced bilabial plosive,b
+2077,Macedonian,Voiceless palatal plosive,c
+2078,Macedonian,Voiced dental plosive,d
+2079,Macedonian,Voiceless labiodental fricative,f
+2080,Macedonian,Voiced velar plosive,ɡ
+2081,Macedonian,Voiced palatal plosive,ɟ
+2082,Macedonian,Voiced palatal approximant,j
+2083,Macedonian,Voiceless velar plosive,k
+2084,Macedonian,Voiced alveolar lateral approximant,l
+2085,Macedonian,Voiced palatal lateral approximant,ʎ
+2086,Macedonian,Voiced bilabial nasal,m
+2087,Macedonian,Voiced dental nasal,n
+2088,Macedonian,Voiced palatal nasal,ɲ
+2089,Macedonian,Voiced velar nasal,ŋ
+2090,Macedonian,Voiceless bilabial plosive,p
+2091,Macedonian,Voiced alveolar trill,r
+2092,Macedonian,Voiceless dental sibilant fricative,s
+2093,Macedonian,Voiceless postalveolar fricative,ʃ
+2094,Macedonian,Voiceless dental plosive,t
+2095,Macedonian,Voiced labiodental fricative,v
+2096,Macedonian,Voiceless velar fricative,x
+2097,Macedonian,Voiced dental sibilant fricative,z
+2098,Macedonian,Voiced postalveolar fricative,ʒ
+2099,Malagasy,Voiced bilabial plosive,b
+2100,Malagasy,Voiced alveolar plosive,d
+2101,Malagasy,Voiced retroflex affricate,ɖʐ
+2102,Malagasy,Voiceless labiodental fricative,f
+2103,Malagasy,Voiced velar plosive,ɡ
+2104,Malagasy,Voiceless glottal fricative,h
+2105,Malagasy,Voiceless velar plosive,k
+2106,Malagasy,Voiced alveolar lateral approximant,l
+2107,Malagasy,Voiced bilabial nasal,m
+2108,Malagasy,Voiced alveolar nasal,n
+2109,Malagasy,Voiced velar nasal,ŋ
+2110,Malagasy,Voiceless bilabial plosive,p
+2111,Malagasy,Voiced alveolar trill,r
+2112,Malagasy,Voiceless alveolar fricative,s
+2113,Malagasy,Voiceless alveolar plosive,t
+2114,Malagasy,Voiceless retroflex affricate,ʈʂ
+2115,Malagasy,Voiced labiodental fricative,v
+2116,Malagasy,Voiced alveolar fricative,z
+2117,Malay,Voiced bilabial plosive,b
+2118,Malay,Voiced alveolar plosive,d
+2119,Malay,Voiced postalveolar affricate,dʒ
+2120,Malay,Voiceless labiodental fricative,f
+2121,Malay,Voiced velar plosive,ɡ
+2122,Malay,Voiceless glottal fricative,h
+2123,Malay,Voiced palatal approximant,j
+2124,Malay,Voiceless velar plosive,k
+2125,Malay,Voiced alveolar lateral approximant,l
+2126,Malay,Voiced bilabial nasal,m
+2127,Malay,Voiced alveolar nasal,n
+2128,Malay,Voiced velar nasal,ŋ
+2129,Malay,Voiced palatal nasal,ɲ
+2130,Malay,Voiceless bilabial plosive,p
+2131,Malay,Voiced alveolar trill,r
+2132,Malay,Voiceless alveolar fricative,s
+2133,Malay,Voiceless postalveolar fricative,ʃ
+2134,Malay,Voiceless alveolar plosive,t
+2135,Malay,Voiceless postalveolar affricate,tʃ
+2136,Malay,Voiced labiodental fricative,v
+2137,Malay,Voiced labial–velar approximant,w
+2138,Malay,Voiceless velar fricative,x
+2139,Malay,Voiced alveolar fricative,z
+2140,Malay,Glottal stop,ʔ
+2141,Malayalam,Voiceless velar plosive,k
+2142,Malayalam,Voiced velar plosive,ɡ
+2143,Malayalam,Voiced velar nasal,ŋ
+2144,Malayalam,Voiced palatal nasal,ɲ
+2145,Malayalam,Voiceless retroflex plosive,ʈ
+2146,Malayalam,Voiced retroflex plosive,ɖ
+2147,Malayalam,Voiced retroflex nasal,ɳ
+2148,Malayalam,Voiceless dental plosive,t̪
+2149,Malayalam,Voiced dental plosive,d̪
+2150,Malayalam,Voiced dental nasal,n̪
+2151,Malayalam,Voiced alveolar nasal,n
+2152,Malayalam,Voiceless bilabial plosive,p
+2153,Malayalam,Voiceless labiodental fricative,f
+2154,Malayalam,Voiced bilabial plosive,b
+2155,Malayalam,Voiced bilabial nasal,m
+2156,Malayalam,Voiced palatal approximant,j
+2157,Malayalam,Voiced dental and alveolar taps and flaps,ɾ
+2158,Malayalam,Voiced alveolar lateral approximant,l
+2159,Malayalam,Voiced labiodental approximant,ʋ
+2160,Malayalam,Voiceless postalveolar fricative,ʃ
+2161,Malayalam,Voiceless retroflex fricative,ʂ
+2162,Malayalam,Voiceless dental sibilant fricative,s
+2163,Malayalam,Voiceless glottal fricative,h
+2164,Malayalam,Voiced retroflex lateral approximant,ɭ
+2165,Malayalam,Voiced retroflex approximant,ɻ
+2166,Malayalam,Voiced alveolar trill,r
+2167,Malayalam,Voiceless alveolar plosive,t
+2168,Malayalam,Voiced alveolar plosive,d
+2169,Maltese,Voiced bilabial plosive,b
+2170,Maltese,Voiced alveolar plosive,d
+2171,Maltese,Voiced postalveolar fricative,ʒ
+2172,Maltese,Voiceless labiodental fricative,f
+2173,Maltese,Voiced velar plosive,ɡ
+2174,Maltese,Voiceless pharyngeal fricative,ħ
+2175,Maltese,Voiced palatal approximant,j
+2176,Maltese,Voiceless velar plosive,k
+2177,Maltese,Voiced alveolar lateral approximant,l
+2178,Maltese,Voiced bilabial nasal,m
+2179,Maltese,Voiced alveolar nasal,n
+2180,Maltese,Voiceless bilabial plosive,p
+2181,Maltese,Voiced alveolar trill,r
+2182,Maltese,Voiceless alveolar fricative,s
+2183,Maltese,Voiceless postalveolar fricative,ʃ
+2184,Maltese,Voiceless alveolar plosive,t
+2185,Maltese,Voiced labiodental fricative,v
+2186,Maltese,Voiced labial–velar approximant,w
+2187,Maltese,Voiced alveolar fricative,z
+2188,Maltese,Glottal stop,ʔ
+2189,Manx,Voiced bilabial plosive,b
+2190,Manx,Voiced dental non-sibilant affricate,dð
+2191,Manx,Voiced postalveolar affricate,dʒ
+2192,Manx,Voiced dental fricative,ð
+2193,Manx,Voiceless labiodental fricative,f
+2194,Manx,Voiced velar plosive,ɡ
+2195,Manx,Voiced velar fricative,ɣ
+2196,Manx,Voiced palatal approximant,j
+2197,Manx,Voiceless glottal fricative,h
+2198,Manx,Voiceless velar plosive,kʰ
+2199,Manx,Voiced alveolar lateral approximant,l
+2200,Manx,Voiced bilabial nasal,m
+2201,Manx,Voiced alveolar nasal,n
+2202,Manx,Voiced velar nasal,ŋ
+2203,Manx,Voiceless bilabial plosive,pʰ
+2204,Manx,Voiced dental and alveolar taps and flaps,ɾ
+2205,Manx,Voiceless alveolar fricative,s
+2206,Manx,Voiceless postalveolar fricative,ʃ
+2207,Manx,Voiceless dental non-sibilant affricate,tθ
+2208,Manx,Voiceless postalveolar affricate,tʃ
+2209,Manx,Voiced labiodental fricative,v
+2210,Manx,Voiced labial–velar approximant,w
+2211,Manx,Voiceless velar fricative,x
+2212,Manx,Voiced alveolar fricative,z
+2213,Manx,Voiced postalveolar fricative,ʒ
+2214,M%C4%81ori,Voiceless bilabial fricative,ɸ
+2215,M%C4%81ori,Voiceless glottal fricative,h
+2216,M%C4%81ori,Voiceless velar plosive,k
+2217,M%C4%81ori,Voiced bilabial nasal,m
+2218,M%C4%81ori,Voiced alveolar nasal,n
+2219,M%C4%81ori,Voiced velar nasal,ŋ
+2220,M%C4%81ori,Voiceless bilabial plosive,p
+2221,M%C4%81ori,Voiced dental and alveolar taps and flaps,ɾ
+2222,M%C4%81ori,Voiceless alveolar plosive,t
+2223,M%C4%81ori,Voiced labial–velar approximant,w
+2224,Marathi,Voiced bilabial plosive,b
+2225,Marathi,Voiced dental plosive,d
+2226,Marathi,Voiced retroflex plosive,ɖ
+2227,Marathi,Voiced alveolo-palatal affricate,dʑ
+2228,Marathi,Voiced velar plosive,ɡ
+2229,Marathi,Voiced glottal fricative,ɦ
+2230,Marathi,Voiced palatal approximant,j
+2231,Marathi,Voiceless velar plosive,k
+2232,Marathi,Voiced alveolar lateral approximant,l
+2233,Marathi,Voiced retroflex lateral flap,ɭ̆
+2234,Marathi,Voiced bilabial nasal,m
+2235,Marathi,Voiced alveolar nasal,n
+2236,Marathi,Voiced velar nasal,ŋ
+2237,Marathi,Voiced retroflex nasal,ɳ
+2238,Marathi,Voiced palatal nasal,ɲ
+2239,Marathi,Voiceless bilabial plosive,p
+2240,Marathi,Voiced dental and alveolar taps and flaps,ɾ
+2241,Marathi,Voiceless postalveolar fricative,ʃ
+2242,Marathi,Voiceless retroflex fricative,ʂ
+2243,Marathi,Voiceless alveolar fricative,s
+2244,Marathi,Voiceless dental plosive,t
+2245,Marathi,Voiceless retroflex plosive,ʈ
+2246,Marathi,Voiceless alveolo-palatal affricate,tɕ
+2247,Marathi,Voiced labiodental approximant,ʋ
+2248,Mauritian_Creole,Voiced bilabial plosive,b
+2249,Mauritian_Creole,Voiced dental plosive,d
+2250,Mauritian_Creole,Voiced alveolar affricate,dz
+2251,Mauritian_Creole,Voiced postalveolar affricate,dʒ
+2252,Mauritian_Creole,Voiceless labiodental fricative,f
+2253,Mauritian_Creole,Voiced velar plosive,ɡ
+2254,Mauritian_Creole,Voiced palatal approximant,j
+2255,Mauritian_Creole,Voiceless velar plosive,k
+2256,Mauritian_Creole,Voiced alveolar lateral approximant,l
+2257,Mauritian_Creole,Voiced bilabial nasal,m
+2258,Mauritian_Creole,Voiced dental nasal,n
+2259,Mauritian_Creole,Voiced velar nasal,ŋ
+2260,Mauritian_Creole,Voiced palatal nasal,ɲ
+2261,Mauritian_Creole,Voiceless bilabial plosive,p
+2262,Mauritian_Creole,Voiced uvular fricative,ʁ
+2263,Mauritian_Creole,Voiceless alveolar fricative,s
+2264,Mauritian_Creole,Voiceless dental plosive,t
+2265,Mauritian_Creole,Voiceless alveolar affricate,ts
+2266,Mauritian_Creole,Voiceless postalveolar affricate,tʃ
+2267,Mauritian_Creole,Voiced labiodental fricative,v
+2268,Mauritian_Creole,Voiced labial–velar approximant,w
+2269,Mauritian_Creole,Voiced alveolar fricative,z
+2270,Mauritian_Creole,Voiceless glottal fricative,h
+2271,Mayan,Glottal stop,ʔ
+2272,Mayan,Voiced bilabial implosive,ɓ
+2273,Mayan,Voiceless postalveolar affricate,tʃ
+2274,Mayan,Voiceless glottal fricative,h
+2275,Mayan,Voiceless velar fricative,x
+2276,Mayan,Voiceless velar plosive,k
+2277,Mayan,Voiced alveolar lateral approximant,l
+2278,Mayan,Voiced bilabial nasal,m
+2279,Mayan,Voiced alveolar nasal,n
+2280,Mayan,Voiced velar nasal,ŋ
+2281,Mayan,Voiceless bilabial plosive,p
+2282,Mayan,Voiceless uvular plosive,q
+2283,Mayan,Voiced dental and alveolar taps and flaps,ɾ
+2284,Mayan,Voiceless alveolar fricative,s
+2285,Mayan,Voiceless alveolar plosive,t
+2286,Mayan,Voiceless alveolar affricate,ts
+2287,Mayan,Voiced labial–velar approximant,w
+2288,Mayan,Voiceless postalveolar fricative,ʃ
+2289,Mayan,Voiced palatal approximant,j
+2290,Mongolian,Voiceless labiodental fricative,f
+2291,Mongolian,Voiced velar plosive,g
+2292,Mongolian,Voiced uvular plosive,ɢ
+2293,Mongolian,Voiced alveolar lateral fricative,ɮ
+2294,Mongolian,Voiced bilabial nasal,m
+2295,Mongolian,Voiced alveolar nasal,n
+2296,Mongolian,Voiced velar nasal,ŋ
+2297,Mongolian,Voiceless bilabial plosive,p
+2298,Mongolian,Voiced alveolar trill,r
+2299,Mongolian,Voiceless alveolar fricative,s
+2300,Mongolian,Voiceless postalveolar fricative,ʃ
+2301,Mongolian,Voiceless alveolar plosive,t
+2302,Mongolian,Voiced labial–velar approximant,w
+2303,Mongolian,Voiceless velar fricative,x
+2304,Astur-Leonese,Voiced bilabial plosive,b
+2305,Astur-Leonese,Voiced bilabial plosive,b
+2306,Astur-Leonese,Voiceless bilabial fricative,ɸ
+2307,Astur-Leonese,Voiced bilabial fricative,β
+2308,Astur-Leonese,Voiced bilabial fricative,β
+2309,Astur-Leonese,Voiced bilabial fricative,β
+2310,Astur-Leonese,Voiceless bilabial fricative,ɸ
+2311,Astur-Leonese,Voiced dental plosive,d
+2312,Astur-Leonese,Voiced dental fricative,ð
+2313,Astur-Leonese,Voiced dental fricative,ð
+2314,Astur-Leonese,Voiced dental fricative,ð
+2315,Astur-Leonese,Voiceless dental fricative,θ
+2316,Astur-Leonese,Voiceless labiodental fricative,f
+2317,Astur-Leonese,Voiceless bilabial fricative,ɸ
+2318,Astur-Leonese,Voiceless labiodental fricative,f
+2319,Astur-Leonese,Voiceless glottal fricative,h
+2320,Astur-Leonese,Voiced uvular fricative,ʁ
+2321,Astur-Leonese,Voiced velar plosive,ɡ
+2322,Astur-Leonese,Voiced velar plosive,ɡ
+2323,Astur-Leonese,Voiceless uvular fricative,χ
+2324,Astur-Leonese,Voiced velar nasal,ŋ
+2325,Astur-Leonese,Voiced uvular fricative,ʁ
+2326,Astur-Leonese,Voiced velar fricative,ɣ
+2327,Astur-Leonese,Voiced velar fricative,ɣ
+2328,Astur-Leonese,Voiceless velar fricative,x
+2329,Astur-Leonese,Voiced palatal fricative,ʝ
+2330,Astur-Leonese,Voiceless glottal fricative,h
+2331,Astur-Leonese,Voiced palatal lateral approximant,ʎ
+2332,Astur-Leonese,Voiced palatal fricative,ʝ
+2333,Astur-Leonese,Voiced palatal approximant,j
+2334,Astur-Leonese,Voiced palatal affricate,ɟʝ
+2335,Astur-Leonese,Voiced postalveolar affricate,dʒ
+2336,Astur-Leonese,Voiced postalveolar fricative,ʒ
+2337,Astur-Leonese,Voiceless velar plosive,k
+2338,Astur-Leonese,Voiced alveolar lateral approximant,l
+2339,Astur-Leonese,Voiced alveolar lateral approximant,l
+2340,Astur-Leonese,Voiced alveolar lateral approximant,l
+2341,Astur-Leonese,Voiced dental and alveolar taps and flaps,ɾ
+2342,Astur-Leonese,Voiced palatal lateral approximant,ʎ
+2343,Astur-Leonese,Voiced bilabial nasal,m
+2344,Astur-Leonese,Voiced alveolar nasal,n
+2345,Astur-Leonese,Voiced velar nasal,ŋ
+2346,Astur-Leonese,Voiced palatal nasal,ɲ
+2347,Astur-Leonese,Voiceless bilabial plosive,p
+2348,Astur-Leonese,Voiced alveolar trill,r
+2349,Astur-Leonese,Voiced alveolar trill,r
+2350,Astur-Leonese,Voiced alveolar trill,r
+2351,Astur-Leonese,Voiced dental and alveolar taps and flaps,ɾ
+2352,Astur-Leonese,Voiced dental and alveolar taps and flaps,ɾ
+2353,Astur-Leonese,Voiced dental and alveolar taps and flaps,ɾ
+2354,Astur-Leonese,Voiceless apico-alveolar fricative,s
+2355,Astur-Leonese,Voiceless apico-alveolar fricative,s
+2356,Astur-Leonese,Voiceless apico-alveolar fricative,s̺
+2357,Astur-Leonese,Voiceless glottal fricative,h
+2358,Astur-Leonese,Voiced dental fricative,ð
+2359,Astur-Leonese,Voiced apico-alveolar fricative,z̺
+2360,Astur-Leonese,Voiced alveolar fricative,z
+2361,Astur-Leonese,Voiced glottal fricative,ɦ
+2362,Astur-Leonese,Voiceless dental plosive,t
+2363,Astur-Leonese,Voiceless postalveolar affricate,tʃ
+2364,Astur-Leonese,Voiced labiodental fricative,v
+2365,Astur-Leonese,Voiced glottal fricative,ɦ
+2366,Astur-Leonese,Voiced labiodental fricative,v
+2367,Astur-Leonese,Voiceless dental fricative,θ
+2368,Astur-Leonese,Voiced alveolar plosive,d
+2369,Astur-Leonese,Voiceless dental fricative,θ
+2370,Astur-Leonese,Voiceless dental sibilant fricative,s̻
+2371,Astur-Leonese,Voiceless glottal fricative,h
+2372,Astur-Leonese,Voiced dental fricative,ð
+2373,Astur-Leonese,Voiced dental sibilant fricative,z̻
+2374,Astur-Leonese,Voiced dental fricative,ð
+2375,Astur-Leonese,Voiced glottal fricative,ɦ
+2376,Astur-Leonese,Voiceless alveolo-palatal fricative,ʃ
+2377,Astur-Leonese,Voiceless alveolar fricative,s
+2378,Astur-Leonese,Voiceless postalveolar fricative,ʃ
+2379,Astur-Leonese,Voiceless glottal fricative,h
+2380,Astur-Leonese,Voiced postalveolar fricative,ʒ
+2381,Astur-Leonese,Voiced postalveolar fricative,ʒ
+2382,Astur-Leonese,Voiced glottal fricative,ɦ
+2383,Nahuatl,Glottal stop,ʔ
+2384,Nahuatl,Voiceless glottal fricative,h
+2385,Nahuatl,Voiced palatal approximant,j
+2386,Nahuatl,Voiceless velar plosive,k
+2387,Nahuatl,Voiceless glottal fricative,h
+2388,Nahuatl,Voiceless velar plosive,k
+2389,Nahuatl,Voiceless velar plosive,k
+2390,Nahuatl,Voiceless velar plosive,k
+2391,Nahuatl,Voiced alveolar lateral approximant,l
+2392,Nahuatl,Voiceless alveolar lateral fricative,ɬ
+2393,Nahuatl,Voiced bilabial nasal,m
+2394,Nahuatl,Voiced alveolar nasal,n
+2395,Nahuatl,Voiceless alveolar nasal,n̥
+2396,Nahuatl,Voiced velar nasal,ŋ
+2397,Nahuatl,Voiced velar nasal,ŋ
+2398,Nahuatl,Voiceless bilabial plosive,p
+2399,Nahuatl,Voiceless alveolar fricative,s̻
+2400,Nahuatl,Voiceless postalveolar fricative,ʃ
+2401,Nahuatl,Voiceless alveolar plosive,t
+2402,Nahuatl,Voiced labial–velar approximant,w
+2403,Nahuatl,Voiced bilabial fricative,β
+2404,Nahuatl,Voiceless bilabial fricative,ɸ
+2405,Nahuatl,Voiceless labial–velar fricative,ʍ
+2406,Nahuatl,Voiceless glottal fricative,h
+2407,Nahuatl,Voiced bilabial plosive,b
+2408,Nahuatl,Voiced bilabial fricative,β
+2409,Nahuatl,Voiced dental plosive,d
+2410,Nahuatl,Voiced dental approximant,ð
+2411,Nahuatl,Voiceless labiodental fricative,f
+2412,Nahuatl,Voiced velar plosive,ɡ
+2413,Nahuatl,Voiced velar fricative,ɣ
+2414,Nahuatl,Voiced palatal nasal,ɲ
+2415,Nahuatl,Voiced alveolar trill,r
+2416,Nahuatl,Voiced dental and alveolar taps and flaps,ɾ
+2417,Neapolitan,Voiced bilabial plosive,b
+2418,Neapolitan,Voiced dental plosive,d
+2419,Neapolitan,Voiced dental affricate,dz
+2420,Neapolitan,Voiced postalveolar affricate,dʒ
+2421,Neapolitan,Voiceless labiodental fricative,f
+2422,Neapolitan,Voiced velar plosive,ɡ
+2423,Neapolitan,Voiced palatal plosive,ɟ
+2424,Neapolitan,Voiced palatal fricative,ʝ
+2425,Neapolitan,Voiceless velar plosive,k
+2426,Neapolitan,Voiceless palatal plosive,c
+2427,Neapolitan,Voiced alveolar lateral approximant,l
+2428,Neapolitan,Voiced bilabial nasal,m
+2429,Neapolitan,Voiced labiodental nasal,ɱ
+2430,Neapolitan,Voiced alveolar nasal,n
+2431,Neapolitan,Voiced velar nasal,ŋ
+2432,Neapolitan,Voiced palatal nasal,ɲ
+2433,Neapolitan,Voiceless bilabial plosive,p
+2434,Neapolitan,Voiced alveolar trill,r
+2435,Neapolitan,Voiceless dental sibilant fricative,s
+2436,Neapolitan,Voiceless postalveolar fricative,ʃ
+2437,Neapolitan,Voiceless dental plosive,t
+2438,Neapolitan,Voiceless dental affricate,ts
+2439,Neapolitan,Voiceless postalveolar affricate,tʃ
+2440,Neapolitan,Voiced labiodental fricative,v
+2441,Neapolitan,Voiced dental sibilant fricative,z
+2442,Neapolitan,Voiced postalveolar fricative,ʒ
+2443,Neapolitan,Voiced palatal approximant,j
+2444,Neapolitan,Voiced labial–velar approximant,w
+2445,Nepali,Voiced bilabial plosive,b
+2446,Nepali,Voiced dental plosive,d
+2447,Nepali,Voiced retroflex plosive,ɖ
+2448,Nepali,Voiced retroflex flap,ɽ
+2449,Nepali,Voiced velar plosive,ɡ
+2450,Nepali,Voiced glottal fricative,ɦ
+2451,Nepali,Voiceless velar plosive,k
+2452,Nepali,Voiced alveolar lateral approximant,l
+2453,Nepali,Voiced bilabial nasal,m
+2454,Nepali,Voiced alveolar nasal,n
+2455,Nepali,Voiced velar nasal,ŋ
+2456,Nepali,Voiced retroflex nasal,ɳ
+2457,Nepali,Voiceless bilabial plosive,p
+2458,Nepali,Voiced alveolar trill,r
+2459,Nepali,Voiced dental and alveolar taps and flaps,ɾ
+2460,Nepali,Voiceless alveolar fricative,s
+2461,Nepali,Voiceless dental plosive,t
+2462,Nepali,Voiceless retroflex plosive,ʈ
+2463,Nepali,Voiced labial–velar approximant,w
+2464,Nepali,Voiced palatal approximant,j
+2465,Northern_Thai,Voiced bilabial plosive,b
+2466,Northern_Thai,Voiced alveolar plosive,d
+2467,Northern_Thai,Voiceless labiodental fricative,f
+2468,Northern_Thai,Voiceless glottal fricative,h
+2469,Northern_Thai,Voiced palatal approximant,j
+2470,Northern_Thai,Voiceless velar plosive,k
+2471,Northern_Thai,Voiced alveolar lateral approximant,l
+2472,Northern_Thai,Voiced bilabial nasal,m
+2473,Northern_Thai,Voiced alveolar nasal,n
+2474,Northern_Thai,Voiced velar nasal,ŋ
+2475,Northern_Thai,Voiced palatal nasal,ɲ
+2476,Northern_Thai,Voiceless bilabial plosive,p
+2477,Northern_Thai,Voiced alveolar trill,r
+2478,Northern_Thai,Voiceless alveolar fricative,s
+2479,Northern_Thai,Voiceless alveolar plosive,t
+2480,Northern_Thai,Voiceless alveolo-palatal affricate,tɕ
+2481,Northern_Thai,Voiced labial–velar approximant,w
+2482,Northern_Thai,Voiceless velar fricative,x
+2483,Northern_Thai,Glottal stop,ʔ
+2484,Norwegian,Voiced bilabial plosive,b
+2485,Norwegian,Voiceless alveolo-palatal fricative,ç
+2486,Norwegian,Voiced alveolar plosive,d
+2487,Norwegian,Voiced retroflex plosive,ɖ
+2488,Norwegian,Voiceless labiodental fricative,f
+2489,Norwegian,Voiced velar plosive,ɡ
+2490,Norwegian,Voiceless glottal fricative,h
+2491,Norwegian,Voiced palatal approximant,j
+2492,Norwegian,Voiceless velar plosive,k
+2493,Norwegian,Voiced alveolar lateral approximant,l
+2494,Norwegian,Voiced bilabial nasal,m
+2495,Norwegian,Voiced alveolar nasal,n
+2496,Norwegian,Voiced retroflex nasal,ɳ
+2497,Norwegian,Voiced velar nasal,ŋ
+2498,Norwegian,Voiceless bilabial plosive,p
+2499,Norwegian,Voiced dental and alveolar taps and flaps,r
+2500,Norwegian,Voiced retroflex flap,ɽ
+2501,Norwegian,Voiceless alveolar fricative,s
+2502,Norwegian,Voiceless retroflex fricative,ʂ
+2503,Norwegian,Voiceless alveolar plosive,t
+2504,Norwegian,Voiceless retroflex plosive,ʈ
+2505,Norwegian,Voiced labiodental fricative,v
+2506,Norwegian,Voiceless retroflex affricate,ʈʂ
+2507,Occitan,Voiced bilabial plosive,b
+2508,Occitan,Voiced bilabial fricative,β
+2509,Occitan,Voiced dental plosive,d
+2510,Occitan,Voiced alveolar affricate,dz
+2511,Occitan,Voiced postalveolar affricate,dʒ
+2512,Occitan,Voiced dental fricative,ð
+2513,Occitan,Voiceless labiodental fricative,f
+2514,Occitan,Voiced velar plosive,ɡ
+2515,Occitan,Voiced velar fricative,ɣ
+2516,Occitan,Voiceless velar plosive,k
+2517,Occitan,Voiced alveolar lateral approximant,l
+2518,Occitan,Voiced palatal lateral approximant,ʎ
+2519,Occitan,Voiced bilabial nasal,m
+2520,Occitan,Voiced alveolar nasal,n
+2521,Occitan,Voiced velar nasal,ŋ
+2522,Occitan,Voiced palatal nasal,ɲ
+2523,Occitan,Voiceless bilabial plosive,p
+2524,Occitan,Voiced alveolar trill,r
+2525,Occitan,Voiced dental and alveolar taps and flaps,ɾ
+2526,Occitan,Voiceless alveolar fricative,s
+2527,Occitan,Voiceless dental plosive,t
+2528,Occitan,Voiceless alveolar affricate,ts
+2529,Occitan,Voiceless postalveolar affricate,tʃ
+2530,Occitan,Voiced alveolar fricative,z
+2531,Occitan,Voiceless glottal fricative,h
+2532,Occitan,Voiced uvular trill,ʀ
+2533,Occitan,Voiceless postalveolar fricative,ʃ
+2534,Occitan,Voiced labiodental fricative,v
+2535,Occitan,Voiced postalveolar fricative,ʒ
+2536,Odia,Voiced bilabial plosive,b
+2537,Odia,Voiced dental plosive,d
+2538,Odia,Voiced retroflex plosive,ɖ
+2539,Odia,Voiced postalveolar affricate,dʒ
+2540,Odia,Voiced velar plosive,ɡ
+2541,Odia,Voiceless glottal fricative,h
+2542,Odia,Voiced palatal approximant,j
+2543,Odia,Voiceless velar plosive,k
+2544,Odia,Voiced alveolar lateral approximant,l
+2545,Odia,Voiced retroflex lateral approximant,ɭ
+2546,Odia,Voiced bilabial nasal,m
+2547,Odia,Voiced alveolar nasal,n
+2548,Odia,Voiced retroflex nasal,ɳ
+2549,Odia,Voiced velar nasal,ŋ
+2550,Odia,Voiceless bilabial plosive,p
+2551,Odia,Voiced dental and alveolar taps and flaps,ɾ
+2552,Odia,Voiced retroflex flap,ɽ
+2553,Odia,Voiceless alveolar fricative,s
+2554,Odia,Voiceless dental plosive,t
+2555,Odia,Voiceless retroflex plosive,ʈ
+2556,Odia,Voiceless postalveolar affricate,tʃ
+2557,Odia,Voiced labial–velar approximant,w
+2558,Pashto,Voiced bilabial plosive,b
+2559,Pashto,Voiced alveolar plosive,d
+2560,Pashto,Voiced alveolar fricative,z
+2561,Pashto,Voiced retroflex plosive,ɖ
+2562,Pashto,Voiceless labiodental fricative,f
+2563,Pashto,Voiced velar plosive,ɡ
+2564,Pashto,Voiced velar fricative,ɣ
+2565,Pashto,Voiceless glottal fricative,h
+2566,Pashto,Voiced palatal approximant,j
+2567,Pashto,Voiceless velar plosive,k
+2568,Pashto,Voiced alveolar lateral approximant,l
+2569,Pashto,Voiced bilabial nasal,m
+2570,Pashto,Voiced alveolar nasal,n
+2571,Pashto,Voiced velar nasal,ŋ
+2572,Pashto,Voiced retroflex nasal,ɳ
+2573,Pashto,Voiceless bilabial plosive,p
+2574,Pashto,Voiceless uvular plosive,q
+2575,Pashto,Voiced alveolar trill,r
+2576,Pashto,Voiced alveolar lateral flap,ɺ
+2577,Pashto,Voiced retroflex approximant,ɻ
+2578,Pashto,Voiced retroflex flap,ɽ
+2579,Pashto,Voiceless alveolar fricative,s
+2580,Pashto,Voiceless postalveolar fricative,ʃ
+2581,Pashto,Voiceless palatal fricative,ç
+2582,Pashto,Voiceless velar fricative,x
+2583,Pashto,Voiceless retroflex fricative,ʂ
+2584,Pashto,Voiceless postalveolar fricative,ʃ
+2585,Pashto,Voiceless alveolar plosive,t
+2586,Pashto,Voiceless alveolar fricative,s
+2587,Pashto,Voiceless retroflex plosive,ʈ
+2588,Pashto,Voiced labial–velar approximant,w
+2589,Pashto,Voiceless velar fricative,x
+2590,Pashto,Voiced alveolar fricative,z
+2591,Pashto,Voiced postalveolar fricative,ʒ
+2592,Pashto,Voiced postalveolar fricative,ʒ
+2593,Pashto,Voiced palatal fricative,ʝ
+2594,Pashto,Voiced velar plosive,ɡ
+2595,Pashto,Voiced retroflex fricative,ʐ
+2596,Pashto,Voiced postalveolar fricative,ʒ
+2597,Persian,Voiced bilabial plosive,b
+2598,Persian,Voiced dental plosive,d
+2599,Persian,Voiced postalveolar affricate,dʒ
+2600,Persian,Voiceless labiodental fricative,f
+2601,Persian,Voiced velar plosive,ɡ
+2602,Persian,Voiced velar fricative,ɣ
+2603,Persian,Voiceless uvular plosive,q
+2604,Persian,Voiced uvular plosive,ɢ
+2605,Persian,Voiced velar fricative,ɣ
+2606,Persian,Voiceless uvular plosive,q
+2607,Persian,Voiceless glottal fricative,h
+2608,Persian,Voiced palatal approximant,j
+2609,Persian,Voiced alveolar lateral approximant,l
+2610,Persian,Voiced bilabial nasal,m
+2611,Persian,Voiced alveolar nasal,n
+2612,Persian,Voiced dental and alveolar taps and flaps,ɾ
+2613,Persian,Voiced alveolar approximant,ɹ
+2614,Persian,Voiceless alveolar fricative,s
+2615,Persian,Voiceless postalveolar fricative,ʃ
+2616,Persian,Voiced labiodental fricative,v
+2617,Persian,Voiced labial–velar approximant,w
+2618,Persian,Voiced labiodental fricative,v
+2619,Persian,Voiceless velar fricative,x
+2620,Persian,Voiced alveolar fricative,z
+2621,Persian,Voiced postalveolar fricative,ʒ
+2622,Persian,Glottal stop,ʔ
+2623,Persian,Voiced velar nasal,ŋ
+2624,Piedmontese,Voiced bilabial plosive,b
+2625,Piedmontese,Voiced dental plosive,d
+2626,Piedmontese,Voiced apico-alveolar affricate,dz
+2627,Piedmontese,Voiced alveolo-palatal affricate,dʒ
+2628,Piedmontese,Voiceless labiodental fricative,f
+2629,Piedmontese,Voiced velar plosive,ɡ
+2630,Piedmontese,Voiceless velar plosive,k
+2631,Piedmontese,Voiced alveolar lateral approximant,l
+2632,Piedmontese,Voiced bilabial nasal,m
+2633,Piedmontese,Voiced alveolar nasal,n
+2634,Piedmontese,Voiced velar nasal,ŋ
+2635,Piedmontese,Voiced palatal nasal,ɲ
+2636,Piedmontese,Voiceless bilabial plosive,p
+2637,Piedmontese,Voiced dental and alveolar taps and flaps,r
+2638,Piedmontese,Voiceless alveolar fricative,s
+2639,Piedmontese,Voiceless dental plosive,t
+2640,Piedmontese,Voiceless apico-alveolar affricate,ts
+2641,Piedmontese,Voiceless alveolo-palatal affricate,tʃ
+2642,Piedmontese,Voiced labiodental fricative,v
+2643,Piedmontese,Voiced labiodental approximant,ʋ
+2644,Piedmontese,Voiced alveolar retracted fricative,z
+2645,Piedmontese,Voiced palatal lateral approximant,ʎ
+2646,Piedmontese,Voiced alveolar approximant,ɹ
+2647,Piedmontese,Voiceless postalveolar fricative,ʃ
+2648,Piedmontese,Voiced postalveolar fricative,ʒ
+2649,Portuguese,Voiced bilabial plosive,b
+2650,Portuguese,Voiced bilabial plosive,b
+2651,Portuguese,Voiced bilabial fricative,β
+2652,Portuguese,Voiced dental fricative,ð
+2653,Portuguese,Voiced dental plosive,d
+2654,Portuguese,Voiced dental plosive,d
+2655,Portuguese,Voiced postalveolar affricate,dʒ
+2656,Portuguese,Voiceless labiodental fricative,f
+2657,Portuguese,Voiced velar plosive,ɡ
+2658,Portuguese,Voiced velar plosive,ɡ
+2659,Portuguese,Voiced velar fricative,ɣ
+2660,Portuguese,Voiceless velar plosive,k
+2661,Portuguese,Voiced labial–velar approximant,w
+2662,Portuguese,Voiced palatal lateral approximant,ʎ
+2663,Portuguese,Voiced bilabial nasal,m
+2664,Portuguese,Voiced dental nasal,n
+2665,Portuguese,Voiced palatal nasal,ɲ
+2666,Portuguese,Voiceless bilabial plosive,p
+2667,Portuguese,Voiced uvular fricative,ʁ
+2668,Portuguese,Voiceless velar fricative,ʁ
+2669,Portuguese,Voiced dental and alveolar taps and flaps,ɾ
+2670,Portuguese,Voiced dental and alveolar taps and flaps,ɾ
+2671,Portuguese,Voiceless alveolar fricative,s
+2672,Portuguese,Voiceless alveolar fricative,s
+2673,Portuguese,Voiceless postalveolar fricative,ʃ
+2674,Portuguese,Voiceless postalveolar fricative,ʃ
+2675,Portuguese,Voiceless postalveolar affricate,tʃ
+2676,Portuguese,Voiceless postalveolar affricate,tʃ
+2677,Portuguese,Voiceless dental plosive,t
+2678,Portuguese,Voiceless dental plosive,t
+2679,Portuguese,Voiced labiodental fricative,v
+2680,Portuguese,Voiced postalveolar fricative,ʒ
+2681,Portuguese,Voiced postalveolar fricative,ʒ
+2682,Portuguese,Voiced alveolar fricative,z
+2683,Portuguese,Voiced alveolar fricative,z
+2684,Portuguese,Voiced palatal approximant,j
+2685,Portuguese,Voiced labial–velar approximant,w
+2686,Punjabi,Voiced bilabial plosive,b
+2687,Punjabi,Voiced dental plosive,d
+2688,Punjabi,Voiced retroflex plosive,ɖ
+2689,Punjabi,Voiced velar plosive,ɡ
+2690,Punjabi,Voiced glottal fricative,ɦ
+2691,Punjabi,Voiced palatal approximant,j
+2692,Punjabi,Voiceless velar plosive,k
+2693,Punjabi,Voiced alveolar lateral approximant,l
+2694,Punjabi,Voiced retroflex lateral approximant,ɭ
+2695,Punjabi,Voiced bilabial nasal,m
+2696,Punjabi,Voiced dental nasal,n
+2697,Punjabi,Voiced retroflex nasal,ɳ
+2698,Punjabi,Voiced palatal nasal,ɲ
+2699,Punjabi,Voiced velar nasal,ŋ
+2700,Punjabi,Voiceless bilabial plosive,p
+2701,Punjabi,Voiced dental and alveolar taps and flaps,ɾ
+2702,Punjabi,Voiced retroflex flap,ɽ
+2703,Punjabi,Voiceless alveolar fricative,s
+2704,Punjabi,Voiceless dental plosive,t
+2705,Punjabi,Voiceless retroflex plosive,ʈ
+2706,Punjabi,Voiced labiodental approximant,ʋ
+2707,Quechua,Voiceless glottal fricative,h
+2708,Quechua,Voiced palatal approximant,j
+2709,Quechua,Voiceless velar plosive,k
+2710,Quechua,Voiced velar fricative,ɣ
+2711,Quechua,Voiceless velar fricative,x
+2712,Quechua,Voiceless velar affricate,kx
+2713,Quechua,Voiceless velar fricative,x
+2714,Quechua,Voiced alveolar lateral approximant,l
+2715,Quechua,Voiced palatal lateral approximant,ʎ
+2716,Quechua,Voiced bilabial nasal,m
+2717,Quechua,Voiced alveolar nasal,n
+2718,Quechua,Voiced palatal nasal,ɲ
+2719,Quechua,Voiceless bilabial plosive,p
+2720,Quechua,Voiced bilabial fricative,β
+2721,Quechua,Voiceless bilabial fricative,ɸ
+2722,Quechua,Voiceless bilabial affricate,pɸ
+2723,Quechua,Voiceless bilabial fricative,ɸ
+2724,Quechua,Voiceless uvular plosive,q
+2725,Quechua,Voiced uvular plosive,ɢ
+2726,Quechua,Voiceless uvular fricative,χ
+2727,Quechua,Voiceless uvular fricative,χ
+2728,Quechua,Voiced dental and alveolar taps and flaps,ɾ
+2729,Quechua,Voiceless alveolar fricative,s
+2730,Quechua,Voiceless postalveolar fricative,ʃ
+2731,Quechua,Voiceless alveolar plosive,t
+2732,Quechua,Voiceless alveolar affricate,ts
+2733,Quechua,Voiceless dental fricative,θ
+2734,Quechua,Voiceless postalveolar affricate,tʃ
+2735,Quechua,Voiceless postalveolar fricative,ʃ
+2736,Quechua,Voiced labial–velar approximant,w
+2737,Romanian,Voiced bilabial plosive,b
+2738,Romanian,Voiced dental plosive,d
+2739,Romanian,Voiced postalveolar affricate,dʒ
+2740,Romanian,Voiceless labiodental fricative,f
+2741,Romanian,Voiced velar plosive,ɡ
+2742,Romanian,Voiceless glottal fricative,h
+2743,Romanian,Voiceless velar plosive,k
+2744,Romanian,Voiced alveolar lateral approximant,l
+2745,Romanian,Voiced bilabial nasal,m
+2746,Romanian,Voiced dental nasal,n
+2747,Romanian,Voiced velar nasal,ŋ
+2748,Romanian,Voiceless bilabial plosive,p
+2749,Romanian,Voiced alveolar trill,r
+2750,Romanian,Voiceless dental sibilant fricative,s
+2751,Romanian,Voiceless postalveolar fricative,ʃ
+2752,Romanian,Voiceless dental plosive,t
+2753,Romanian,Voiceless dental affricate,ts
+2754,Romanian,Voiceless postalveolar affricate,tʃ
+2755,Romanian,Voiced labiodental fricative,v
+2756,Romanian,Voiced dental sibilant fricative,z
+2757,Romanian,Voiced postalveolar fricative,ʒ
+2758,Romanian,Voiced palatal nasal,ɲ
+2759,Romansh,Voiced bilabial plosive,b
+2760,Romansh,Voiced dental plosive,d
+2761,Romansh,Voiced alveolo-palatal affricate,dʑ
+2762,Romansh,Voiceless labiodental fricative,f
+2763,Romansh,Voiced velar plosive,ɡ
+2764,Romansh,Voiceless velar plosive,k
+2765,Romansh,Voiced alveolar lateral approximant,l
+2766,Romansh,Voiced palatal lateral approximant,ʎ
+2767,Romansh,Voiced bilabial nasal,m
+2768,Romansh,Voiced alveolar nasal,n
+2769,Romansh,Voiced velar nasal,ŋ
+2770,Romansh,Voiced palatal nasal,ɲ
+2771,Romansh,Voiceless bilabial plosive,p
+2772,Romansh,Voiced alveolar trill,r
+2773,Romansh,Voiced uvular fricative,ʁ
+2774,Romansh,Voiceless dental sibilant fricative,s
+2775,Romansh,Voiceless postalveolar fricative,ʃ
+2776,Romansh,Voiceless dental plosive,t
+2777,Romansh,Voiceless dental affricate,ts
+2778,Romansh,Voiceless alveolo-palatal affricate,tɕ
+2779,Romansh,Voiceless postalveolar affricate,tʃ
+2780,Romansh,Voiced labiodental fricative,v
+2781,Romansh,Voiced dental sibilant fricative,z
+2782,Romansh,Voiced postalveolar fricative,ʒ
+2783,Romansh,Voiceless glottal fricative,h
+2784,Romansh,Voiceless palatal fricative,ç
+2785,Romansh,Voiced palatal approximant,j
+2786,Romansh,Voiced labial–velar approximant,w
+2787,Russian,Voiced bilabial plosive,b
+2788,Russian,Voiced dental plosive,d
+2789,Russian,Voiced retroflex affricate,dʐ
+2790,Russian,Voiced alveolo-palatal affricate,dʑ
+2791,Russian,Voiced alveolar affricate,dz
+2792,Russian,Voiceless labiodental fricative,f
+2793,Russian,Voiced velar plosive,ɡ
+2794,Russian,Voiced post-palatal plosive,ɡʲ
+2795,Russian,Voiced velar fricative,ɣ
+2796,Russian,Voiced post-palatal fricative,ɣʲ
+2797,Russian,Voiced palatal approximant,j
+2798,Russian,Voiceless velar plosive,k
+2799,Russian,Voiceless post-palatal plosive,kʲ
+2800,Russian,Voiced alveolar lateral approximant,l
+2801,Russian,Voiced bilabial nasal,m
+2802,Russian,Voiced dental nasal,n
+2803,Russian,Voiceless bilabial plosive,p
+2804,Russian,Voiced alveolar trill,r
+2805,Russian,Voiceless dental sibilant fricative,s
+2806,Russian,Voiceless retroflex fricative,ʂ
+2807,Russian,Voiceless alveolo-palatal fricative,ɕː
+2808,Russian,Voiceless dental plosive,t
+2809,Russian,Voiceless alveolar affricate,ts
+2810,Russian,Voiceless retroflex affricate,tʂ
+2811,Russian,Voiceless alveolo-palatal affricate,tɕ
+2812,Russian,Voiced labiodental fricative,v
+2813,Russian,Voiceless velar fricative,x
+2814,Russian,Voiceless post-palatal fricative,xʲ
+2815,Russian,Voiced dental sibilant fricative,z
+2816,Russian,Voiced retroflex fricative,ʐ
+2817,Russian,Voiced alveolo-palatal fricative,ʑː
+2818,Russian,Voiced velar fricative,ɣ
+2819,Russian,Voiceless velar fricative,x
+2820,Russian,Voiced velar fricative,ɣ
+2821,Russian,Voiced post-palatal fricative,ɣʲ
+2822,Russian,Voiceless velar fricative,x
+2823,Russian,Voiceless post-palatal fricative,xʲ
+2824,Russian,Voiced retroflex fricative,ʐː
+2825,Russian,Voiced alveolo-palatal fricative,ʑː
+2826,Russian,Voiceless alveolo-palatal fricative,ɕː
+2827,Sanskrit,Voiced bilabial plosive,b
+2828,Sanskrit,Voiceless alveolo-palatal fricative,ɕ
+2829,Sanskrit,Voiced dental plosive,d
+2830,Sanskrit,Voiced alveolo-palatal affricate,dʑ
+2831,Sanskrit,Voiced retroflex plosive,ɖ
+2832,Sanskrit,Voiced velar plosive,ɡ
+2833,Sanskrit,Voiced glottal fricative,ɦ
+2834,Sanskrit,Voiced palatal approximant,j
+2835,Sanskrit,Voiceless velar plosive,k
+2836,Sanskrit,Voiced alveolar lateral approximant,l
+2837,Sanskrit,Voiced bilabial nasal,m
+2838,Sanskrit,Voiced alveolar nasal,n
+2839,Sanskrit,Voiced palatal nasal,ɲ
+2840,Sanskrit,Voiced retroflex nasal,ɳ
+2841,Sanskrit,Voiced velar nasal,ŋ
+2842,Sanskrit,Voiceless bilabial plosive,p
+2843,Sanskrit,Voiced alveolar trill,r
+2844,Sanskrit,Voiceless alveolar fricative,s
+2845,Sanskrit,Voiceless retroflex fricative,ʂ
+2846,Sanskrit,Voiceless dental plosive,t
+2847,Sanskrit,Voiceless retroflex plosive,ʈ
+2848,Sanskrit,Voiceless alveolo-palatal affricate,tɕ
+2849,Sanskrit,Voiced labiodental approximant,ʋ
+2850,Sardinian,Voiced bilabial plosive,b
+2851,Sardinian,Voiced bilabial fricative,β
+2852,Sardinian,Voiced dental plosive,d
+2853,Sardinian,Voiced apico-alveolar affricate,dz
+2854,Sardinian,Voiced postalveolar affricate,dʒ
+2855,Sardinian,Voiced retroflex plosive,ɖ
+2856,Sardinian,Voiced dental fricative,ð
+2857,Sardinian,Voiceless labiodental fricative,f
+2858,Sardinian,Voiced velar plosive,ɡ
+2859,Sardinian,Voiced velar fricative,ɣ
+2860,Sardinian,Voiceless velar plosive,k
+2861,Sardinian,Voiced alveolar lateral approximant,l
+2862,Sardinian,Voiced palatal lateral approximant,ʎ
+2863,Sardinian,Voiced bilabial nasal,m
+2864,Sardinian,Voiced labiodental nasal,ɱ
+2865,Sardinian,Voiced alveolar nasal,n
+2866,Sardinian,Voiced velar nasal,ŋ
+2867,Sardinian,Voiced palatal nasal,ɲ
+2868,Sardinian,Voiced retroflex nasal,ɳ
+2869,Sardinian,Voiceless bilabial plosive,p
+2870,Sardinian,Voiced dental and alveolar taps and flaps,ɾ
+2871,Sardinian,Voiced alveolar trill,r
+2872,Sardinian,Voiceless alveolar retracted fricative,s
+2873,Sardinian,Voiceless postalveolar fricative,ʃ
+2874,Sardinian,Voiceless dental plosive,t
+2875,Sardinian,Voiceless apico-alveolar affricate,ts
+2876,Sardinian,Voiceless postalveolar affricate,tʃ
+2877,Sardinian,Voiceless dental fricative,θ
+2878,Sardinian,Voiced labiodental fricative,v
+2879,Sardinian,Voiced alveolar retracted fricative,z
+2880,Sardinian,Voiced postalveolar fricative,ʒ
+2881,Sardinian,Glottal stop,ʔ
+2882,Scottish_Gaelic,Voiceless labiodental fricative,f
+2883,Scottish_Gaelic,Voiced velar fricative,ɣ
+2884,Scottish_Gaelic,Voiced palatal fricative,ʝ
+2885,Scottish_Gaelic,Voiceless glottal fricative,h
+2886,Scottish_Gaelic,Voiced palatal approximant,j
+2887,Scottish_Gaelic,Voiceless velar plosive,k
+2888,Scottish_Gaelic,Voiced alveolar lateral approximant,l
+2889,Scottish_Gaelic,Voiced palatal lateral approximant,ʎ
+2890,Scottish_Gaelic,Voiced bilabial nasal,m
+2891,Scottish_Gaelic,Voiced palatal nasal,ɲ
+2892,Scottish_Gaelic,Voiced alveolar nasal,n
+2893,Scottish_Gaelic,Voiced velar nasal,ŋ
+2894,Scottish_Gaelic,Voiceless bilabial plosive,p
+2895,Scottish_Gaelic,Voiced alveolar trill,rˠ
+2896,Scottish_Gaelic,Voiced dental and alveolar taps and flaps,ɾ
+2897,Scottish_Gaelic,Voiceless dental sibilant fricative,s̪
+2898,Scottish_Gaelic,Voiceless postalveolar fricative,ʃ
+2899,Scottish_Gaelic,Voiceless dental plosive,t̪
+2900,Scottish_Gaelic,Voiceless alveolar plosive,tʲ
+2901,Scottish_Gaelic,Voiced labiodental fricative,v
+2902,Scottish_Gaelic,Voiceless velar fricative,x
+2903,Scottish_Gaelic,Voiceless palatal fricative,ç
+2904,Serbo-Croatian,Voiced bilabial plosive,b
+2905,Serbo-Croatian,Voiced dental plosive,d
+2906,Serbo-Croatian,Voiced alveolo-palatal affricate,dʑ
+2907,Serbo-Croatian,Voiced postalveolar affricate,dʒ
+2908,Serbo-Croatian,Voiceless labiodental fricative,f
+2909,Serbo-Croatian,Voiced velar plosive,ɡ
+2910,Serbo-Croatian,Voiced palatal approximant,j
+2911,Serbo-Croatian,Voiceless velar plosive,k
+2912,Serbo-Croatian,Voiced alveolo-palatal lateral approximant,ʎ
+2913,Serbo-Croatian,Voiced bilabial nasal,m
+2914,Serbo-Croatian,Voiced labiodental nasal,ɱ
+2915,Serbo-Croatian,Voiced alveolar nasal,n
+2916,Serbo-Croatian,Voiced velar nasal,ŋ
+2917,Serbo-Croatian,Voiced alveolo-palatal nasal,ɲ
+2918,Serbo-Croatian,Voiceless bilabial plosive,p
+2919,Serbo-Croatian,Voiced alveolar trill,r
+2920,Serbo-Croatian,Voiceless dental sibilant fricative,s
+2921,Serbo-Croatian,Voiceless postalveolar fricative,ʃ
+2922,Serbo-Croatian,Voiceless dental plosive,t
+2923,Serbo-Croatian,Voiceless alveolo-palatal affricate,tɕ
+2924,Serbo-Croatian,Voiceless dental affricate,ts
+2925,Serbo-Croatian,Voiceless postalveolar affricate,tʃ
+2926,Serbo-Croatian,Voiced labiodental fricative,v
+2927,Serbo-Croatian,Voiceless velar fricative,x
+2928,Serbo-Croatian,Voiced dental sibilant fricative,z
+2929,Serbo-Croatian,Voiced postalveolar fricative,ʒ
+2930,Shan_and_Tai_Lue,Voiced bilabial plosive,b
+2931,Shan_and_Tai_Lue,Voiced alveolar plosive,d
+2932,Shan_and_Tai_Lue,Voiceless labiodental fricative,f
+2933,Shan_and_Tai_Lue,Voiced velar plosive,ɡ
+2934,Shan_and_Tai_Lue,Voiceless glottal fricative,h
+2935,Shan_and_Tai_Lue,Voiced palatal approximant,j
+2936,Shan_and_Tai_Lue,Voiceless velar plosive,k
+2937,Shan_and_Tai_Lue,Voiced alveolar lateral approximant,l
+2938,Shan_and_Tai_Lue,Voiced bilabial nasal,m
+2939,Shan_and_Tai_Lue,Voiced alveolar nasal,n
+2940,Shan_and_Tai_Lue,Voiced velar nasal,ŋ
+2941,Shan_and_Tai_Lue,Voiced palatal nasal,ɲ
+2942,Shan_and_Tai_Lue,Voiceless bilabial plosive,p
+2943,Shan_and_Tai_Lue,Voiced alveolar trill,r
+2944,Shan_and_Tai_Lue,Voiceless alveolar fricative,s
+2945,Shan_and_Tai_Lue,Voiceless postalveolar fricative,ʃ
+2946,Shan_and_Tai_Lue,Voiceless alveolar plosive,t
+2947,Shan_and_Tai_Lue,Voiceless alveolar affricate,ts
+2948,Shan_and_Tai_Lue,Voiceless dental fricative,θ
+2949,Shan_and_Tai_Lue,Voiced labiodental fricative,v
+2950,Shan_and_Tai_Lue,Voiced labial–velar approximant,w
+2951,Shan_and_Tai_Lue,Voiceless velar fricative,x
+2952,Shan_and_Tai_Lue,Voiced alveolar fricative,z
+2953,Shan_and_Tai_Lue,Glottal stop,ʔ
+2954,Sicilian,Voiced bilabial plosive,b
+2955,Sicilian,Voiceless palatal plosive,c
+2956,Sicilian,Voiceless palatal fricative,ç
+2957,Sicilian,Voiced dental plosive,d
+2958,Sicilian,Voiced dental affricate,dz
+2959,Sicilian,Voiced postalveolar affricate,dʒ
+2960,Sicilian,Voiced retroflex plosive,ɖ
+2961,Sicilian,Voiceless labiodental fricative,f
+2962,Sicilian,Voiced velar plosive,ɡ
+2963,Sicilian,Voiced palatal plosive,ɟ
+2964,Sicilian,Voiceless velar plosive,k
+2965,Sicilian,Voiced alveolar lateral approximant,l
+2966,Sicilian,Voiced bilabial nasal,m
+2967,Sicilian,Voiced labiodental nasal,ɱ
+2968,Sicilian,Voiced alveolar nasal,n
+2969,Sicilian,Voiced velar nasal,ŋ
+2970,Sicilian,Voiced retroflex nasal,ɳ
+2971,Sicilian,Voiced palatal nasal,ɲ
+2972,Sicilian,Voiceless bilabial plosive,p
+2973,Sicilian,Voiced alveolar trill,r
+2974,Sicilian,Voiced dental and alveolar taps and flaps,ɾ
+2975,Sicilian,Voiced retroflex approximant,ɽ
+2976,Sicilian,Voiceless dental sibilant fricative,s
+2977,Sicilian,Voiceless retroflex fricative,ʂ
+2978,Sicilian,Voiceless postalveolar fricative,ʃ
+2979,Sicilian,Voiceless dental plosive,t
+2980,Sicilian,Voiceless dental affricate,ts
+2981,Sicilian,Voiceless postalveolar affricate,tʃ
+2982,Sicilian,Voiceless retroflex plosive,ʈ
+2983,Sicilian,Voiced labiodental fricative,v
+2984,Sicilian,Voiced dental sibilant fricative,z
+2985,Slovak,Voiced bilabial plosive,b
+2986,Slovak,Voiceless palatal plosive,c
+2987,Slovak,Voiced alveolar plosive,d
+2988,Slovak,Voiceless labiodental fricative,f
+2989,Slovak,Voiced velar plosive,ɡ
+2990,Slovak,Voiced glottal fricative,ɦ
+2991,Slovak,Voiced palatal approximant,j
+2992,Slovak,Voiced palatal plosive,ɟ
+2993,Slovak,Voiceless velar plosive,k
+2994,Slovak,Voiced palatal lateral approximant,ʎ
+2995,Slovak,Voiced bilabial nasal,m
+2996,Slovak,Voiced alveolar nasal,n
+2997,Slovak,Voiced palatal nasal,ɲ
+2998,Slovak,Voiceless bilabial plosive,p
+2999,Slovak,Voiced dental and alveolar taps and flaps,r
+3000,Slovak,Voiceless alveolar fricative,s
+3001,Slovak,Voiceless retroflex fricative,ʂ
+3002,Slovak,Voiceless alveolar plosive,t
+3003,Slovak,Voiceless alveolar affricate,ts
+3004,Slovak,Voiceless retroflex affricate,tʂ
+3005,Slovak,Voiced labiodental approximant,ʋ
+3006,Slovak,Voiceless velar fricative,x
+3007,Slovak,Voiced alveolar fricative,z
+3008,Slovak,Voiced retroflex fricative,ʐ
+3009,Slovak,Voiced alveolar affricate,dz
+3010,Slovak,Voiced retroflex affricate,dʐ
+3011,Slovak,Voiced velar fricative,ɣ
+3012,Slovak,Voiced labiodental nasal,ɱ
+3013,Slovak,Voiced velar nasal,ŋ
+3014,Slovak,Voiced labiodental fricative,v
+3015,Slovak,Voiced labial–velar approximant,w
+3016,Slovene,Voiced bilabial plosive,b
+3017,Slovene,Voiced dental plosive,d
+3018,Slovene,Voiced dental affricate,dz
+3019,Slovene,Voiced postalveolar affricate,dʒ
+3020,Slovene,Voiceless labiodental fricative,f
+3021,Slovene,Voiced velar plosive,ɡ
+3022,Slovene,Voiced velar fricative,ɣ
+3023,Slovene,Voiced palatal approximant,j
+3024,Slovene,Voiceless velar plosive,k
+3025,Slovene,Voiced alveolar lateral approximant,l
+3026,Slovene,Voiced bilabial nasal,m
+3027,Slovene,Voiced labiodental nasal,ɱ
+3028,Slovene,Voiced alveolar nasal,n
+3029,Slovene,Voiced velar nasal,ŋ
+3030,Slovene,Voiceless bilabial plosive,p
+3031,Slovene,Voiced dental and alveolar taps and flaps,ɾ
+3032,Slovene,Voiceless dental sibilant fricative,s
+3033,Slovene,Voiceless postalveolar fricative,ʃ
+3034,Slovene,Voiceless dental plosive,t
+3035,Slovene,Voiceless dental affricate,ts
+3036,Slovene,Voiceless postalveolar affricate,tʃ
+3037,Slovene,Voiced labiodental fricative,v
+3038,Slovene,Voiced labiodental approximant,ʋ
+3039,Slovene,Voiced labial–velar approximant,w
+3040,Slovene,Voiceless labial–velar fricative,ʍ
+3041,Slovene,Voiceless velar fricative,x
+3042,Slovene,Voiced dental sibilant fricative,z
+3043,Slovene,Voiced postalveolar fricative,ʒ
+3044,Sorbian,Voiced bilabial plosive,b
+3045,Sorbian,Voiceless alveolo-palatal fricative,ɕ
+3046,Sorbian,Voiced dental plosive,d
+3047,Sorbian,Voiced dental affricate,dz
+3048,Sorbian,Voiced alveolo-palatal affricate,dʑ
+3049,Sorbian,Voiced postalveolar affricate,dʒ
+3050,Sorbian,Voiceless labiodental fricative,f
+3051,Sorbian,Voiced velar plosive,ɡ
+3052,Sorbian,Voiced post-palatal plosive,ɡʲ
+3053,Sorbian,Voiced velar fricative,ɣ
+3054,Sorbian,Voiceless glottal fricative,h
+3055,Sorbian,Voiced palatal approximant,j
+3056,Sorbian,Voiceless velar plosive,k
+3057,Sorbian,Voiceless post-palatal plosive,kʲ
+3058,Sorbian,Voiced alveolar lateral approximant,l
+3059,Sorbian,Voiced bilabial nasal,m
+3060,Sorbian,Voiced alveolar nasal,n
+3061,Sorbian,Voiced palatal nasal,nʲ
+3062,Sorbian,Voiced velar nasal,ŋ
+3063,Sorbian,Voiced post-palatal nasal,ŋʲ
+3064,Sorbian,Voiceless bilabial plosive,p
+3065,Sorbian,Voiced alveolar trill,r
+3066,Sorbian,Voiced uvular fricative,ʁ
+3067,Sorbian,Voiceless dental sibilant fricative,s
+3068,Sorbian,Voiceless postalveolar fricative,ʃ
+3069,Sorbian,Voiceless dental plosive,t
+3070,Sorbian,Voiceless alveolo-palatal affricate,tɕ
+3071,Sorbian,Voiceless dental affricate,ts
+3072,Sorbian,Voiceless postalveolar affricate,tʃ
+3073,Sorbian,Voiced labiodental fricative,v
+3074,Sorbian,Voiced bilabial approximant,w
+3075,Sorbian,Voiced labial–palatal approximant,wʲ
+3076,Sorbian,Voiceless uvular fricative trill,x
+3077,Sorbian,Voiceless post-palatal fricative,xʲ
+3078,Sorbian,Voiced dental sibilant fricative,z
+3079,Sorbian,Voiced alveolo-palatal fricative,ʑ
+3080,Sorbian,Voiced postalveolar fricative,ʒ
+3081,Spanish,Voiced bilabial plosive,b
+3082,Spanish,Voiced bilabial approximant,β
+3083,Spanish,Voiced dental plosive,d
+3084,Spanish,Voiced dental approximant,ð
+3085,Spanish,Voiceless labiodental fricative,f
+3086,Spanish,Voiced velar plosive,ɡ
+3087,Spanish,Voiced velar approximant,ɣ
+3088,Spanish,Voiced palatal approximant,ʝ
+3089,Spanish,Voiced palatal affricate,ɟʝ
+3090,Spanish,Voiceless velar plosive,k
+3091,Spanish,Voiced alveolar lateral approximant,l
+3092,Spanish,Voiced bilabial nasal,m
+3093,Spanish,Voiced labiodental nasal,ɱ
+3094,Spanish,Voiced alveolar nasal,n
+3095,Spanish,Voiced palatal nasal,ɲ
+3096,Spanish,Voiced velar nasal,ŋ
+3097,Spanish,Voiceless bilabial plosive,p
+3098,Spanish,Voiced alveolar trill,r
+3099,Spanish,Voiced dental and alveolar taps and flaps,ɾ
+3100,Spanish,Voiceless alveolar fricative,s
+3101,Spanish,Voiceless dental fricative,θ
+3102,Spanish,Voiceless alveolar fricative,s
+3103,Spanish,Voiceless postalveolar fricative,ʃ
+3104,Spanish,Voiceless dental plosive,t
+3105,Spanish,Voiceless postalveolar affricate,tʃ
+3106,Spanish,Voiceless velar fricative,x
+3107,Spanish,Voiced palatal lateral approximant,ʎ
+3108,Swahili,Voiced bilabial implosive,ɓ
+3109,Swahili,Voiced alveolar implosive,ɗ
+3110,Swahili,Voiced dental fricative,ð
+3111,Swahili,Voiced palatal implosive,ʄ
+3112,Swahili,Voiced postalveolar affricate,dʒ
+3113,Swahili,Voiceless labiodental fricative,f
+3114,Swahili,Voiced velar implosive,ɠ
+3115,Swahili,Voiced velar fricative,ɣ
+3116,Swahili,Voiceless glottal fricative,h
+3117,Swahili,Voiced palatal approximant,j
+3118,Swahili,Voiceless velar plosive,k
+3119,Swahili,Voiced alveolar lateral approximant,l
+3120,Swahili,Voiced bilabial nasal,m
+3121,Swahili,Voiced alveolar nasal,n
+3122,Swahili,Voiced palatal nasal,ɲ
+3123,Swahili,Voiced velar nasal,ŋ
+3124,Swahili,Voiceless bilabial plosive,p
+3125,Swahili,Voiced alveolar trill,r
+3126,Swahili,Voiceless alveolar fricative,s
+3127,Swahili,Voiceless postalveolar fricative,ʃ
+3128,Swahili,Voiceless alveolar plosive,t
+3129,Swahili,Voiceless postalveolar affricate,tʃ
+3130,Swahili,Voiceless dental fricative,θ
+3131,Swahili,Voiced labiodental fricative,v
+3132,Swahili,Voiced labial–velar approximant,w
+3133,Swahili,Voiceless velar fricative,x
+3134,Swahili,Voiced alveolar fricative,z
+3135,Nguni,Voiced bilabial plosive,b
+3136,Nguni,Voiced bilabial implosive,ɓ
+3137,Nguni,Voiced alveolar plosive,d
+3138,Nguni,Voiced postalveolar affricate,dʒ
+3139,Nguni,Voiced alveolar affricate,dz
+3140,Nguni,Voiceless labiodental fricative,f
+3141,Nguni,Voiced velar plosive,ɡ
+3142,Nguni,Voiced velar implosive,ɠ
+3143,Nguni,Voiceless glottal fricative,h
+3144,Nguni,Voiced glottal fricative,ɦ
+3145,Nguni,Voiced palatal approximant,j
+3146,Nguni,Voiceless velar plosive,k
+3147,Nguni,Voiced alveolar lateral approximant,l
+3148,Nguni,Voiceless alveolar lateral fricative,ɬ
+3149,Nguni,Voiced alveolar lateral fricative,ɮ
+3150,Nguni,Voiced bilabial nasal,m
+3151,Nguni,Voiced alveolar nasal,n
+3152,Nguni,Voiced velar nasal,ŋ
+3153,Nguni,Voiced palatal nasal,ɲ
+3154,Nguni,Voiceless bilabial plosive,p
+3155,Nguni,Voiced alveolar trill,r
+3156,Nguni,Voiceless alveolar fricative,s
+3157,Nguni,Voiceless postalveolar fricative,ʃ
+3158,Nguni,Voiceless alveolar plosive,t
+3159,Nguni,Voiceless alveolar affricate,ts
+3160,Nguni,Voiced labiodental fricative,v
+3161,Nguni,Voiced labial–velar approximant,w
+3162,Nguni,Voiceless velar fricative,x
+3163,Nguni,Voiced velar fricative,ɣ
+3164,Nguni,Voiced postalveolar fricative,ʒ
+3165,Nguni,Voiced alveolar fricative,z
+3166,Nguni,Glottal stop,ʔ
+3167,Nguni,Voiced dental click,ᶢǀ
+3168,Nguni,Voiced alveolar click,ᶢǃ
+3169,Swedish,Voiced bilabial plosive,b
+3170,Swedish,Voiceless alveolo-palatal fricative,ɕ
+3171,Swedish,Voiceless alveolo-palatal affricate,tɕ
+3172,Swedish,Voiced alveolar plosive,d
+3173,Swedish,Voiced retroflex plosive,ɖ
+3174,Swedish,Voiced alveolar trill,r
+3175,Swedish,Voiced dental plosive,d
+3176,Swedish,Voiceless labiodental fricative,f
+3177,Swedish,Voiced velar plosive,ɡ
+3178,Swedish,Voiceless glottal fricative,h
+3179,Swedish,Voiceless postalveolar fricative,ʃ
+3180,Swedish,Voiced palatal approximant,j
+3181,Swedish,Voiceless velar plosive,k
+3182,Swedish,Voiced dental lateral approximant,l
+3183,Swedish,Voiced retroflex lateral approximant,ɭ
+3184,Swedish,Voiced alveolar trill,r
+3185,Swedish,Voiced dental lateral approximant,l
+3186,Swedish,Voiced bilabial nasal,m
+3187,Swedish,Voiced alveolar nasal,n
+3188,Swedish,Voiced retroflex nasal,ɳ
+3189,Swedish,Voiced alveolar trill,r
+3190,Swedish,Voiced dental nasal,n
+3191,Swedish,Voiced velar nasal,ŋ
+3192,Swedish,Voiceless bilabial plosive,p
+3193,Swedish,Voiced dental and alveolar taps and flaps,r
+3194,Swedish,Voiceless alveolar fricative,s
+3195,Swedish,Voiceless retroflex fricative,ʂ
+3196,Swedish,Voiced alveolar trill,r
+3197,Swedish,Voiceless dental sibilant fricative,s
+3198,Swedish,Voiceless postalveolar fricative,ʃ
+3199,Swedish,Voiceless dental plosive,t
+3200,Swedish,Voiceless retroflex plosive,ʈ
+3201,Swedish,Voiced alveolar trill,r
+3202,Swedish,Voiceless dental plosive,t
+3203,Swedish,Voiced labiodental fricative,v
+3204,Sylheti,Voiced bilabial plosive,b
+3205,Sylheti,Voiced dental plosive,d̪
+3206,Sylheti,Voiced retroflex plosive,ɖ
+3207,Sylheti,Voiced postalveolar affricate,dʒ
+3208,Sylheti,Voiceless labiodental fricative,f
+3209,Sylheti,Voiceless bilabial fricative,ɸ
+3210,Sylheti,Voiced velar plosive,ɡ
+3211,Sylheti,Voiced glottal fricative,ɦ
+3212,Sylheti,Voiced palatal approximant,j
+3213,Sylheti,Voiceless velar plosive,k
+3214,Sylheti,Voiced alveolar lateral approximant,l
+3215,Sylheti,Voiced bilabial nasal,m
+3216,Sylheti,Voiced alveolar nasal,n
+3217,Sylheti,Voiced velar nasal,ŋ
+3218,Sylheti,Voiceless bilabial plosive,p
+3219,Sylheti,Voiced alveolar trill,r
+3220,Sylheti,Voiced retroflex flap,ɽ
+3221,Sylheti,Voiceless alveolar fricative,s
+3222,Sylheti,Voiceless postalveolar fricative,ʃ
+3223,Sylheti,Voiceless dental plosive,t̪
+3224,Sylheti,Voiceless retroflex plosive,ʈ
+3225,Sylheti,Voiceless postalveolar affricate,tʃ
+3226,Sylheti,Voiced bilabial fricative,β
+3227,Sylheti,Voiced labial–velar approximant,w
+3228,Sylheti,Voiceless velar fricative,x
+3229,Sylheti,Voiced alveolar fricative,z
+3230,Tagalog,Glottal stop,ʔ
+3231,Tagalog,Voiced bilabial plosive,b
+3232,Tagalog,Voiced alveolar plosive,d
+3233,Tagalog,Voiced postalveolar affricate,dʒ
+3234,Tagalog,Voiced velar plosive,ɡ
+3235,Tagalog,Voiceless glottal fricative,h
+3236,Tagalog,Voiced palatal approximant,j
+3237,Tagalog,Voiceless velar plosive,k
+3238,Tagalog,Voiced alveolar lateral approximant,l
+3239,Tagalog,Voiced bilabial nasal,m
+3240,Tagalog,Voiced alveolar nasal,n
+3241,Tagalog,Voiced velar nasal,ŋ
+3242,Tagalog,Voiced palatal nasal,ɲ
+3243,Tagalog,Voiceless bilabial plosive,p
+3244,Tagalog,Voiced dental and alveolar taps and flaps,ɾ
+3245,Tagalog,Voiceless alveolar fricative,s
+3246,Tagalog,Voiceless postalveolar fricative,ʃ
+3247,Tagalog,Voiceless alveolar plosive,t
+3248,Tagalog,Voiceless alveolar affricate,ts
+3249,Tagalog,Voiceless postalveolar affricate,tʃ
+3250,Tagalog,Voiced labial–velar approximant,w
+3251,Tagalog,Voiceless labiodental fricative,f
+3252,Tagalog,Voiced velar fricative,ɣ
+3253,Tagalog,Voiced alveolar trill,r
+3254,Tagalog,Voiced alveolar approximant,ɹ
+3255,Tagalog,Voiced labiodental fricative,v
+3256,Tagalog,Voiceless velar fricative,x
+3257,Tagalog,Voiced alveolar fricative,z
+3258,Shan_and_Tai_Lue,Voiced bilabial plosive,b
+3259,Shan_and_Tai_Lue,Voiced alveolar plosive,d
+3260,Shan_and_Tai_Lue,Voiceless labiodental fricative,f
+3261,Shan_and_Tai_Lue,Voiced velar plosive,ɡ
+3262,Shan_and_Tai_Lue,Voiceless glottal fricative,h
+3263,Shan_and_Tai_Lue,Voiced palatal approximant,j
+3264,Shan_and_Tai_Lue,Voiceless velar plosive,k
+3265,Shan_and_Tai_Lue,Voiced alveolar lateral approximant,l
+3266,Shan_and_Tai_Lue,Voiced bilabial nasal,m
+3267,Shan_and_Tai_Lue,Voiced alveolar nasal,n
+3268,Shan_and_Tai_Lue,Voiced velar nasal,ŋ
+3269,Shan_and_Tai_Lue,Voiced palatal nasal,ɲ
+3270,Shan_and_Tai_Lue,Voiceless bilabial plosive,p
+3271,Shan_and_Tai_Lue,Voiced alveolar trill,r
+3272,Shan_and_Tai_Lue,Voiceless alveolar fricative,s
+3273,Shan_and_Tai_Lue,Voiceless postalveolar fricative,ʃ
+3274,Shan_and_Tai_Lue,Voiceless alveolar plosive,t
+3275,Shan_and_Tai_Lue,Voiceless alveolar affricate,ts
+3276,Shan_and_Tai_Lue,Voiceless dental fricative,θ
+3277,Shan_and_Tai_Lue,Voiced labiodental fricative,v
+3278,Shan_and_Tai_Lue,Voiced labial–velar approximant,w
+3279,Shan_and_Tai_Lue,Voiceless velar fricative,x
+3280,Shan_and_Tai_Lue,Voiced alveolar fricative,z
+3281,Shan_and_Tai_Lue,Glottal stop,ʔ
+3282,Persian,Voiced bilabial plosive,b
+3283,Persian,Voiced dental plosive,d
+3284,Persian,Voiced postalveolar affricate,dʒ
+3285,Persian,Voiceless labiodental fricative,f
+3286,Persian,Voiced velar plosive,ɡ
+3287,Persian,Voiced velar fricative,ɣ
+3288,Persian,Voiceless uvular plosive,q
+3289,Persian,Voiced uvular plosive,ɢ
+3290,Persian,Voiced velar fricative,ɣ
+3291,Persian,Voiceless uvular plosive,q
+3292,Persian,Voiceless glottal fricative,h
+3293,Persian,Voiced palatal approximant,j
+3294,Persian,Voiced alveolar lateral approximant,l
+3295,Persian,Voiced bilabial nasal,m
+3296,Persian,Voiced alveolar nasal,n
+3297,Persian,Voiced dental and alveolar taps and flaps,ɾ
+3298,Persian,Voiced alveolar approximant,ɹ
+3299,Persian,Voiceless alveolar fricative,s
+3300,Persian,Voiceless postalveolar fricative,ʃ
+3301,Persian,Voiced labiodental fricative,v
+3302,Persian,Voiced labial–velar approximant,w
+3303,Persian,Voiced labiodental fricative,v
+3304,Persian,Voiceless velar fricative,x
+3305,Persian,Voiced alveolar fricative,z
+3306,Persian,Voiced postalveolar fricative,ʒ
+3307,Persian,Glottal stop,ʔ
+3308,Persian,Voiced velar nasal,ŋ
+3309,Tatar,Voiced bilabial plosive,b
+3310,Tatar,Voiceless alveolo-palatal fricative,ɕ
+3311,Tatar,Voiceless alveolo-palatal fricative,ɕː
+3312,Tatar,Voiced alveolar plosive,d
+3313,Tatar,Voiceless labiodental fricative,f
+3314,Tatar,Voiced velar plosive,ɡ
+3315,Tatar,Voiceless glottal fricative,h
+3316,Tatar,Voiced palatal approximant,j
+3317,Tatar,Voiceless velar plosive,k
+3318,Tatar,Voiced alveolar lateral approximant,l
+3319,Tatar,Voiced bilabial nasal,m
+3320,Tatar,Voiced alveolar nasal,n
+3321,Tatar,Voiced velar nasal,ŋ
+3322,Tatar,Voiceless bilabial plosive,p
+3323,Tatar,Voiceless uvular plosive,q
+3324,Tatar,Voiced dental and alveolar taps and flaps,ɾ
+3325,Tatar,Voiced uvular fricative,ʁ
+3326,Tatar,Voiceless alveolar fricative,s
+3327,Tatar,Voiceless postalveolar fricative,ʃ
+3328,Tatar,Voiceless alveolar plosive,t
+3329,Tatar,Voiceless alveolar affricate,ts
+3330,Tatar,Voiceless alveolo-palatal affricate,tɕ
+3331,Tatar,Voiced labiodental fricative,v
+3332,Tatar,Voiced labial–velar approximant,w
+3333,Tatar,Voiceless uvular fricative,χ
+3334,Tatar,Voiced alveolar fricative,z
+3335,Tatar,Voiced alveolo-palatal fricative,ʑ
+3336,Tatar,Voiced retroflex fricative,ʐ
+3337,Tatar,Glottal stop,ʔ
+3338,Telugu,Voiced bilabial plosive,b
+3339,Telugu,Voiced dental plosive,d
+3340,Telugu,Voiced retroflex plosive,ɖ
+3341,Telugu,Voiced postalveolar affricate,dʒ
+3342,Telugu,Voiced alveolar affricate,dz
+3343,Telugu,Voiced alveolar fricative,z
+3344,Telugu,Voiced palatal approximant,j
+3345,Telugu,Voiced velar plosive,ɡ
+3346,Telugu,Voiced glottal fricative,ɦ
+3347,Telugu,Voiceless velar plosive,k
+3348,Telugu,Voiced alveolar lateral approximant,l
+3349,Telugu,Voiced retroflex lateral approximant,ɭ
+3350,Telugu,Voiced bilabial nasal,m
+3351,Telugu,Voiced alveolar nasal,n
+3352,Telugu,Voiced retroflex nasal,ɳ
+3353,Telugu,Voiced palatal nasal,ɲ
+3354,Telugu,Voiced velar nasal,ŋ
+3355,Telugu,Voiceless bilabial plosive,p
+3356,Telugu,Voiced dental and alveolar taps and flaps,ɾ
+3357,Telugu,Voiced alveolar trill,r
+3358,Telugu,Voiceless alveolar fricative,s
+3359,Telugu,Voiceless postalveolar fricative,ʃ
+3360,Telugu,Voiceless dental plosive,t
+3361,Telugu,Voiceless retroflex plosive,ʈ
+3362,Telugu,Voiceless postalveolar affricate,tʃ
+3363,Telugu,Voiceless alveolar affricate,ts
+3364,Telugu,Voiced labiodental approximant,ʋ
+3365,Telugu,Voiced retroflex approximant,ɻ
+3366,Thai,Voiced bilabial plosive,b
+3367,Thai,Voiced alveolar plosive,d
+3368,Thai,Voiceless labiodental fricative,f
+3369,Thai,Voiceless glottal fricative,h
+3370,Thai,Voiced palatal approximant,j
+3371,Thai,Voiceless velar plosive,k
+3372,Thai,Voiced alveolar lateral approximant,l
+3373,Thai,Voiced bilabial nasal,m
+3374,Thai,Voiced alveolar nasal,n
+3375,Thai,Voiced velar nasal,ŋ
+3376,Thai,Voiceless bilabial plosive,p
+3377,Thai,Voiced alveolar trill,r
+3378,Thai,Voiceless alveolar fricative,s
+3379,Thai,Voiceless alveolar plosive,t
+3380,Thai,Voiceless alveolo-palatal affricate,tɕ
+3381,Thai,Voiced labial–velar approximant,w
+3382,Thai,Glottal stop,ʔ
+3383,Thai,Voiced palatal approximant,j
+3384,Thai,Voiceless velar plosive,k
+3385,Thai,Voiced bilabial nasal,m
+3386,Thai,Voiced alveolar nasal,n
+3387,Thai,Voiced velar nasal,ŋ
+3388,Thai,Voiceless bilabial plosive,p
+3389,Thai,Voiceless alveolar plosive,t
+3390,Thai,Voiced labial–velar approximant,w
+3391,Thai,Glottal stop,ʔ
+3392,Turkish,Voiced bilabial plosive,b
+3393,Turkish,Voiced bilabial fricative,β
+3394,Turkish,Voiceless palatal plosive,c
+3395,Turkish,Voiced dental plosive,d
+3396,Turkish,Voiced postalveolar affricate,dʒ
+3397,Turkish,Voiceless labiodental fricative,f
+3398,Turkish,Voiced velar plosive,ɡ
+3399,Turkish,Voiced palatal plosive,ɟ
+3400,Turkish,Voiceless glottal fricative,h
+3401,Turkish,Voiced palatal approximant,j
+3402,Turkish,Voiceless velar plosive,k
+3403,Turkish,Voiced alveolo-palatal lateral approximant,l
+3404,Turkish,Voiced bilabial nasal,m
+3405,Turkish,Voiced alveolar nasal,n
+3406,Turkish,Voiced palatal nasal,ɲ
+3407,Turkish,Voiced velar nasal,ŋ
+3408,Turkish,Voiceless bilabial plosive,p
+3409,Turkish,Voiced dental and alveolar taps and flaps,ɾ
+3410,Turkish,Voiceless alveolar fricative,s
+3411,Turkish,Voiceless postalveolar fricative,ʃ
+3412,Turkish,Voiceless dental plosive,t
+3413,Turkish,Voiceless postalveolar affricate,tʃ
+3414,Turkish,Voiced labiodental fricative,v
+3415,Turkish,Voiced alveolar fricative,z
+3416,Turkish,Voiced postalveolar fricative,ʒ
+3417,Turkmen,Voiced bilabial plosive,b
+3418,Turkmen,Voiced dental plosive,d
+3419,Turkmen,Voiced postalveolar affricate,dʒ
+3420,Turkmen,Voiced dental fricative,ð
+3421,Turkmen,Voiceless bilabial fricative,ɸ
+3422,Turkmen,Voiced velar plosive,ɡ
+3423,Turkmen,Voiced uvular plosive,ɢ
+3424,Turkmen,Voiced velar fricative,ɣ
+3425,Turkmen,Voiceless glottal fricative,h
+3426,Turkmen,Voiced palatal approximant,j
+3427,Turkmen,Voiceless velar plosive,k
+3428,Turkmen,Voiced alveolar lateral approximant,l
+3429,Turkmen,Voiced bilabial nasal,m
+3430,Turkmen,Voiced alveolar nasal,n
+3431,Turkmen,Voiced velar nasal,ŋ
+3432,Turkmen,Voiceless bilabial plosive,p
+3433,Turkmen,Voiceless uvular plosive,q
+3434,Turkmen,Voiced dental and alveolar taps and flaps,ɾ
+3435,Turkmen,Voiceless postalveolar fricative,ʃ
+3436,Turkmen,Voiceless dental plosive,t
+3437,Turkmen,Voiceless alveolar affricate,ts
+3438,Turkmen,Voiceless postalveolar affricate,tʃ
+3439,Turkmen,Voiceless dental fricative,θ
+3440,Turkmen,Voiced bilabial fricative,β
+3441,Turkmen,Voiceless velar fricative,x
+3442,Turkmen,Voiced postalveolar fricative,ʒ
+3443,Ukrainian,Voiced bilabial plosive,b
+3444,Ukrainian,Voiced dental plosive,d
+3445,Ukrainian,Voiced dental affricate,dz
+3446,Ukrainian,Voiced postalveolar affricate,dʒ
+3447,Ukrainian,Voiceless labiodental fricative,f
+3448,Ukrainian,Voiced velar plosive,ɡ
+3449,Ukrainian,Voiced velar fricative,ɣ
+3450,Ukrainian,Voiced glottal fricative,ɦ
+3451,Ukrainian,Voiced palatal approximant,j
+3452,Ukrainian,Voiceless velar plosive,k
+3453,Ukrainian,Voiced bilabial nasal,m
+3454,Ukrainian,Voiced dental nasal,n
+3455,Ukrainian,Voiceless bilabial plosive,p
+3456,Ukrainian,Voiced alveolar trill,r
+3457,Ukrainian,Voiceless dental sibilant fricative,s
+3458,Ukrainian,Voiceless postalveolar fricative,ʃ
+3459,Ukrainian,Voiceless dental plosive,t
+3460,Ukrainian,Voiceless dental affricate,ts
+3461,Ukrainian,Voiceless postalveolar affricate,tʃ
+3462,Ukrainian,Voiced labial–velar approximant,u̯
+3463,Ukrainian,Voiced labiodental fricative,v
+3464,Ukrainian,Voiced labiodental approximant,w
+3465,Ukrainian,Voiceless velar fricative,x
+3466,Ukrainian,Voiced dental sibilant fricative,z
+3467,Ukrainian,Voiced postalveolar fricative,ʒ
+3468,Hindi_and_Urdu,Voiced bilabial plosive,b
+3469,Hindi_and_Urdu,Voiced dental plosive,d
+3470,Hindi_and_Urdu,Voiced postalveolar affricate,dʒ
+3471,Hindi_and_Urdu,Voiced retroflex plosive,ɖ
+3472,Hindi_and_Urdu,Voiceless labiodental fricative,f
+3473,Hindi_and_Urdu,Voiced velar plosive,ɡ
+3474,Hindi_and_Urdu,Glottal stop,ʔ
+3475,Hindi_and_Urdu,Voiced velar fricative,ɣ
+3476,Hindi_and_Urdu,Voiced glottal fricative,ɦ
+3477,Hindi_and_Urdu,Voiced palatal approximant,j
+3478,Hindi_and_Urdu,Voiceless velar plosive,k
+3479,Hindi_and_Urdu,Voiced alveolar lateral approximant,l
+3480,Hindi_and_Urdu,Voiced bilabial nasal,m
+3481,Hindi_and_Urdu,Voiced dental nasal,n
+3482,Hindi_and_Urdu,Voiced retroflex nasal,ɳ
+3483,Hindi_and_Urdu,Voiced velar nasal,ŋ
+3484,Hindi_and_Urdu,Voiceless bilabial plosive,p
+3485,Hindi_and_Urdu,Voiceless uvular plosive,q
+3486,Hindi_and_Urdu,Voiced alveolar trill,r
+3487,Hindi_and_Urdu,Voiced dental and alveolar taps and flaps,ɾ
+3488,Hindi_and_Urdu,Voiced retroflex flap,ɽ
+3489,Hindi_and_Urdu,Voiceless alveolar fricative,s
+3490,Hindi_and_Urdu,Voiceless retroflex fricative,ʂ
+3491,Hindi_and_Urdu,Voiceless postalveolar fricative,ʃ
+3492,Hindi_and_Urdu,Voiceless dental plosive,t
+3493,Hindi_and_Urdu,Voiceless retroflex plosive,ʈ
+3494,Hindi_and_Urdu,Voiced labiodental approximant,ʋ
+3495,Hindi_and_Urdu,Voiced labial–velar approximant,w
+3496,Hindi_and_Urdu,Voiceless velar fricative,x
+3497,Hindi_and_Urdu,Voiced alveolar fricative,z
+3498,Hindi_and_Urdu,Voiced postalveolar fricative,ʒ
+3499,Uzbek,Voiced bilabial plosive,b
+3500,Uzbek,Voiced dental plosive,d
+3501,Uzbek,Voiced postalveolar affricate,dʒ
+3502,Uzbek,Voiceless bilabial fricative,ɸ
+3503,Uzbek,Voiced velar plosive,ɡ
+3504,Uzbek,Voiceless glottal fricative,h
+3505,Uzbek,Voiced palatal approximant,j
+3506,Uzbek,Voiceless velar plosive,k
+3507,Uzbek,Voiced alveolar lateral approximant,l
+3508,Uzbek,Voiced bilabial nasal,m
+3509,Uzbek,Voiced alveolar nasal,n
+3510,Uzbek,Voiced velar nasal,ŋ
+3511,Uzbek,Voiceless bilabial plosive,p
+3512,Uzbek,Voiceless uvular plosive,q
+3513,Uzbek,Voiced alveolar trill,r
+3514,Uzbek,Voiced uvular fricative,ʁ
+3515,Uzbek,Voiceless alveolar fricative,s
+3516,Uzbek,Voiceless postalveolar fricative,ʃ
+3517,Uzbek,Voiceless dental plosive,t
+3518,Uzbek,Voiceless postalveolar affricate,tʃ
+3519,Uzbek,Voiced labiodental fricative,v
+3520,Uzbek,Voiced labial–velar approximant,w
+3521,Uzbek,Voiceless uvular fricative,χ
+3522,Uzbek,Voiced alveolar fricative,z
+3523,Uzbek,Voiced postalveolar fricative,ʒ
+3524,Uzbek,Glottal stop,ʔ
+3525,Venetian,Voiced bilabial plosive,b
+3526,Venetian,Voiceless velar plosive,k
+3527,Venetian,Voiced dental plosive,d
+3528,Venetian,Voiced postalveolar affricate,dʒ
+3529,Venetian,Voiceless labiodental fricative,f
+3530,Venetian,Voiceless labiodental fricative,f
+3531,Venetian,Voiceless glottal fricative,h
+3532,Venetian,Voiced velar plosive,ɡ
+3533,Venetian,Voiced alveolar lateral approximant,l
+3534,Venetian,Voiced alveolar lateral approximant,l
+3535,Venetian,Voiced velar approximant,ɰ
+3536,Venetian,Voiced alveolar lateral approximant,l
+3537,Venetian,Voiced bilabial nasal,m
+3538,Venetian,Voiced alveolar nasal,n
+3539,Venetian,Voiced velar nasal,ŋ
+3540,Venetian,Voiced palatal nasal,ɲ
+3541,Venetian,Voiceless bilabial plosive,p
+3542,Venetian,Voiced dental and alveolar taps and flaps,ɾ
+3543,Venetian,Voiceless alveolar fricative,s
+3544,Venetian,Voiceless dental fricative,θ
+3545,Venetian,Voiceless alveolar fricative,s
+3546,Venetian,Voiceless alveolar affricate,ts
+3547,Venetian,Voiceless dental plosive,t
+3548,Venetian,Voiceless postalveolar affricate,tʃ
+3549,Venetian,Voiced labiodental fricative,v
+3550,Venetian,Voiced alveolar fricative,z
+3551,Venetian,Voiced dental fricative,ð
+3552,Venetian,Voiced alveolar fricative,z
+3553,Venetian,Voiced alveolar affricate,dz
+3554,Vietnamese,Glottal stop,ʔ
+3555,Vietnamese,Voiced bilabial implosive,ɓ
+3556,Vietnamese,Voiced alveolar implosive,ɗ
+3557,Vietnamese,Voiceless labiodental fricative,f
+3558,Vietnamese,Voiced velar fricative,ɣ
+3559,Vietnamese,Voiceless glottal fricative,h
+3560,Vietnamese,Voiceless velar plosive,k
+3561,Vietnamese,Voiced labial–velar approximant,w
+3562,Vietnamese,Voiceless velar fricative,x
+3563,Vietnamese,Voiced alveolar lateral approximant,l
+3564,Vietnamese,Voiced bilabial nasal,m
+3565,Vietnamese,Voiced alveolar nasal,n
+3566,Vietnamese,Voiced palatal nasal,ɲ
+3567,Vietnamese,Voiced velar nasal,ŋ
+3568,Vietnamese,Voiceless bilabial plosive,p
+3569,Vietnamese,Voiceless alveolar fricative,s
+3570,Vietnamese,Voiceless alveolar fricative,s
+3571,Vietnamese,Voiceless retroflex fricative,ʂ
+3572,Vietnamese,Voiceless dental plosive,t
+3573,Vietnamese,Voiceless palatal plosive,c
+3574,Vietnamese,Voiceless palatal plosive,c
+3575,Vietnamese,Voiceless retroflex plosive,ʈ
+3576,Vietnamese,Voiced labiodental fricative,v
+3577,Vietnamese,Voiced palatal approximant,j
+3578,Vietnamese,Voiced alveolar fricative,z
+3579,Vietnamese,Voiced alveolo-palatal fricative,ʑ
+3580,Vietnamese,Voiced palatal fricative,ʝ
+3581,Vietnamese,Voiced palatal approximant,j
+3582,Vietnamese,Voiced alveolar fricative,z
+3583,Vietnamese,Voiced alveolar trill,r
+3584,Vietnamese,Voiced palatal approximant,j
+3585,Vietnamese,Voiced bilabial nasal,m
+3586,Vietnamese,Voiced alveolar nasal,n
+3587,Vietnamese,Voiced velar nasal,ŋ
+3588,Vietnamese,Voiced velar nasal,ŋ
+3589,Vietnamese,Voiced alveolar nasal,n
+3590,Vietnamese,Voiced alveolar nasal,n
+3591,Vietnamese,Voiced alveolar nasal,n
+3592,Vietnamese,Voiced labial–velar nasal,ŋm
+3593,Vietnamese,Voiced labial–velar nasal,ŋm
+3594,Vietnamese,Voiceless dental plosive,t
+3595,Vietnamese,Voiceless velar plosive,k
+3596,Vietnamese,Voiceless velar plosive,k
+3597,Vietnamese,Voiceless dental plosive,t
+3598,Vietnamese,Voiceless dental plosive,t
+3599,Vietnamese,Voiceless dental plosive,t
+3600,Vietnamese,Voiceless labial–velar plosive,kp
+3601,Vietnamese,Voiceless labial–velar plosive,kp
+3602,Vietnamese,Voiced labial–velar approximant,w
+3603,Walloon,Voiced bilabial plosive,b
+3604,Walloon,Voiceless palatal fricative,ç
+3605,Walloon,Voiceless uvular fricative,χ
+3606,Walloon,Voiced dental plosive,d
+3607,Walloon,Voiced postalveolar affricate,dʒ
+3608,Walloon,Voiceless labiodental fricative,f
+3609,Walloon,Voiced velar plosive,ɡ
+3610,Walloon,Voiceless glottal fricative,h
+3611,Walloon,Voiceless velar plosive,k
+3612,Walloon,Voiced alveolar lateral approximant,l
+3613,Walloon,Voiced bilabial nasal,m
+3614,Walloon,Voiced alveolar nasal,n
+3615,Walloon,Voiced palatal nasal,ɲ
+3616,Walloon,Voiceless bilabial plosive,p
+3617,Walloon,Voiced uvular trill,ʀ
+3618,Walloon,Voiceless alveolar fricative,s
+3619,Walloon,Voiceless postalveolar fricative,ʃ
+3620,Walloon,Voiceless dental plosive,t
+3621,Walloon,Voiceless postalveolar affricate,tʃ
+3622,Walloon,Voiced labiodental fricative,v
+3623,Walloon,Voiced alveolar fricative,z
+3624,Walloon,Voiced postalveolar fricative,ʒ
+3625,Walloon,Voiced palatal approximant,j
+3626,Walloon,Voiced labial–velar approximant,w
+3627,Welsh,Voiced bilabial plosive,b
+3628,Welsh,Voiced alveolar plosive,d
+3629,Welsh,Voiced postalveolar affricate,dʒ
+3630,Welsh,Voiced dental fricative,ð
+3631,Welsh,Voiceless labiodental fricative,f
+3632,Welsh,Voiced velar plosive,ɡ
+3633,Welsh,Voiceless glottal fricative,h
+3634,Welsh,Voiced palatal approximant,j
+3635,Welsh,Voiceless velar plosive,k
+3636,Welsh,Voiced alveolar lateral approximant,l
+3637,Welsh,Voiceless alveolar lateral fricative,ɬ
+3638,Welsh,Voiced bilabial nasal,m
+3639,Welsh,Voiceless bilabial nasal,m̥
+3640,Welsh,Voiced alveolar nasal,n
+3641,Welsh,Voiceless alveolar nasal,n̥
+3642,Welsh,Voiced velar nasal,ŋ
+3643,Welsh,Voiceless velar nasal,ŋ̊
+3644,Welsh,Voiceless bilabial plosive,p
+3645,Welsh,Voiced alveolar trill,r
+3646,Welsh,Voiceless alveolar trill,r̥
+3647,Welsh,Voiceless alveolar fricative,s
+3648,Welsh,Voiceless postalveolar fricative,ʃ
+3649,Welsh,Voiceless alveolar plosive,t
+3650,Welsh,Voiceless postalveolar affricate,tʃ
+3651,Welsh,Voiceless dental fricative,θ
+3652,Welsh,Voiced labiodental fricative,v
+3653,Welsh,Voiced labial–velar approximant,w
+3654,Welsh,Voiceless uvular fricative,χ
+3655,West_Frisian,Voiced bilabial plosive,b
+3656,West_Frisian,Voiceless alveolo-palatal fricative,ɕ
+3657,West_Frisian,Voiced alveolar plosive,d
+3658,West_Frisian,Voiced apico-alveolar affricate,dz
+3659,West_Frisian,Voiceless labiodental fricative,f
+3660,West_Frisian,Voiced velar plosive,ɡ
+3661,West_Frisian,Voiced velar fricative,ɣ
+3662,West_Frisian,Voiceless glottal fricative,h
+3663,West_Frisian,Voiced palatal approximant,j
+3664,West_Frisian,Voiceless velar plosive,k
+3665,West_Frisian,Voiced alveolar lateral approximant,l
+3666,West_Frisian,Voiced bilabial nasal,m
+3667,West_Frisian,Voiced alveolar nasal,n
+3668,West_Frisian,Voiced palatal nasal,ɲ
+3669,West_Frisian,Voiced velar nasal,ŋ
+3670,West_Frisian,Voiceless bilabial plosive,p
+3671,West_Frisian,Voiced alveolar trill,r
+3672,West_Frisian,Voiceless alveolar retracted fricative,s
+3673,West_Frisian,Voiceless alveolar plosive,t
+3674,West_Frisian,Voiceless apico-alveolar affricate,ts
+3675,West_Frisian,Voiced labiodental fricative,v
+3676,West_Frisian,Voiced labiodental approximant,ʋ
+3677,West_Frisian,Voiceless uvular fricative,χ
+3678,West_Frisian,Voiced alveolar retracted fricative,z
+3679,West_Frisian,Voiced alveolo-palatal fricative,ʑ
+3680,Nguni,Voiced bilabial plosive,b
+3681,Nguni,Voiced bilabial implosive,ɓ
+3682,Nguni,Voiced alveolar plosive,d
+3683,Nguni,Voiced postalveolar affricate,dʒ
+3684,Nguni,Voiced alveolar affricate,dz
+3685,Nguni,Voiceless labiodental fricative,f
+3686,Nguni,Voiced velar plosive,ɡ
+3687,Nguni,Voiced velar implosive,ɠ
+3688,Nguni,Voiceless glottal fricative,h
+3689,Nguni,Voiced glottal fricative,ɦ
+3690,Nguni,Voiced palatal approximant,j
+3691,Nguni,Voiceless velar plosive,k
+3692,Nguni,Voiced alveolar lateral approximant,l
+3693,Nguni,Voiceless alveolar lateral fricative,ɬ
+3694,Nguni,Voiced alveolar lateral fricative,ɮ
+3695,Nguni,Voiced bilabial nasal,m
+3696,Nguni,Voiced alveolar nasal,n
+3697,Nguni,Voiced velar nasal,ŋ
+3698,Nguni,Voiced palatal nasal,ɲ
+3699,Nguni,Voiceless bilabial plosive,p
+3700,Nguni,Voiced alveolar trill,r
+3701,Nguni,Voiceless alveolar fricative,s
+3702,Nguni,Voiceless postalveolar fricative,ʃ
+3703,Nguni,Voiceless alveolar plosive,t
+3704,Nguni,Voiceless alveolar affricate,ts
+3705,Nguni,Voiced labiodental fricative,v
+3706,Nguni,Voiced labial–velar approximant,w
+3707,Nguni,Voiceless velar fricative,x
+3708,Nguni,Voiced velar fricative,ɣ
+3709,Nguni,Voiced postalveolar fricative,ʒ
+3710,Nguni,Voiced alveolar fricative,z
+3711,Nguni,Glottal stop,ʔ
+3712,Nguni,Voiced dental click,ᶢǀ
+3713,Nguni,Voiced alveolar click,ᶢǃ
+3714,Yiddish,Voiced bilabial plosive,b
+3715,Yiddish,Voiced alveolar plosive,d
+3716,Yiddish,Voiced postalveolar affricate,dʒ
+3717,Yiddish,Voiceless labiodental fricative,f
+3718,Yiddish,Voiced velar plosive,ɡ
+3719,Yiddish,Voiceless glottal fricative,h
+3720,Yiddish,Voiced palatal approximant,j
+3721,Yiddish,Voiceless velar plosive,k
+3722,Yiddish,Voiced alveolar lateral approximant,l
+3723,Yiddish,Voiced palatal lateral approximant,ʎ
+3724,Yiddish,Voiced bilabial nasal,m
+3725,Yiddish,Voiced alveolar nasal,n
+3726,Yiddish,Voiced velar nasal,ŋ
+3727,Yiddish,Voiceless bilabial plosive,p
+3728,Yiddish,Voiced alveolar trill,r
+3729,Yiddish,Voiced uvular fricative,ʁ
+3730,Yiddish,Voiceless alveolar fricative,s
+3731,Yiddish,Voiceless postalveolar fricative,ʃ
+3732,Yiddish,Voiceless alveolar plosive,t
+3733,Yiddish,Voiceless postalveolar affricate,tʃ
+3734,Yiddish,Voiced labiodental fricative,v
+3735,Yiddish,Voiceless uvular fricative,χ
+3736,Yiddish,Voiced alveolar fricative,z
+3737,Yiddish,Voiced postalveolar fricative,ʒ
+3738,Yoruba,Voiced bilabial plosive,b
+3739,Yoruba,Voiced alveolar plosive,d
+3740,Yoruba,Voiceless labiodental fricative,f
+3741,Yoruba,Voiced velar plosive,ɡ
+3742,Yoruba,Voiceless glottal fricative,h
+3743,Yoruba,Voiced palatal approximant,j
+3744,Yoruba,Voiceless velar plosive,k
+3745,Yoruba,Voiced alveolar lateral approximant,l
+3746,Yoruba,Voiced bilabial nasal,m
+3747,Yoruba,Voiced alveolar nasal,n
+3748,Yoruba,Voiced dental and alveolar taps and flaps,ɾ
+3749,Yoruba,Voiceless alveolar fricative,s
+3750,Yoruba,Voiceless postalveolar fricative,ʃ
+3751,Yoruba,Voiceless alveolar plosive,t
+3752,Yoruba,Voiced labial–velar approximant,w
+3753,Zhuang,Voiced bilabial implosive,ɓ
+3754,Zhuang,Voiceless alveolo-palatal fricative,ɕ
+3755,Zhuang,Voiced alveolar implosive,ɗ
+3756,Zhuang,Voiceless labiodental fricative,f
+3757,Zhuang,Voiced velar fricative,ɣ
+3758,Zhuang,Voiceless glottal fricative,h
+3759,Zhuang,Voiced palatal approximant,j
+3760,Zhuang,Voiceless velar plosive,k
+3761,Zhuang,Voiced alveolar lateral approximant,l
+3762,Zhuang,Voiced bilabial nasal,m
+3763,Zhuang,Voiced alveolar nasal,n
+3764,Zhuang,Voiced palatal nasal,ɲ
+3765,Zhuang,Voiced velar nasal,ŋ
+3766,Zhuang,Voiceless bilabial plosive,p
+3767,Zhuang,Voiceless alveolar plosive,t
+3768,Zhuang,Voiceless dental fricative,θ
+3769,Zhuang,Voiced labial–velar approximant,w
+3770,Zhuang,Glottal stop,ʔ
+3771,Zhuang,Glottalization,ˀj
+3772,Zhuang,Glottalization,ˀw
+3773,Nguni,Voiced bilabial plosive,b
+3774,Nguni,Voiced bilabial implosive,ɓ
+3775,Nguni,Voiced alveolar plosive,d
+3776,Nguni,Voiced postalveolar affricate,dʒ
+3777,Nguni,Voiced alveolar affricate,dz
+3778,Nguni,Voiceless labiodental fricative,f
+3779,Nguni,Voiced velar plosive,ɡ
+3780,Nguni,Voiced velar implosive,ɠ
+3781,Nguni,Voiceless glottal fricative,h
+3782,Nguni,Voiced glottal fricative,ɦ
+3783,Nguni,Voiced palatal approximant,j
+3784,Nguni,Voiceless velar plosive,k
+3785,Nguni,Voiced alveolar lateral approximant,l
+3786,Nguni,Voiceless alveolar lateral fricative,ɬ
+3787,Nguni,Voiced alveolar lateral fricative,ɮ
+3788,Nguni,Voiced bilabial nasal,m
+3789,Nguni,Voiced alveolar nasal,n
+3790,Nguni,Voiced velar nasal,ŋ
+3791,Nguni,Voiced palatal nasal,ɲ
+3792,Nguni,Voiceless bilabial plosive,p
+3793,Nguni,Voiced alveolar trill,r
+3794,Nguni,Voiceless alveolar fricative,s
+3795,Nguni,Voiceless postalveolar fricative,ʃ
+3796,Nguni,Voiceless alveolar plosive,t
+3797,Nguni,Voiceless alveolar affricate,ts
+3798,Nguni,Voiced labiodental fricative,v
+3799,Nguni,Voiced labial–velar approximant,w
+3800,Nguni,Voiceless velar fricative,x
+3801,Nguni,Voiced velar fricative,ɣ
+3802,Nguni,Voiced postalveolar fricative,ʒ
+3803,Nguni,Voiced alveolar fricative,z
+3804,Nguni,Glottal stop,ʔ
+3805,Nguni,Voiced dental click,ᶢǀ
+3806,Nguni,Voiced alveolar click,ᶢǃ
