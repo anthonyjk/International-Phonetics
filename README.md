@@ -1,24 +1,9 @@
 # International-Phonetics
-Using Wikipedia IPA Data for various languages to find the most common phonemes.
+Using Python's urllib package to access Wikipedia IPA-Help pages to scrap consonant phoneme data and plotting the results!
 
-## Process
-Wikipedia has various pages labelled as IPA:Help for various languages. These IPA Pages contain the phonemes in each particular language.
+### Plots
+![cons_phoneme_count](https://github.com/user-attachments/assets/0707e9ff-f625-4b9b-a7c9-03f05da3c830)
 
-Using Python to scrape the data of specifically the phonetic consonants, it was cleaned and formatted into a CSV file.
+![manner_cons_phoneme_count](https://github.com/user-attachments/assets/7200259b-6809-42e8-8152-cd03834c29c4)
 
-The data in the CSV file was then read and used to create plots using R's ggplot package.
-
-### Results
-
-Pie Chart
-![Top Phonemes Wikipedia Data Rplot](https://github.com/anthonyjk/International-Phonetics/assets/41717689/be1f5e1d-5723-434d-a3f9-efde18bbea64)
-
-Bar Graph
-![commonest phonemes rPlot](https://github.com/anthonyjk/International-Phonetics/assets/41717689/2cfee6d5-6b93-4f88-a28d-1fde974516cf)
-
-### Notes
-Data is only about Phonetic Consonants, does not include Vowels.
-
-Data may not be 100% accurate (Scraping issues?)
-
-This project was just for fun and should not be seen as a valid source!
+Read the Jupyter Notebook to see the conclusions drawn from the plots!
